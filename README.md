@@ -6,11 +6,11 @@ In this repository, you will find the following three items:
      a. Population_Plots.ipynb: Procedures on how to generate population plots of all counties in California  
      b. Numerical_Study.ipynb: Procedures on how to generate the numerical study  
      c. Case_Study.ipynb: Procedures on how to jointly optimize the DRS policies and supply chain design for California Bottle Bill  
-3. Population Plots: Zipped file of all plots
-4. Public Data:  
+2. Public Data:  
      a. Census Block Group Data in 2022  
      b. Location of Recycling Centers in California  
-     c. Water Area in California  
+     c. Water Area in California
+     d. Population Plots: Zipped file of all plots
 
 
 We use the MIT License.
