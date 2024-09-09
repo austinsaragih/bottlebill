@@ -1,5 +1,5 @@
 # Spin the Bottle Bill
-Replication Code and Data for Numerical and Case Study of "Spin the Bottle Bill: Deposit-Refund System Policy and Reverse Supply Chain Design". The paper is available at SSRN (Link: https://ssrn.com/abstract=4950471)
+Replication Code and Data for Numerical and Case Study of "Spin the Bottle Bill: Deposit-Refund System Policy and Reverse Supply Chain Design". The paper is available at SSRN (Link: https://ssrn.com/abstract=4950471).
 
 
 In this repository, you will find the following three items:
