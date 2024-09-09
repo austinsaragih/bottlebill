@@ -16,7 +16,7 @@ In this repository, you will find the following three items:
 
 We use the MIT License.
 
-Should you use any of these items, please kindly cite our paper.
+Should you use any of these items, please kindly cite our paper:
 
 Saragih, A., Pontes, L., Amin, S., Fransoo, J. C.(2024). Spin the Bottle Bill: Deposit-Refund System Policy and Reverse Supply Chain Design. Available at SSRN 4950471.
 
