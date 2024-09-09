@@ -1,0 +1,1245 @@
+ID,recycling location name,address,city,zip,countyID,phone,full address,lat,lon
+1,American Recycling,15292 Liberty St,San Leandro,94578,06001,(408) 515-9661,"15292 Liberty St San Leandro, CA 94578",37.7074326,-122.1225176
+2,Dos Palos Recycling Co,1565 Olivina Ave,Livermore,94551,06001,(209) 518-4771,"1565 Olivina Ave Livermore, CA 94551",37.6826201,-121.7790726
+3,Fry's Metals,1845 W Winton Ave,Hayward,94545,06001,(510) 276-4344,"1845 W Winton Ave Hayward, CA 94545",37.6535320,-122.1268599
+4,J&D Recycling LLC,1015 N Amphlett Blvd,San Mateo,94401,06081,(650) 685-1901,"1015 N Amphlett Blvd San Mateo, CA 94401",37.5856084,-122.3313224
+5,Jado Recycling,39200 Paseo Padre Pkwy,Fremont,94538,06001,(855) 857-8020,"39200 Paseo Padre Pkwy Fremont, CA 94538",37.5538510,-121.9788878
+6,JADO Recycling,46 Fifth Ave,Redwood City,94063,06081,(855) 857-8020,"46 Fifth Ave Redwood City, CA 94063",37.4674758,-122.2077736
+7,Jado Recycling,523 S Shore Center W,Alameda,94501,06001,(855) 857-8020,"523 S Shore Center W Alameda, CA 94501",37.7595885,-122.2535532
+8,National Recycling Corp,1312 Kirkham St,Oakland,94607,06001,(510) 268-1022,"1312 Kirkham St Oakland, CA 94607",37.8098269,-122.2898306
+9,Olyns,810 Laurel St,San Carlos,94070,06081,(866) 472-6432,"810 Laurel St San Carlos, CA 94070",37.5032076,-122.2578981
+10,Olyns,24601 Mission Blvd,Hayward,94544,06001,(866) 472-6432,"24601 Mission Blvd Hayward, CA 94544",37.6625195,-122.0763765
+11,Refund Recycle Center LLC,2680 Old First St,Livermore,94550,06001,(925) 606-1435,"2680 Old First St Livermore, CA 94550",37.6854672,-121.7649161
+12,"Sanchez Cash For Cans, LLC",1468 44Th Ave,Oakland,94601,06001,(510) 261-2966,"1468 44Th Ave Oakland, CA 94601",37.7728610,-122.2129722
+13,Sunset Recycling Center,10790 Macarthur Blvd,Oakland,94605,06001,(818) 661-7387,"10790 Macarthur Blvd Oakland, CA 94605",37.7434141,-122.1486960
+14,The Buy Back,669 Gilman St,Berkeley,94710,06001,(510) 524-0113,"669 Gilman St Berkeley, CA 94710",37.8789959,-122.3051109
+15,Tri Ced Community Recycling,33377 Western Ave,Union City,94587,06001,(510) 471-3850,"33377 Western Ave Union City, CA 94587",37.5962513,-122.0341669
+16,South Tahoe Refuse Company Inc,2192 Ruth Ave,South Lake Tahoe,96150,06017,(530) 541-7526,"2192 Ruth Ave South Lake Tahoe, CA 96150",38.9192892,-120.0001283
+17,Cameron Park Buy Back Center,3350 Saratoga Ln,Cameron Park,95682,06017,(530) 626-4141,"3350 Saratoga Ln Cameron Park, CA 95682",38.6535998,-120.9666891
+18,El Dorado Disposal Service,580 Truck St,Placerville,95667,06017,(530) 626-4141,"580 Truck St Placerville, CA 95667",38.7026777,-120.8133953
+19,M & R Recycling LLC,12351 Martell Rd,Jackson,95642,06005,(209) 365-3299,"12351 Martell Rd Jackson, CA 95642",38.3664215,-120.7977131
+20,M & R Recycling LLC,313 Preston Ave,Ione,95640,06005,,"313 Preston Ave Ione, CA 95640",38.3526510,-120.9360057
+21,Valley Recycling Inc,19394 State Hwy 88,Pine Grove,95665,06005,(209) 772-9340,"19394 State Hwy 88 Pine Grove, CA 95665",38.4124671,-120.6668580
+22,Crown Metals LLC,4801 Feather River Blvd Unit 18,Oroville,95965,06007,(530) 533-7718,"4801 Feather River Blvd Unit 18 Oroville, CA 95965",39.4729293,-121.5715694
+23,Empire Steel Inc,1508 Parker Ave,Oroville,95965,06007,(530) 673-7180,"1508 Parker Ave Oroville, CA 95965",39.4987571,-121.5544609
+24,Guido's Recycling LLC,1364 Highway 99,Gridley,95948,06007,(530) 370-4541,"1364 Highway 99 Gridley, CA 95948",39.3546600,-121.6875202
+25,Guido's Recycling LLC,920 American Way,Paradise,95969,06007,(530) 370-4541,"920 American Way Paradise, CA 95969",39.7364355,-121.6102825
+26,IRecycle,434 Plumas Ave,Oroville,95965,06007,(661) 549-2158,"434 Plumas Ave Oroville, CA 95965",39.5199315,-121.5746944
+27,North San Juan Transfer Station,10125 Flume St,North San Juan,95960,06057,(530) 292-4340,"10125 Flume St North San Juan, CA 95960",39.3715029,-121.1066814
+28,Savior Earth Recycling,2680 S 5Th Ave Ste C,Oroville,95965,06007,(530) 519-0086,"2680 S 5Th Ave Ste C Oroville, CA 95965",39.4933096,-121.5660967
+29,Cal Sierra Recycling,14959 Camage Ave,Sonora,95370,06109,(209) 533-0445,"14959 Camage Ave Sonora, CA 95370",37.9625799,-120.3206471
+30,Sonora Recycling,18647 Eagle Ridge Dr,Sonora,95370,06109,(209) 536-4214,"18647 Eagle Ridge Dr Sonora, CA 95370",37.9608780,-120.3263552
+31,Valley Springs Recycling,494 N Main St,Angels Camp,95222,06009,(209) 772-9340,"494 N Main St Angels Camp, CA 95222",38.0864348,-120.5669888
+32,Valley Springs Recycling,148 Main St,Valley Springs,95252,06009,(209) 772-9340,"148 Main St Valley Springs, CA 95252",38.1909889,-120.8245674
+33,Rodriguez Recycling,1112 Main St,Colusa,95932,06011,(530) 988-6244,"1112 Main St Colusa, CA 95932",39.2166199,-122.0165039
+34,American Iron & Metals,1050 Brookside Dr,Richmond,94801,06013,(510) 233-0440,"1050 Brookside Dr Richmond, CA 94801",37.9631306,-122.3580499
+35,BottleBank,250 13Th St,San Francisco,94103,06075,(833) 732-6885,"250 13Th St San Francisco, CA 94103",37.7701080,-122.4182174
+36,Bottlebank,2020 Market St.,San Francisco,94114,06075,(833) 732-6885,"2020 Market St. San Francisco, CA 94114",37.7688487,-122.4279242
+37,Bottlebank,1245 S Van Ness Ave,San Francisco,94110,06075,(833) 732-6885,"1245 S Van Ness Ave San Francisco, CA 94110",37.7530915,-122.4159773
+38,Bottlebank,145 Jackson St,San Francisco,94111,06075,(833) 732-6885,"145 Jackson St San Francisco, CA 94111",37.7969160,-122.3986313
+39,Bottlebank,3350 Mission St,San Francisco,94110,06075,(833) 732-6885,"3350 Mission St San Francisco, CA 94110",37.7432206,-122.4224290
+40,Bottlebank,1765 California St,San Francisco,94109,06075,(833) 732-6885,"1765 California St San Francisco, CA 94109",37.7899512,-122.4231006
+41,Delta Scrap and Salvage Inc,1371 Main St,Oakley,94561,06013,(925) 754-1474,"1371 Main St Oakley, CA 94561",38.0044283,-121.7433948
+42,J L Recycling,3912 Delta Fair Blvd,Antioch,94509,06013,(916) 459-0814,"3912 Delta Fair Blvd Antioch, CA 94509",38.0034293,-121.8462354
+43,JL Recycling,1725 Cavallo Rd,Antioch,94509,06013,(916) 459-0814,"1725 Cavallo Rd Antioch, CA 94509",38.0053741,-121.7964814
+44,Our Planet Recycling SF,445V Bayshore Blvd,San Francisco,94124,06075,(415) 866-6102,"445V Bayshore Blvd San Francisco, CA 94124",37.7383515,-122.4073489
+45,Our Planet Recycling SF LLC,445V Bayshore Blvd,San Francisco,94124,06075,(415) 866-6102,"445V Bayshore Blvd San Francisco, CA 94124",37.7383515,-122.4073489
+46,Pacific Recycling,301 4Th St,Richmond,94801,06013,(916) 583-3301,"301 4Th St Richmond, CA 94801",37.9359172,-122.3659829
+47,Pacific Recycling,14301 San Pablo Ave,San Pablo,94806,06013,(916) 583-3301,"14301 San Pablo Ave San Pablo, CA 94806",37.9645932,-122.3455061
+48,Pavels Recycling LLC,3600 Lone Tree Way,Antioch,94509,06013,(916) 621-0354,"3600 Lone Tree Way Antioch, CA 94509",37.9865930,-121.8074240
+49,Pleasant Hill Recycling Center,1320 Galaxy Way,Concord,94520,06013,(925) 689-3900,"1320 Galaxy Way Concord, CA 94520",37.9762911,-122.0496961
+50,Recycling Zone Inc,3300 Pacheco Blvd,Martinez,94553,06013,(925) 216-8640,"3300 Pacheco Blvd Martinez, CA 94553",38.0119296,-122.1093622
+51,Recycling Zone Inc,181A Clark Ave,Pittsburg,94565,06013,(707) 437-1301,"181A Clark Ave Pittsburg, CA 94565",38.0143313,-121.8869899
+52,Sun's Pad & Foam Recycling,108 Medburn St B1,Concord,94520,06013,(925) 246-7990,"108 Medburn St B1 Concord, CA 94520",38.0214903,-122.0266023
+53,Sunset Recycling Center,345 Williams Ave,San Francisco,94124,06075,(818) 661-7387,"345 Williams Ave San Francisco, CA 94124",37.7297940,-122.3988452
+54,VALCORE Recycling,38 Sheridan St,Vallejo,94590,06095,(707) 645-8258,"38 Sheridan St Vallejo, CA 94590",38.0957792,-122.2465446
+55,West Resource Recovery,101 Pittsburg Ave,Richmond,94801,06013,(510) 231-4203,"101 Pittsburg Ave Richmond, CA 94801",37.9626757,-122.3681525
+56,Hambro Recycling,445 Elk Valley Rd,Crescent City,95531,06015,(707) 464-6131,"445 Elk Valley Rd Crescent City, CA 95531",41.7534926,-124.1753086
+57,Auburn Recycling & Scrap Metals Inc,350 Sacramento St,Auburn,95603,06061,(530) 889-2267,"350 Sacramento St Auburn, CA 95603",38.8877125,-121.0764706
+58,El Dorado Disposal,4421 Latrobe Road,El Dorado Hills,95762,06017,(530) 626-4141,"4421 Latrobe Road El Dorado Hills, CA 95762",38.6402296,-121.0638642
+59,J L Recycling,13384 Lincoln Way,Auburn,94063,06061,(916) 459-0814,"13384 Lincoln Way Auburn, CA 94063",38.9240428,-121.0540688
+60,Town Clean Recycle Center,3907 Missouri Flat Rd,Placerville,95667,06017,(775) 223-9216,"3907 Missouri Flat Rd Placerville, CA 95667",38.7140683,-120.8422228
+61,Town Clean Recycle Center,1600 Broadway,Placerville,95667,06017,(775) 223-9216,"1600 Broadway Placerville, CA 95667",38.7330898,-120.7723098
+62,Town Clean Recycle Center,6049 Front St,Georgetown,95634,06017,(775) 223-9216,"6049 Front St Georgetown, CA 95634",38.9094101,-120.8517786
+63,A & S Metals,2901 N Highway 59,Merced,95348,06047,(209) 722-7527,"2901 N Highway 59 Merced, CA 95348",37.3168035,-120.5058373
+64,A & S Metals,644 E Olive Ave,Madera,93638,06039,(831) 633-3379,"644 E Olive Ave Madera, CA 93638",36.9523935,-120.0482023
+65,A & S Metals Inc,2510 Technology Dr,Los Banos,93635,06047,(209) 829-1943,"2510 Technology Dr Los Banos, CA 93635",37.0549084,-120.8172323
+66,A 1 Recycling,21282 S Marks Ave,Riverdale,93656,06019,(559) 309-1001,"21282 S Marks Ave Riverdale, CA 93656",36.4268301,-119.8505226
+67,AAA Recycling,875 Atwater Blvd,Atwater,95301,06047,(209) 261-3545,"875 Atwater Blvd Atwater, CA 95301",37.3451634,-120.6062003
+68,AAA Recycling,16385 W Schendel Ave,Delhi,95315,06047,(209) 261-3545,"16385 W Schendel Ave Delhi, CA 95315",37.4259455,-120.7844734
+69,AAA Recycling,242 N Main St,Livingston,95334,06047,(209) 261-3545,"242 N Main St Livingston, CA 95334",37.3887575,-120.7208549
+70,AAA Recycling LLC,455 W 15Th St,Merced,95340,06047,(209) 261-3545,"455 W 15Th St Merced, CA 95340",37.2992165,-120.4839545
+71,AD Recycling Kingsburg,909 Sierra St,Kingsburg,93631,06019,(559) 696-6349,"909 Sierra St Kingsburg, CA 93631",36.5190977,-119.5588017
+72,Al's Uhaul and Propane,100 S 19 1/2 Ave,Lemoore,93245,06031,(559) 924-0345,"100 S 19 1/2 Ave Lemoore, CA 93245",36.2972136,-119.8074336
+73,Aleman Recycling,9168 Avenue 416,Dinuba,93618,06107,(559) 726-9773,"9168 Avenue 416 Dinuba, CA 93618",36.5459740,-119.3685570
+74,Alfa Recycling Co,772 W Inyo Ave,Tulare,93274,06107,(408) 464-2346,"772 W Inyo Ave Tulare, CA 93274",36.2039299,-119.3578822
+75,Allan Co,2607 E Woodward St,Fresno,93721,06019,(559) 264-4805,"2607 E Woodward St Fresno, CA 93721",36.7227958,-119.7801391
+76,Allan Co,2525 S Sunland Ave,Fresno,93725,06019,(559) 264-4804,"2525 S Sunland Ave Fresno, CA 93725",36.7111933,-119.7668994
+77,American Recycling,6981 Winton Way,Winton,95388,06047,(209) 947-0477,"6981 Winton Way Winton, CA 95388",37.3889343,-120.6138259
+78,Andrade Recycling,19847 Orange Belt Dr,Strathmore,93267,06107,(559) 719-9987,"19847 Orange Belt Dr Strathmore, CA 93267",36.1497468,-119.0627841
+79,Ashley Recycling,24117 Avenue 9,Madera,93637,06039,(559) 718-9455,"24117 Avenue 9 Madera, CA 93637",36.8805245,-120.1099826
+80,Bairos Recycling Inc,2788 S Orange Ave,Fresno,93725,06019,(559) 233-0922,"2788 S Orange Ave Fresno, CA 93725",36.7000069,-119.7662017
+81,BC Recycling Inc,1043 E Houston Ave,Visalia,93292,06107,(559) 735-9200,"1043 E Houston Ave Visalia, CA 93292",36.3414004,-119.2811728
+82,BC Recycling Inc,250 E Antelope Ave,Woodlake,93286,06107,(559) 735-9200,"250 E Antelope Ave Woodlake, CA 93286",36.4165131,-119.0968074
+83,BC Recycling Inc,1357 S K St,Tulare,93274,06107,(559) 735-9200,"1357 S K St Tulare, CA 93274",36.1935203,-119.3433195
+84,BC Recycling Inc,5201 W Goshen Ave,Visalia,93291,06107,(559) 735-9200,"5201 W Goshen Ave Visalia, CA 93291",36.3399777,-119.3488090
+85,Belen's Recycling,796 Fresno St,Parlier,93648,06019,(559) 481-3330,"796 Fresno St Parlier, CA 93648",36.6110900,-119.5295540
+86,Belen's Recycling,13639 E Manning Ave,Parlier,93648-9743,06019,(559) 481-3330,"13639 E Manning Ave Parlier, CA 93648-9743",36.6038875,-119.5465118
+87,Boomerang Recycling Center,187 W Olive Ave,Porterville,93257,06107,(559) 781-7124,"187 W Olive Ave Porterville, CA 93257",36.0643102,-119.0209160
+88,Browns Supply Inc,219 Wye Rd,Bishop,93514,06027,(760) 872-6911,"219 Wye Rd Bishop, CA 93514",37.3764910,-118.3931952
+89,Brunos Iron and Metal LP,3211 S Golden State Blvd,Fresno,93725,06019,(559) 233-6543,"3211 S Golden State Blvd Fresno, CA 93725",36.6881303,-119.7480330
+90,Buy Back Inc,1405 W Shields Ave,Fresno,93705,06019,(559) 706-2096,"1405 W Shields Ave Fresno, CA 93705",36.7788093,-119.8277474
+91,C & T Recycling,605 E Date Ave,Porterville,93257,06107,(559) 359-3222,"605 E Date Ave Porterville, CA 93257",36.0583063,-119.0036014
+92,Cal State Recycling,104 N 11Th Ave,Hanford,93230,06031,(559) 871-0184,"104 N 11Th Ave Hanford, CA 93230",36.3242455,-119.6556318
+93,California Recycling Center,1642 Elgin Ave,Dos Palos,93620,06047,(559) 871-8329,"1642 Elgin Ave Dos Palos, CA 93620",36.9845605,-120.6366181
+94,Calstate Recycling Inc,64 Visalia St,Hanford,93230,06031,(559) 975-3634,"64 Visalia St Hanford, CA 93230",36.3282870,-119.6398217
+95,Calwa Recycling,4545 E Church Ave,Fresno,93725,06019,(559) 824-5996,"4545 E Church Ave Fresno, CA 93725",36.7155093,-119.7496888
+96,Carlos & Porfirio Recycling,857 Skyline Blvd,Avenal,93204,06031,(559) 410-0910,"857 Skyline Blvd Avenal, CA 93204",36.0067181,-120.1246011
+97,Central Valley Recycling,1367 Marion St,Kingsburg,93631,06019,(559) 305-9337,"1367 Marion St Kingsburg, CA 93631",36.5130113,-119.5514512
+98,Clovis Recycling,1059 Hoblitt Ave,Clovis,93612,06019,(559) 299-8807,"1059 Hoblitt Ave Clovis, CA 93612",36.8148195,-119.6952982
+99,Clovis Recycling Center,710 Jefferson Ave,Clovis,93612,06019,(559) 299-7485,"710 Jefferson Ave Clovis, CA 93612",36.8171975,-119.6992762
+100,Cornerstone Industries Recycling #1,13747 6Th St,Armona,93202,06031,(559) 583-2033,"13747 6Th St Armona, CA 93202",36.3150578,-119.7047374
+101,Cornerstone Industries Recycling #2,11360 S 10Th Ave,Hanford,93230,06031,(559) 583-2033,"11360 S 10Th Ave Hanford, CA 93230",36.3082496,-119.6372949
+102,Cosecha Recycling,1397 E Springville Ave,Porterville,93257,06107,(559) 793-6712,"1397 E Springville Ave Porterville, CA 93257",36.0545554,-118.9863790
+103,Cosecha Recycling #2,1091 W Olive Ave,Porterville,93257,06107,(559) 791-1354,"1091 W Olive Ave Porterville, CA 93257",36.0648315,-119.0416228
+104,Curbside Recycling,4825 E Olive Ave,Fresno,93727,06019,(559) 718-3690,"4825 E Olive Ave Fresno, CA 93727",36.7585226,-119.7349125
+105,Dayanara's Recycling Center,1805 Dairy Ave,Corcoran,93638,06031,(559) 474-6720,"1805 Dairy Ave Corcoran, CA 93638",36.0904726,-119.5715277
+106,Dinuba Mini Mart Recycling,10014 S Alta Ave,Reedley,93654,06019,(559) 723-0104,"10014 S Alta Ave Reedley, CA 93654",36.5891971,-119.3947131
+107,Dinuba Recycle Center,267 S Uruapan Way,Dinuba,93618,06107,(559) 596-1082,"267 S Uruapan Way Dinuba, CA 93618",36.5374553,-119.3906130
+108,Discount General Merchandise,370 B St,Fresno,93636,06019,(559) 706-6399,"370 B St Fresno, CA 93636",36.7216413,-119.7921454
+109,DMR Recycling,1461 N St,Firebaugh,93622,06019,(559) 903-8052,"1461 N St Firebaugh, CA 93622",36.8546570,-120.4533494
+110,El Toro Iron & Metal Recycling,17641 Road 24,Madera,93638,06039,(559) 598-3429,"17641 Road 24 Madera, CA 93638",37.0062770,-120.1098300
+111,EOC Local Conservation Corps Recycling at Friant Trading Post,17108 N Friant Rd,Friant,93626,06019,(510) 304-1435,"17108 N Friant Rd Friant, CA 93626",36.9829630,-119.7155489
+112,Evas Recycling,4386 W Shields Ave,Fresno,93722,06019,(559) 519-8107,"4386 W Shields Ave Fresno, CA 93722",36.7793616,-119.8703817
+113,Evergreen Recycling Co,2411 N Dinuba Blvd,Visalia,93291,06107,(559) 623-1090,"2411 N Dinuba Blvd Visalia, CA 93291",36.3511027,-119.2976581
+114,Exeter Community Recycling Center,314 W Firebaugh Ave,Exeter,93221,06107,(559) 756-4135,"314 W Firebaugh Ave Exeter, CA 93221",36.2896974,-119.1421566
+115,F & T Recycling,29424 Auberry Rd,Prather,93651,06019,(559) 299-8807,"29424 Auberry Rd Prather, CA 93651",37.0370138,-119.5172057
+116,Fresno Recycling,1701 S Orange Ave,Fresno,93702,06019,(559) 264-6303,"1701 S Orange Ave Fresno, CA 93702",36.7256472,-119.7631985
+117,GL Perez Inc,625 N Gateway Dr,Madera,93638,06039,(559) 416-7687,"625 N Gateway Dr Madera, CA 93638",36.9665942,-120.0658603
+118,Gomez Recycling,517 S Main St,Pixley,93256,06107,(559) 920-0423,"517 S Main St Pixley, CA 93256",35.9684189,-119.2935187
+119,I Buy Recycling,3232 E Ventura Ave,Fresno,93702,06019,(559) 706-4106,"3232 E Ventura Ave Fresno, CA 93702",36.7352084,-119.7703136
+120,J J Recycling,23519 Robertson Blvd,Chowchilla,93610,06039,(559) 975-9680,"23519 Robertson Blvd Chowchilla, CA 93610",37.0908680,-120.2905259
+121,J L Recycle Center,40344 Road 128,Cutler,93615,06107,(559) 528-3019,"40344 Road 128 Cutler, CA 93615",36.5222152,-119.2863458
+122,Jerry & Willie's Recycling,40091 Enterprise Dr Ste F,Oakhurst,93644,06039,(559) 642-6444,"40091 Enterprise Dr Ste F Oakhurst, CA 93644",37.3313681,-119.6617742
+123,Jesus Facility #2,12511 W G St,Biola,93606,06019,(559) 430-4096,"12511 W G St Biola, CA 93606",36.8018602,-120.0167868
+124,Jorge Pereyra Recycling,1825 Academy Ave,Sanger,93657,06019,(916) 436-6117,"1825 Academy Ave Sanger, CA 93657",36.6915441,-119.5558086
+125,Joyee's Recycling,1107 N Lake St,Madera,93638,06039,(559) 514-0291,"1107 N Lake St Madera, CA 93638",36.9748787,-120.0557237
+126,Joyee's Recycling,140 N Chowchilla Blvd,Chowchilla,93610,06039,(559) 514-0291,"140 N Chowchilla Blvd Chowchilla, CA 93610",37.1261278,-120.2577575
+127,K & A Recycling,23609 Pepper Ave,Terra Bella,93270,06107,(559) 202-6624,"23609 Pepper Ave Terra Bella, CA 93270",35.9591340,-119.0436463
+128,KBJ Recycling,325 L St,Sanger,93657,06019,(559) 281-5501,"325 L St Sanger, CA 93657",36.7109600,-119.5555429
+129,Kings Recycling,345 N 19Th Ave,Lemoore,93245,06031,(559) 904-8439,"345 N 19Th Ave Lemoore, CA 93245",36.3018831,-119.7993821
+130,Kings Recycling,1798 N 10Th Ave,Hanford,93230,06031,(559) 232-7918,"1798 N 10Th Ave Hanford, CA 93230",36.3434054,-119.6373695
+131,Kings View Recycling Center,100 Air Park Rd,Atwater,95301,06047,(209) 358-7228,"100 Air Park Rd Atwater, CA 95301",37.3340833,-120.5993071
+132,La Mejor Inc,684 S Farmersville Blvd,Farmersville,93223,06107,(559) 901-1559,"684 S Farmersville Blvd Farmersville, CA 93223",36.2925753,-119.2067873
+133,Libert Recycle Center,35442 Hwy 41 Ste B,Coarsegold,93614,06039,(559) 683-5447,"35442 Hwy 41 Ste B Coarsegold, CA 93614",37.2639816,-119.6929978
+134,Lighthouse Rescue Mission Recycling,49 W Tulare Ave,Tulare,93274,06107,(559) 530-3740,"49 W Tulare Ave Tulare, CA 93274",36.2069103,-119.3476274
+135,Los Botis Recycling,1217 9Th St,Sanger,93657,06019,(559) 694-1204,"1217 9Th St Sanger, CA 93657",36.7038767,-119.5542105
+136,Los Botis Recycling #2,5789 Anthony Ave,Tranquility,93668,06019,(559) 694-1204,"5789 Anthony Ave Tranquility, CA 93668",36.6497816,-120.2525234
+137,LTS Recycling,21727 W Manning Ave,San Joaquin,93660,06019,(559) 790-6056,"21727 W Manning Ave San Joaquin, CA 93660",36.6027561,-120.1837468
+138,Manor Market,3100 W Line St,Bishop,93514,06027,(760) 873-4296,"3100 W Line St Bishop, CA 93514",37.3607468,-118.4367625
+139,Mariposa Landfill Recycling Center,5593 Highway 49 N,Mariposa,95338,06043,(209) 966-5165,"5593 Highway 49 N Mariposa, CA 95338",37.5053296,-120.0047699
+140,MAS Recycling,774 W Olive Ave,Porterville,93257,06107,(559) 781-9481,"774 W Olive Ave Porterville, CA 93257",36.0663633,-119.0346835
+141,Mid Valley Recycling,9900 Stephens St,Delhi,95315,06047,(559) 706-3973,"9900 Stephens St Delhi, CA 95315",37.4327053,-120.7788835
+142,Mid Valley Recycling,985 E Manning Ave,Reedley,93654,06019,(559) 706-3973,"985 E Manning Ave Reedley, CA 93654",36.6029549,-119.4595174
+143,Molina's Recycling,1218 G St,Los Banos,93635,06047,(209) 829-9189,"1218 G St Los Banos, CA 93635",37.0604028,-120.8369725
+144,Mondragon Recycling Center,12944 S Elm Ave,Caruthers,93609,06019,(559) 706-4930,"12944 S Elm Ave Caruthers, CA 93609",36.5479194,-119.7905084
+145,Mondragon Recycling Center,5688 S Elm Ave,Fresno,93706,06019,(559) 706-4930,"5688 S Elm Ave Fresno, CA 93706",36.6529634,-119.7906249
+146,Morales Recycling Center,32792 Road 124,Visalia,93291,06107,(559) 690-1182,"32792 Road 124 Visalia, CA 93291",36.3852716,-119.2964170
+147,Osornio's Recycling Center,647 W El Monte Way #F,Dinuba,93618,06107,(559) 871-2667,"647 W El Monte Way #F Dinuba, CA 93618",36.5463448,-119.4007453
+148,Paradise Recycling LLC,191 S Main St,Porterville,93257,06107,,"191 S Main St Porterville, CA 93257",36.0620292,-119.0166754
+149,Penas Recycling Center,12094 Avenue 408,Cutler,93615,06107,(559) 528-1661,"12094 Avenue 408 Cutler, CA 93615",36.5310059,-119.3035895
+150,Perez Recycling II,17068 Rd 26,Madera,93638,06039,(559) 681-1342,"17068 Rd 26 Madera, CA 93638",36.9972426,-120.0747986
+151,Planet X Recycling,9075 E Hwy 140,Planada,95365,06047,(209) 410-8544,"9075 E Hwy 140 Planada, CA 95365",37.2950981,-120.3234380
+152,Quezada Recycling Center,705 W H St,Los Banos,93635,06047,(559) 430-7757,"705 W H St Los Banos, CA 93635",37.0674724,-120.8599064
+153,Quiroz Recycling,2507 Nebraska Ave,Selma,93662,06019,(559) 856-4892,"2507 Nebraska Ave Selma, CA 93662",36.5612762,-119.6202614
+154,R R Recycling,316 E Kings St,Avenal,93204,06031,(805) 296-2286,"316 E Kings St Avenal, CA 93204",36.0023075,-120.1340568
+155,Radius Recycling,2727 S Chestnut Ave,Fresno,93725,06019,(559) 233-3211x1508725,"2727 S Chestnut Ave Fresno, CA 93725",36.7015402,-119.7350030
+156,Ramirez Recycling,737 S Lovers Ln,Visalia,93277,06107,(559) 623-3257,"737 S Lovers Ln Visalia, CA 93277",36.3239562,-119.2623783
+157,Ramirez Recycling Center,32757 Rd 160,Ivanhoe,93235,06107,(559) 623-3257,"32757 Rd 160 Ivanhoe, CA 93235",36.3842653,-119.2156106
+158,Ramirez Recycling Center,940 Park Blvd,Orange Cove,93646,06019,(559) 623-3257,"940 Park Blvd Orange Cove, CA 93646",36.6248519,-119.3171023
+159,RB Recycling,1280 North H St,Tulare,93274,06107,(559) 991-8971,"1280 North H St Tulare, CA 93274",36.2253317,-119.3529072
+160,RB Recycling,555 W Visalia Rd,Exeter,93221,06107,(559) 799-9513,"555 W Visalia Rd Exeter, CA 93221",36.2975020,-119.1494051
+161,RB Recycling,115 S West St,Tulare,93274,06107,(559) 799-9513,"115 S West St Tulare, CA 93274",36.2058771,-119.3691321
+162,RB Recycling,260 N Highway 65,Lindsay,93247,06107,(559) 799-9513,"260 N Highway 65 Lindsay, CA 93247",36.2022305,-119.1013391
+163,RB Recycling,1845 W Tulare Ave,Tulare,93274,06107,(559) 799-9513,"1845 W Tulare Ave Tulare, CA 93274",36.2093322,-119.3730756
+164,RB Recycling,765 N Harvard Ave,Lindsay,93247,06107,(559) 799-9513,"765 N Harvard Ave Lindsay, CA 93247",36.2120849,-119.0835855
+165,RC Recycling,36240 Lassen Ave,Huron,93234,06019,(559) 772-9950,"36240 Lassen Ave Huron, CA 93234",36.2068717,-120.1031327
+166,RC Recycling,14433 Road 192,Porterville,93257,06107,(559) 756-2967,"14433 Road 192 Porterville, CA 93257",36.0518529,-119.1434006
+167,Recycle OXBA,3053 E Shields Ave,Fresno,93726,06019,(559) 673-6463,"3053 E Shields Ave Fresno, CA 93726",36.7810951,-119.7739084
+168,Recycle Transfer Reuse Recyco Inc,4585 E Olive Ave,Fresno,93702,06019,(650) 634-8449,"4585 E Olive Ave Fresno, CA 93702",36.7581530,-119.7465002
+169,Recycling Cabrera,700 S Plano St,Porterville,93257,06107,(559) 789-2961,"700 S Plano St Porterville, CA 93257",36.0797407,-119.0104068
+170,Recycling of Reedley,640 E Dinuba Ave,Reedley,93654,06019,(559) 317-1659,"640 E Dinuba Ave Reedley, CA 93654",36.5900956,-119.4428591
+171,Recycling of Reedley,920 N Alta Ave,Dinuba,93618,06107,(310) 474-6177,"920 N Alta Ave Dinuba, CA 93618",36.5532788,-119.3947832
+172,Rios Recycling,452 Naples St,Mendota,93640,06019,(559) 647-4449,"452 Naples St Mendota, CA 93640",36.7577291,-120.3818468
+173,Rios Recycling,1639 N St,Firebaugh,93622,06019,(559) 647-4449,"1639 N St Firebaugh, CA 93622",36.8521454,-120.4513049
+174,Rios Recycling,105 Baker St,Coalinga,93210,06019,(559) 647-4449,"105 Baker St Coalinga, CA 93210",36.1449212,-120.3546529
+175,Salinas Recycling,2965 Whitson St,Selma,93662,06019,(559) 513-3162,"2965 Whitson St Selma, CA 93662",36.5773614,-119.6261243
+176,Salinas Recycling,3706 Mccall Ave,Selma,93662,06019,,"3706 Mccall Ave Selma, CA 93662",36.5878191,-119.6096632
+177,Salinas Recycling,1368 Church St,Sanger,93657,06019,(559) 213-5449,"1368 Church St Sanger, CA 93657",36.7080060,-119.5559652
+178,Sanchez Recycle LLC,22012 E Manning Ave,Reedley,93654,06019,(559) 593-3088,"22012 E Manning Ave Reedley, CA 93654",36.6057119,-119.3936380
+179,Sanchez Recycle LLC,850 I St,Reedley,93654,06019,(559) 593-3088,"850 I St Reedley, CA 93654",36.5973594,-119.4551329
+180,Sandoval Recycling,5471 7Th St,Keyes,95328,06099,(209) 984-6157,"5471 7Th St Keyes, CA 95328",37.5556772,-120.9147294
+181,Sandoval Recycling,954 W Main St,Turlock,95380,06099,(209) 984-6157,"954 W Main St Turlock, CA 95380",37.4923961,-120.8599627
+182,Skee's Recycling,4628 E Thomas Ave,Fresno,93702,06019,(559) 255-8355,"4628 E Thomas Ave Fresno, CA 93702",36.7529250,-119.7444443
+183,Super Recycling,12400 Avenue 416,Orosi,93647,06107,(559) 696-6349,"12400 Avenue 416 Orosi, CA 93647",36.5450698,-119.2956876
+184,Tollhouse,1427 Tollhouse Rd,Clovis,93611,06019,(559) 706-6399,"1427 Tollhouse Rd Clovis, CA 93611",36.8267495,-119.6906896
+185,Turlock Go Green,1600 Mccormick St,Turlock,95380,06099,(209) 667-7766,"1600 Mccormick St Turlock, CA 95380",37.5075082,-120.8655886
+186,Turlock Recycling,1020 S Walnut Rd,Turlock,95380,06099,(209) 668-6060,"1020 S Walnut Rd Turlock, CA 95380",37.4834031,-120.8659601
+187,Universal Service Recycling Merced Inc,450 N Tower Rd,Merced,95340,06047,(209) 944-9555,"450 N Tower Rd Merced, CA 95340",37.2943535,-120.4040082
+188,Valdez Recycling Center,125 N Thompson Rd #3,Tipton,93272,06107,(213) 512-9265,"125 N Thompson Rd #3 Tipton, CA 93272",36.0596589,-119.3113877
+189,Valley Wide Recycling,1502 E Yosemite Ave,Madera,93638,06039,(559) 473-7112,"1502 E Yosemite Ave Madera, CA 93638",36.9730595,-120.0421042
+190,Valley Wide Recycling,37357 Avenue 12,Madera,93636,06039,(559) 790-4991,"37357 Avenue 12 Madera, CA 93636",36.9236764,-119.8694633
+191,X-Change Recycling,2664 Jensen Ave,Sanger,93657,06019,(559) 479-0735,"2664 Jensen Ave Sanger, CA 93657",36.7078343,-119.5757403
+192,Richfield Metal & Recycling,123 S Butte St,Willows,95988,06021,(530) 988-3033,"123 S Butte St Willows, CA 95988",39.5199572,-122.1955790
+193,Richfield Metal Recycling,532 4Th St,Orland,95963,06021,(530) 988-3033,"532 4Th St Orland, CA 95963",39.7486399,-122.1944905
+194,Willows Kiwanis Recycling Center,490 S Tehama St,Willows,95988,06021,(530) 934-8841,"490 S Tehama St Willows, CA 95988",39.5155791,-122.1934605
+195,Hambro Recycling,420 S G St,Arcata,95521,06023,(707) 951-6203,"420 S G St Arcata, CA 95521",40.8579715,-124.0893371
+196,Hambro Recycling,3320 Redwood Dr,Redway,95560,06023,(707) 954-3418,"3320 Redwood Dr Redway, CA 95560",40.1186890,-123.8221890
+197,Hambro Recycling,591 Main St Ste E,Fortuna,95540,06023,(707) 954-3418,"591 Main St Ste E Fortuna, CA 95540",40.5982892,-124.1616727
+198,Hambro Recycling,75 Mayfair Street,Willow Creek,95573,06023,707-954-3418,"75 Mayfair Street Willow Creek, CA 95573",40.9402059,-123.6299489
+199,Cal Pac Recycling,703 Emerson Ave,Calexico,92231,06025,(760) 768-3236,"703 Emerson Ave Calexico, CA 92231",32.6722001,-115.5002289
+200,SA Recycling,460 E Holton Rd,El Centro,92243,06025,(760) 352-2630,"460 E Holton Rd El Centro, CA 92243",32.8028957,-115.4951958
+201,SoCal Recycling,220 E Barioni Blvd,Imperial,92251,06025,(760) 497-6626,"220 E Barioni Blvd Imperial, CA 92251",32.8472116,-115.5679060
+202,SoCal Recycling,428 Walnut Ave,Holtville,92250,06025,(760) 497-6626,"428 Walnut Ave Holtville, CA 92250",32.8097833,-115.3761285
+203,A&C Recycling Center,220 China Grade Loop,Bakersfield,93308,06029,(631) 506-6060,"220 China Grade Loop Bakersfield, CA 93308",35.4272311,-119.0189149
+204,Ace Metals Recycling Center,1126 A Ward Ave,Ridgecrest,93555,06029,(760) 472-1887,"1126 A Ward Ave Ridgecrest, CA 93555",35.6447564,-117.6930517
+205,Aguirre Recycling Center,9545 S Union Ave,Bakersfield,93307,06029,(661) 426-3011,"9545 S Union Ave Bakersfield, CA 93307",35.2676220,-119.0035736
+206,Alexis Recycling,14055 Rosedale Hwy,Bakersfield,93314,06029,(323) 842-1028,"14055 Rosedale Hwy Bakersfield, CA 93314",35.3832354,-119.1587320
+207,Annabella Recycling,630 Monterey Trail,Frazier Park,93225,06029,(661) 979-8845,"630 Monterey Trail Frazier Park, CA 93225",34.8220549,-118.9448019
+208,B-Eco Recycling,2715 Weedpatch Hwy,Bakersfield,93307,06029,(661) 348-8101,"2715 Weedpatch Hwy Bakersfield, CA 93307",35.3302080,-118.9140349
+209,Big Dogz Recycling Center,522 High St,Delano,93215,06029,(661) 778-7427,"522 High St Delano, CA 93215",35.7632831,-119.2454293
+210,BRS Inc,2710 O St,Bakersfield,93301,06029,(661) 437-1211,"2710 O St Bakersfield, CA 93301",35.3842683,-119.0126985
+211,C & J Recycling,2697 Mt Vernon Ave,Bakersfield,93306,06029,(661) 588-0091,"2697 Mt Vernon Ave Bakersfield, CA 93306",35.3968812,-118.9670717
+212,C & J Recycling,4200 Ming Ave,Bakersfield,93309,06029,(661) 588-0091,"4200 Ming Ave Bakersfield, CA 93309",35.3401801,-119.0499362
+213,C & J Recycling,8200 Stockdale Hwy,Bakersfield,93311,06029,(661) 588-0091,"8200 Stockdale Hwy Bakersfield, CA 93311",35.3556172,-119.0934994
+214,CGenesis Recycling,2660 Diamond St,Rosamond,93560,06029,(661) 733-3452,"2660 Diamond St Rosamond, CA 93560",34.8597511,-118.1636144
+215,Clean the Ocean Recycling Inc,1230 Pearl St,Bakersfield,93305,06029,(661) 565-7941,"1230 Pearl St Bakersfield, CA 93305",35.3885209,-118.9789375
+216,Clean the Ocean Recycling Inc,1324 Flower St,Bakersfield,93305,06029,(661) 565-7941,"1324 Flower St Bakersfield, CA 93305",35.3841079,-118.9789413
+217,Clean the Ocean Recycling Inc,2425 River Blvd,Bakersfield,93305,06029,(661) 565-7941,"2425 River Blvd Bakersfield, CA 93305",35.3955677,-118.9849420
+218,Corralva Recycling,3221 Niles St,Bakersfield,93306,06029,(661) 363-5737,"3221 Niles St Bakersfield, CA 93306",35.3757126,-118.9456266
+219,CTL Recycling Center LLC,400 W Perkins Ave,Mcfarland,93250,06029,(661) 444-4175,"400 W Perkins Ave Mcfarland, CA 93250",35.6825006,-119.2327092
+220,CTL Recycling Center LLC,1757 Cecil Ave,Delano,93215,06029,(661) 444-4175,"1757 Cecil Ave Delano, CA 93215",35.7762646,-119.2324805
+221,Dave Pearson's Recycling Center,1536 N Mahan St Ste A,Ridgecrest,93555,06029,(760) 446-0449,"1536 N Mahan St Ste A Ridgecrest, CA 93555",35.6496253,-117.6962366
+222,Earth Renewal Recycle,16866 Hwy 14,Mojave,93501,06029,(818) 497-2694,"16866 Hwy 14 Mojave, CA 93501",35.0673732,-118.1760582
+223,Earth Renewal Recycle 2,2817 Sierra Hwy,Rosamond,93560,06029,(818) 497-2694,"2817 Sierra Hwy Rosamond, CA 93560",34.8618425,-118.1632511
+224,Eliseo Recycling,726 S Union Ave,Bakersfield,93307,06029,(818) 792-0192,"726 S Union Ave Bakersfield, CA 93307",35.3478499,-119.0021981
+225,Eliseo Recycling,602 E Casa Loma Dr,Bakersfield,93307,06029,(661) 531-5661,"602 E Casa Loma Dr Bakersfield, CA 93307",35.3397063,-118.9940071
+226,Eliseo Recycling,723 Quantico Ave,Bakersfield,93307,06029,(818) 792-0192,"723 Quantico Ave Bakersfield, CA 93307",35.3646901,-118.9583569
+227,EZ Recycling LLC,1638 Glenwood St,Delano,93215,06029,(909) 662-4463,"1638 Glenwood St Delano, CA 93215",35.7774800,-119.2507300
+228,FIELD Recycle,355 Enterprise Way Ste D,Tehachapi,93561,06029,(661) 527-6005,"355 Enterprise Way Ste D Tehachapi, CA 93561",35.1362286,-118.4545946
+229,Garcia's Recycling,1731 Niles St,Bakersfield,93307,06029,(925) 309-9828,"1731 Niles St Bakersfield, CA 93307",35.3775757,-118.9744901
+230,Green Field Recycle,12025 Gardiner St,Boron,93516,06029,(760) 762-6773,"12025 Gardiner St Boron, CA 93516",35.0004331,-117.6567654
+231,Green Planet Recycling,1670 Virginia Ave,Bakersfield,93307,06029,(661) 348-6862,"1670 Virginia Ave Bakersfield, CA 93307",35.3614123,-118.9797677
+232,H Street Recycling,2501 S H St,Bakersfield,93304,06029,(661) 567-9665,"2501 S H St Bakersfield, CA 93304",35.3319658,-119.0217384
+233,Hernandez Recycling,8146 Bay Ave B,California City,93505,06029,(661) 877-7817,"8146 Bay Ave B California City, CA 93505",35.1239619,-117.9826447
+234,J & D Recycling,1277 Kern St,Taft,93268,06029,(661) 765-6752,"1277 Kern St Taft, CA 93268",35.1478215,-119.4733117
+235,J & R Recycling Center,2105 Edison Hwy,Bakersfield,93305,06029,(831) 206-0331,"2105 Edison Hwy Bakersfield, CA 93305",35.3711841,-118.9709671
+236,J Torres Co/Edwards AFB,Landfill Office Bldg 7998,Edwards Air Force Base,93524,06029,(661) 277-3867,"Landfill Office Bldg 7998 Edwards Air Force Base, CA 93524",34.9326031,-117.9073244
+237,Joey Recycling Center,2101 White Ln,Bakersfield,93304,06029,(661) 834-9933,"2101 White Ln Bakersfield, CA 93304",35.3172457,-119.0265805
+238,Jorge Garcia Recycling,309 N Chester Ave,Bakersfield,93308,06029,(661) 312-6450,"309 N Chester Ave Bakersfield, CA 93308",35.4092052,-119.0213530
+239,Jose's Recycling,810 Oildale Dr,Bakersfield,93308,06029,(661) 399-2779,"810 Oildale Dr Bakersfield, CA 93308",35.4144561,-119.0297813
+240,Juarez Recycling,2517 Niles St,Bakersfield,93306,06029,(661) 345-8785,"2517 Niles St Bakersfield, CA 93306",35.3755217,-118.9613933
+241,Juarez Recycling,5321 Stockdale Hwy,Bakersfield,93309,06029,(661) 345-8785,"5321 Stockdale Hwy Bakersfield, CA 93309",35.3539457,-119.0608116
+242,JV Recycling,6032 Frazier Mountain Park Rd,Frazier Park,93225,06029,(818) 398-6845,"6032 Frazier Mountain Park Rd Frazier Park, CA 93225",34.8188193,-118.9913061
+243,Lake Isabella's Recycling Center,14604 Highway178,Lake Isabella,93240,06029,(571) 888-6360,"14604 Highway178 Lake Isabella, CA 93240",35.6416659,-118.3696840
+244,Los Tres Hermanos Recycling,21124 Hwy 46,Lost Hills,93249,06029,(661) 342-0635,"21124 Hwy 46 Lost Hills, CA 93249",35.6163393,-119.6961081
+245,Lucas Recycling,1209 Beale Ave,Bakersfield,93305,06029,(661) 421-3658,"1209 Beale Ave Bakersfield, CA 93305",35.3807569,-118.9877999
+246,MEC Recycling LLC,4642 Weedpatch Hwy,Bakersfield,93307,06029,(661) 332-5442,"4642 Weedpatch Hwy Bakersfield, CA 93307",35.3129901,-118.9150651
+247,Midway Recycling,7200 Downing Ave,Bakersfield,93308,06029,(661) 589-5712,"7200 Downing Ave Bakersfield, CA 93308",35.3909626,-119.0828778
+248,New Life Recycling,138 E 1St St,Buttonwillow,93206,06029,(661) 450-7271,"138 E 1St St Buttonwillow, CA 93206",35.4006536,-119.4686875
+249,New World Recycling Center,3301 Jewett Ave,Bakersfield,93301,06029,(661) 325-3508,"3301 Jewett Ave Bakersfield, CA 93301",35.3897345,-119.0146521
+250,OG Recycling Corporation,6300 White Ln,Bakersfield,93309,06029,(661) 900-8415,"6300 White Ln Bakersfield, CA 93309",35.3193948,-119.0731207
+251,OG Recycling Corporation,9805 Stobaugh St,Lamont,93241,06029,(818) 939-8484,"9805 Stobaugh St Lamont, CA 93241",35.2656527,-118.9152995
+252,R & R Recycling,1631 Beale Ave,Bakersfield,93305,06029,(661) 860-7037,"1631 Beale Ave Bakersfield, CA 93305",35.3851014,-118.9861399
+253,Rafael Arroyo,401 Fairfax Rd,Bakersfield,93306,06029,(661) 212-8396,"401 Fairfax Rd Bakersfield, CA 93306",35.3653187,-118.9322598
+254,Rafael Arroyo Recycling,1338 S Union Ave,Bakersfield,93307,06029,(661) 703-3825,"1338 S Union Ave Bakersfield, CA 93307",35.3398222,-119.0026850
+255,Real Recycling Center,138 E 1St St,Buttonwillow,93206,06029,(661) 889-3365,"138 E 1St St Buttonwillow, CA 93206",35.4006536,-119.4686875
+256,Ricks Recycling Inc,2200 S Union Ave,Bakersfield,93307,06029,(661) 832-3248,"2200 S Union Ave Bakersfield, CA 93307",35.3247697,-119.0026941
+257,Riveraâ€™s Recycling Inc,4700 Redbank Rd,Bakersfield,93307,06029,(323) 354-9730,"4700 Redbank Rd Bakersfield, CA 93307",35.3399586,-118.9318282
+258,Roger Recycling Center,3435 Pioneer Dr,Bakersfield,93306,06029,(661) 377-6387,"3435 Pioneer Dr Bakersfield, CA 93306",35.3683518,-118.9412778
+259,Rojas Recycling,900 Sterling Rd,Bakersfield,93306,06029,(661) 348-5718,"900 Sterling Rd Bakersfield, CA 93306",35.3716400,-118.9410987
+260,Rojas Recycling,390 Bernard St,Bakersfield,93307,06029,(661) 437-7566,"390 Bernard St Bakersfield, CA 93307",35.3905886,-118.9927633
+261,SA Recycling,2000 E Brundage Ln,Bakersfield,93307,06029,(661) 327-3559,"2000 E Brundage Ln Bakersfield, CA 93307",35.3560010,-118.9710581
+262,SOS Recycle Center,7701 White Ln,Bakersfield,93313,06029,(661) 858-7410,"7701 White Ln Bakersfield, CA 93313",35.3173982,-119.0890817
+263,SOS Recycle Center,6823 Stine Rd,Bakersfield,93313,06029,,"6823 Stine Rd Bakersfield, CA 93313",35.2942340,-119.0578600
+264,SOS Recycle Center,11100 Olive Dr,Bakersfield,93312,06029,(661) 858-7410,"11100 Olive Dr Bakersfield, CA 93312",35.4213029,-119.1265874
+265,Stop N Recycle,801 Haven Dr,Arvin,93203,06029,(661) 371-5457,"801 Haven Dr Arvin, CA 93203",35.2051369,-118.8333360
+266,Stop N Recycle,637 S Derby St,Arvin,93203,06029,(661) 371-5457,"637 S Derby St Arvin, CA 93203",35.2023380,-118.8247070
+267,Stop N Recycle,2300 Panama Ln,Bakersfield,93307,06029,(661) 371-5457,"2300 Panama Ln Bakersfield, CA 93307",35.2962910,-119.0276379
+268,Stop N Recycle,349 Union Ave,Bakersfield,93307,06029,(661) 371-5457,"349 Union Ave Bakersfield, CA 93307",35.3603934,-119.0033102
+269,Tabora's Recycling Center,6433 E Brundage Ln,Bakersfield,93307,06029,(323) 963-1925,"6433 E Brundage Ln Bakersfield, CA 93307",35.3536757,-118.9326445
+270,Tapia Recycling Center,1414 E California Ave,Bakersfield,93305,06029,(818) 231-0694,"1414 E California Ave Bakersfield, CA 93305",35.3688175,-118.9833361
+271,Top Value Recycling,9800 S Union Ave,Bakersfield,93307,06029,(661) 537-4915,"9800 S Union Ave Bakersfield, CA 93307",35.2659838,-119.0025954
+272,Triple HHH Recycling,651 Highway 46,Wasco,93280,06029,(661) 331-3131,"651 Highway 46 Wasco, CA 93280",35.6009492,-119.3303412
+273,WEB Recycling,3612 Suhre St,Lake Isabella,93240,06029,(760) 379-8201,"3612 Suhre St Lake Isabella, CA 93240",35.6258312,-118.4753775
+274,Weedpatch Recycling Center,9317 Main St,Lamont,93241,06029,(571) 888-6360,"9317 Main St Lamont, CA 93241",35.2701995,-118.9139772
+275,Willy's Recycling Center,730 E California Ave,Bakersfield,93307,06029,(661) 384-2840,"730 E California Ave Bakersfield, CA 93307",35.3689783,-118.9947408
+276,Lalil Daqaw Pomo Recycling Center,12605 Nokomis Rd,Hopland,95449,06045,(707) 472-2100x1305,"12605 Nokomis Rd Hopland, CA 95449",38.9885046,-123.0518116
+277,Robinson Rancheria,1545 E Highway 20,Nice,95464,06033,(707) 275-0527,"1545 E Highway 20 Nice, CA 95464",39.1426213,-122.8821071
+278,Robinson Rancheria Recycling at Big Valley,2755 Mission Rancheria Rd,Lakeport,95453-9612,06033,(707) 533-9020,"2755 Mission Rancheria Rd Lakeport, CA 95453-9612",39.0207296,-122.8895427
+279,Feather River Disposal,300 Greenville Dump Rd,Greenville,95947,06063,(530) 283-2004,"300 Greenville Dump Rd Greenville, CA 95947",40.1532550,-120.9530761
+280,Quincy Recycler,435 N Mill Creek Rd,Quincy,95971,06063,(530) 283-3301,"435 N Mill Creek Rd Quincy, CA 95971",39.9414260,-120.9052450
+281,1 x 1 Recycling Corp,14124 Lambert Rd,Whittier,90605,06037,(818) 642-9424,"14124 Lambert Rd Whittier, CA 90605",33.9498781,-118.0267053
+282,1 x 1 Recycling Corp,9023 Sepulveda Blvd,North Hills,91343,06037,(818) 642-9424,"9023 Sepulveda Blvd North Hills, CA 91343",34.2342070,-118.4680699
+283,16 Street Recycling,510 Workman Mill Rd,La Puente,91746,06037,(818) 859-3211,"510 Workman Mill Rd La Puente, CA 91746",34.0404102,-117.9977487
+284,16 Street Recycling,11944 Ramona Blvd,El Monte,91732,06037,(818) 859-3211,"11944 Ramona Blvd El Monte, CA 91732",34.0748106,-118.0140800
+285,16th Street Recycling,2255 E 16Th St,Los Angeles,90021,06037,(818) 859-3211,"2255 E 16Th St Los Angeles, CA 90021",34.0202914,-118.2321520
+286,3R Recycling Industries Inc,5956 E Los Angeles Ave Unit 3,Simi Valley,93063,06111,(805) 404-7221,"5956 E Los Angeles Ave Unit 3 Simi Valley, CA 93063",34.2713685,-118.6750362
+287,4 US Image Inc,5035 Pacific Coast Hwy,Torrance,90505,06037,(213) 305-2815,"5035 Pacific Coast Hwy Torrance, CA 90505",33.8136318,-118.3676445
+288,A & H Recycling Inc,6140 Lankershim Blvd,North Hollywood,91606,06037,(818) 262-1300,"6140 Lankershim Blvd North Hollywood, CA 91606",34.1826820,-118.3839951
+289,A & H Recycling Inc,7225 Vineland Ave,Sun Valley,91352,06037,(818) 262-1300,"7225 Vineland Ave Sun Valley, CA 91352",34.2018705,-118.3707196
+290,A & H Recycling Inc,6730 Tujunga Ave,North Hollywood,91606,06037,(818) 262-1300,"6730 Tujunga Ave North Hollywood, CA 91606",34.1931598,-118.3787684
+291,A & K Recycling,12431 Burbank Blvd,North Hollywood,91607-1616,06037,(818) 355-0815,"12431 Burbank Blvd North Hollywood, CA 91607-1616",34.1725815,-118.4041700
+292,A & M Metals Co,2301 W 5Th St,Santa Ana,92703,06059,(714) 547-6507,"2301 W 5Th St Santa Ana, CA 92703",33.7489589,-117.8992793
+293,A 1 Upland Recycling Center,1248 W 9Th St,Upland,91786,06071,(909) 982-1044,"1248 W 9Th St Upland, CA 91786",34.0948717,-117.6717628
+294,A and S Recycling,9435 E Washington Blvd,Pico Rivera,90660,06037,(818) 970-4920,"9435 E Washington Blvd Pico Rivera, CA 90660",33.9989239,-118.1274556
+295,A and S Recycling,6101 Rosemead Blvd,Pico Rivera,90660,06037,(818) 970-4920,"6101 Rosemead Blvd Pico Rivera, CA 90660",33.9915619,-118.0915689
+296,A and S Recycling,6000 Pacific Blvd,Huntington Park,90255,06037,(818) 970-4920,"6000 Pacific Blvd Huntington Park, CA 90255",33.9870220,-118.2248164
+297,A and S Recycling,16130 Nordhoff St,North Hills,91343-3044,06037,(818) 970-4920,"16130 Nordhoff St North Hills, CA 91343-3044",34.2348769,-118.4839208
+298,A Class Recycling,6828 Kester Ave,Van Nuys,91405,06037,(818) 220-1085,"6828 Kester Ave Van Nuys, CA 91405",34.1946883,-118.4571352
+299,A V Recycling Center,421 W Avenue I 101B,Lancaster,93534,06037,(661) 948-4088,"421 W Avenue I 101B Lancaster, CA 93534",34.7042571,-118.1367948
+300,A1 Recycling,7905 S Figueroa St,Los Angeles,90003,06037,(310) 504-4699,"7905 S Figueroa St Los Angeles, CA 90003",33.9675510,-118.2832483
+301,AA Recycling,16040 Vanowen St,Van Nuys,91406,06037,(213) 605-1735,"16040 Vanowen St Van Nuys, CA 91406",34.1935896,-118.4830560
+302,AAA Copper Wire Recycling,7962 Salt Lake Ave,Cudahy,90201,06037,(323) 537-8343,"7962 Salt Lake Ave Cudahy, CA 90201",33.9629484,-118.1936610
+303,AAA Recycling Metal Inc,7962 Salt Lake Ave,Cudahy,90201,06037,(909) 900-2310,"7962 Salt Lake Ave Cudahy, CA 90201",33.9629484,-118.1936610
+304,ABG Recycling,6631 Laurel Canyon Blvd,North Hollywood,91606,06037,(818) 605-0403,"6631 Laurel Canyon Blvd North Hollywood, CA 91606",34.1911164,-118.3967188
+305,Action Recycling,8642 N Olive Ave,Orange,92865,06059,(714) 204-0528,"8642 N Olive Ave Orange, CA 92865",33.8373546,-117.8447346
+306,AIM Recycling Santa Fe Springs,13750 Imperial Hwy,Santa Fe Springs,90670,06037,(562) 921-9975,"13750 Imperial Hwy Santa Fe Springs, CA 90670",33.9155899,-118.0403500
+307,Alameda Metals Corp,37815 6Th St E,Palmdale,93550,06037,(661) 793-7373,"37815 6Th St E Palmdale, CA 93550",34.5691652,-118.1173537
+308,Alas Recycling,1801 W Whittier Blvd,Montebello,90640,06037,(323) 828-4220,"1801 W Whittier Blvd Montebello, CA 90640",34.0124746,-118.1206629
+309,Alfonso Garcia Recycling,12891 Harbor Blvd,Garden Grove,92840,06059,(714) 539-1500,"12891 Harbor Blvd Garden Grove, CA 92840",33.7770199,-117.9168448
+310,Alfonso Garcia Recycling,18470 Colima Rd,Rowland Heights,91748,06037,(818) 904-0992,"18470 Colima Rd Rowland Heights, CA 91748",33.9873122,-117.9016179
+311,Allan Co,14618 Arrow Hwy,Baldwin Park,91706,06037,(626) 962-4047,"14618 Arrow Hwy Baldwin Park, CA 91706",34.1062686,-117.9568499
+312,Allan Co,2540 S Main St,Santa Ana,92707,06059,(714) 641-8891,"2540 S Main St Santa Ana, CA 92707",33.7119109,-117.8687805
+313,Allan Co,540 W Chevy Chase Dr,Glendale,91204,06037,(818) 552-2870,"540 W Chevy Chase Dr Glendale, CA 91204",34.1326339,-118.2636486
+314,Allan Co,39530 12Th St E,Palmdale,93550,06037,(661) 273-0775,"39530 12Th St E Palmdale, CA 93550",34.6010223,-118.1064612
+315,Allfin Recycling Center,4709 S Vermont Ave,Los Angeles,90037,06037,(323) 453-4789,"4709 S Vermont Ave Los Angeles, CA 90037",34.0003708,-118.2918044
+316,Alli's Recycling,5026 Avalon Blvd,Los Angeles,90011,06037,(323) 377-1087,"5026 Avalon Blvd Los Angeles, CA 90011",33.9968745,-118.2646946
+317,Altadena Recycling Center 1,2211 N Lincoln Ave,Altadena,91001,06037,(626) 604-0014,"2211 N Lincoln Ave Altadena, CA 91001",34.1836823,-118.1599238
+318,AM Recycle,25885 Railroad Ave,Saugus,91350,06037,(661) 645-9721,"25885 Railroad Ave Saugus, CA 91350",34.4120107,-118.5414712
+319,AM Recycling,1800 N Long Beach Blvd,Compton,90221,06037,(323) 896-4192,"1800 N Long Beach Blvd Compton, CA 90221",33.9079148,-118.2078051
+320,American Reclamation Inc,5487 W San Fernando Rd,Los Angeles,90039,06037,(818) 552-4078,"5487 W San Fernando Rd Los Angeles, CA 90039",34.1529534,-118.2764011
+321,Angel's Recycling,8949 Reseda Blvd,Northridge,91324,06037,(818) 300-4857,"8949 Reseda Blvd Northridge, CA 91324",34.2333296,-118.5365471
+322,Angel's Recycling #2,19333 Victory Blvd,Tarzana,91335-6302,06037,(818) 300-4857,"19333 Victory Blvd Tarzana, CA 91335-6302",34.1876769,-118.5545374
+323,Angelicas Recycling,608 E 89Th St,Los Angeles,90003,06037,(323) 750-0190,"608 E 89Th St Los Angeles, CA 90003",33.9553899,-118.2648214
+324,Aras Recycling,4203 Tyler Ave,El Monte,91731,06037,(323) 228-0101,"4203 Tyler Ave El Monte, CA 91731",34.0832628,-118.0318489
+325,Armbar Recycling Inc,2825 S Diamond Bar Blvd,Diamond Bar,91765,06037,(818) 334-0934,"2825 S Diamond Bar Blvd Diamond Bar, CA 91765",33.9744241,-117.8395040
+326,ASCO Metals,13014 Los Nietos Rd,Santa Fe Springs,90670,06037,(562) 944-6306,"13014 Los Nietos Rd Santa Fe Springs, CA 90670",33.9451995,-118.0542856
+327,ASOCC Recycling Center,2701 Fairview Rd,Costa Mesa,92626,06059,(714) 432-5131,"2701 Fairview Rd Costa Mesa, CA 92626",33.6706732,-117.9093803
+328,Atlas Iron and Metal,10019 S Alameda St,Los Angeles,90002,06037,(323) 566-5184,"10019 S Alameda St Los Angeles, CA 90002",33.9457501,-118.2289853
+329,AV Recycling,3505 E Palmdale Blvd,Palmdale,93550,06037,(213) 839-0501,"3505 E Palmdale Blvd Palmdale, CA 93550",34.5804879,-118.0670002
+330,B & P Recycling,8162 Talbert St,Huntington Beach,92646,06059,(949) 200-2046,"8162 Talbert St Huntington Beach, CA 92646",33.7009381,-117.9868137
+331,Bargain Center,6355 Compton Ave,Los Angeles,90001,06037,(323) 753-3491,"6355 Compton Ave Los Angeles, CA 90001",33.9819182,-118.2478978
+332,Basic Fibres Inc,6019 S Manhattan Pl,Los Angeles,90047,06037,(323) 753-3491,"6019 S Manhattan Pl Los Angeles, CA 90047",33.9844349,-118.3103567
+333,Basic Fibres Inc,6116 S Manhattan Pl,Los Angeles,90047,06037,(323) 753-3491,"6116 S Manhattan Pl Los Angeles, CA 90047",33.9839746,-118.3092529
+334,Beachside Recycling Inc,8601 Edison Dr B,Huntington Beach,92646,06059,(714) 969-7638,"8601 Edison Dr B Huntington Beach, CA 92646",33.6483655,-117.9776630
+335,Bellflower Recycling Center,17326 S Woodruff Ave,Bellflower,90706,06037,(562) 804-7270,"17326 S Woodruff Ave Bellflower, CA 90706",33.8750774,-118.1167057
+336,Benites Recycling,43157 20Th St West,Lancaster,93534,06037,(661) 445-1636,"43157 20Th St West Lancaster, CA 93534",34.6673613,-118.1662515
+337,Berber Recycling,6216 Crenshaw Blvd,Los Angeles,90043,06037,(213) 352-0002,"6216 Crenshaw Blvd Los Angeles, CA 90043",33.9832944,-118.3305467
+338,Berber Recycling,12925 Saticoy St,North Hollywood,91605,06037,(213) 352-0002,"12925 Saticoy St North Hollywood, CA 91605",34.2071028,-118.4153519
+339,Bestway Recycling,1012 W Gardena Blvd,Gardena,90247,06037,(310) 720-0650,"1012 W Gardena Blvd Gardena, CA 90247",33.8805580,-118.2920248
+340,Bionet Inc,5402 Walnut Ave,Irvine,92604,06059,(909) 908-8589,"5402 Walnut Ave Irvine, CA 92604",33.6904599,-117.7696799
+341,Blue - New Way Recycling LLC,1951 W 16Th St,Long Beach,90813,06037,(323) 992-5251,"1951 W 16Th St Long Beach, CA 90813",33.7874993,-118.2182826
+342,Blue New Way Recycling LLC,1534 E Florence Ave,Los Angeles,90001,06037,(323) 992-5251,"1534 E Florence Ave Los Angeles, CA 90001",33.9743939,-118.2463598
+343,Boyle Heights Recycling,2503 Whittier Blvd,Los Angeles,90023,06037,(323) 662-2904,"2503 Whittier Blvd Los Angeles, CA 90023",34.0337297,-118.2138229
+344,Broadway Recycling Center,8432 S Broadway,Los Angeles,90003,06037,(323) 841-3492,"8432 S Broadway Los Angeles, CA 90003",33.9622243,-118.2777744
+345,Brothers Recycling Center,1340 S Bonnie Beach Pl,Los Angeles,90023,06037,(213) 245-5476,"1340 S Bonnie Beach Pl Los Angeles, CA 90023",34.0154850,-118.1809290
+346,Bruce Metal and Salvage Inc,920 E 6Th St,Santa Ana,92701,06059,(714) 543-1300,"920 E 6Th St Santa Ana, CA 92701",33.7496442,-117.8584700
+347,Bullis Recycling,1940 N Bullis Rd,Compton,90221,06037,(818) 298-6040,"1940 N Bullis Rd Compton, CA 90221",33.9085189,-118.2067164
+348,Burbank Recycle Center,500 S Flower St,Burbank,91502,06037,(818) 276-0434,"500 S Flower St Burbank, CA 91502",34.1756357,-118.3084700
+349,C & M Metals Inc,1709 E 24Th St,Vernon,90058,06037,(323) 234-4662x102,"1709 E 24Th St Vernon, CA 90058",34.0153150,-118.2426461
+350,Cal Recycling,19318 Soledad Canyon Rd,Canyon Country,91351,06037,(818) 523-8778,"19318 Soledad Canyon Rd Canyon Country, CA 91351",34.4147279,-118.4726330
+351,Cal Recycling,636 W Ventura St,Fillmore,93015,06111,(818) 523-8778,"636 W Ventura St Fillmore, CA 93015",34.3947202,-118.9303329
+352,Calderon Recycling,5718 S Central Ave,Los Angeles,90011,06037,(323) 592-2933,"5718 S Central Ave Los Angeles, CA 90011",33.9906936,-118.2562827
+353,Calderon Recycling,1754 Grande Vista,Los Angeles,90023,06037,(323) 592-2933,"1754 Grande Vista Los Angeles, CA 90023",34.0134175,-118.2069854
+354,Camacho Recycle,5121 Gage Ave,Bell,90201,06037,(310) 658-4974,"5121 Gage Ave Bell, CA 90201",33.9769146,-118.1738423
+355,Camacho Recycling,914 W Edinger,Santa Ana,92707,06059,(714) 684-9746,"914 W Edinger Santa Ana, CA 92707",33.7268929,-117.8772590
+356,Candoo Recycling,13211 Gladstone Ave,Sylmar,91342,06037,,"13211 Gladstone Ave Sylmar, CA 91342",34.3102074,-118.4294765
+357,Cans For Coins,2521 W Mcfadden Ave,Santa Ana,92704,06059,(714) 623-4003,"2521 W Mcfadden Ave Santa Ana, CA 92704",33.7354510,-117.9035710
+358,Cardona Recycling,6711 S Alameda St,Los Angeles,90001,06037,(323) 402-5702,"6711 S Alameda St Los Angeles, CA 90001",33.9784445,-118.2360600
+359,Carrousel Recycling Center,4801 S Broadway,Los Angeles,90037,06037,(323) 503-0909,"4801 S Broadway Los Angeles, CA 90037",33.9991184,-118.2785641
+360,Century Jr 2 Recycling,1618 W Washington Blvd,Los Angeles,90014,06037,(323) 453-5275,"1618 W Washington Blvd Los Angeles, CA 90014",34.0398304,-118.2922123
+361,Century Recycling,3516 E Slauson Ave,Maywood,90270,06037,(323) 394-5123,"3516 E Slauson Ave Maywood, CA 90270",33.9885556,-118.2019850
+362,Chavira Recycling,3210 W Avenue L,Lancaster,93536,06037,(661) 936-8412,"3210 W Avenue L Lancaster, CA 93536",34.6599972,-118.1883798
+363,Chavira Recycling,1436 W Ave I,Lancaster,93534,06037,(661) 936-8412,"1436 W Ave I Lancaster, CA 93534",34.7037655,-118.1563625
+364,Chino Hills Recycling,4200 Chino Hills Pkwy,Chino Hills,91709,06071,(818) 281-9999,"4200 Chino Hills Pkwy Chino Hills, CA 91709",33.9843087,-117.7146733
+365,Chris Recycling,1024 S Central Ave,Los Angeles,90021,06037,(323) 313-8464,"1024 S Central Ave Los Angeles, CA 90021",34.0306279,-118.2444621
+366,Claros Recycle,3200 S Main St,Los Angeles,90007,06037,(562) 417-2008,"3200 S Main St Los Angeles, CA 90007",34.0195283,-118.2718940
+367,Clean N' Green Recycling,1007 W Avenue I,Lancaster,93534,06037,(818) 818-3371,"1007 W Avenue I Lancaster, CA 93534",34.7042306,-118.1484970
+368,Corner X Recycling,3315 E Washington Blvd,Los Angeles,90023,06037,(747) 344-2941,"3315 E Washington Blvd Los Angeles, CA 90023",34.0142119,-118.2074451
+369,Coronado Recycling Center,2507 W Temple St,Los Angeles,90026,06037,(310) 666-0455,"2507 W Temple St Los Angeles, CA 90026",34.0723115,-118.2736605
+370,Corridor Recycling,22500 S Alameda St,Carson,90810,06037,(310) 835-9109,"22500 S Alameda St Carson, CA 90810",33.9268502,-118.2249660
+371,Cortes Recycling,228 E Manchester Ave,Los Angeles,90003,06037,(323) 534-8614,"228 E Manchester Ave Los Angeles, CA 90003",33.9596465,-118.2706318
+372,CR&R Inc,11262 Western Ave,Stanton,90680,06059,(714) 826-9049,"11262 Western Ave Stanton, CA 90680",33.7988960,-118.0014509
+373,Criss Recycling,1013 E Palmdale Blvd,Palmdale,93550,06037,(818) 524-0182,"1013 E Palmdale Blvd Palmdale, CA 93550",34.5797767,-118.1112493
+374,CRV Only Store Inc,7621 Van Nuys Blvd,Van Nuys,91405,06037,(805) 404-7221,"7621 Van Nuys Blvd Van Nuys, CA 91405",34.2089996,-118.4494575
+375,CRV Only Store Inc,5727 Kanan Rd,Agoura Hills,91301,06037,(805) 404-7221,"5727 Kanan Rd Agoura Hills, CA 91301",34.1551737,-118.7585165
+376,CRV Recycle Center Inc,1724 E Avenida De Los Arboles,Thousand Oaks,91362,06111,(805) 404-7221,"1724 E Avenida De Los Arboles Thousand Oaks, CA 91362",34.2103882,-118.8470005
+377,CRV Recycle Center Inc,20028 Saticoy St,Winnetka,91306,06037,(805) 404-7221,"20028 Saticoy St Winnetka, CA 91306",34.2079420,-118.5699870
+378,CRV Recycle Center Inc,4626 E Alondra Blvd,Compton,90221,06037,(805) 404-7221,"4626 E Alondra Blvd Compton, CA 90221",33.8886740,-118.1910696
+379,CRV Recycle Center Inc,14650 Parthenia St,Panorama City,91402,06037,(805) 404-7221,"14650 Parthenia St Panorama City, CA 91402",34.2273772,-118.4526770
+380,CRV Recycle Center Inc,829 E Compton Blvd,Compton,90221,06037,(805) 404-7221,"829 E Compton Blvd Compton, CA 90221",33.8962389,-118.2142171
+381,CRV Recycle Center Inc,22728 Roscoe Blvd,West Hills,91304,06037,(805) 404-7221,"22728 Roscoe Blvd West Hills, CA 91304",34.2192200,-118.6222400
+382,CRV Recycling Solutions,8888 Chapman Ave,Garden Grove,92841,06059,(818) 203-3035,"8888 Chapman Ave Garden Grove, CA 92841",33.7880329,-117.9770866
+383,CRV Recycling Solutions,2660 Park Center Dr,Simi Valley,93065,06111,(833) 970-1010,"2660 Park Center Dr Simi Valley, CA 93065",34.2839198,-118.7954247
+384,CRV Recycling Solutions,7511 Orangethorpe Ave,Buena Park,90621,06059,(818) 203-3035,"7511 Orangethorpe Ave Buena Park, CA 90621",33.8603692,-118.0017815
+385,CRV Recycling Solutions,1800 E Collins Ave,Orange,92867,06059,(818) 203-3035,"1800 E Collins Ave Orange, CA 92867",33.8017449,-117.8347010
+386,CRV Recycling Solutions,851 N Harbor Blvd,La Habra,90631,06059,(818) 203-3035,"851 N Harbor Blvd La Habra, CA 90631",33.9399277,-117.9343086
+387,CRV Recycling Solutions,26892 La Paz Rd,Aliso Viejo,92656,06059,(833) 970-1010,"26892 La Paz Rd Aliso Viejo, CA 92656",33.5720500,-117.7061260
+388,D & G Recycling,1106 S Bristol St,Santa Ana,92707,06059,(714) 574-3842,"1106 S Bristol St Santa Ana, CA 92707",33.7341299,-117.8860868
+389,D & R Recycling,5219 S Vermont Ave,Los Angeles,90037,06037,(818) 262-1300,"5219 S Vermont Ave Los Angeles, CA 90037",33.9944871,-118.2917964
+390,D&T Recycling Center,14113 Garfield Ave,Paramount,90723,06037,(562) 531-4990,"14113 Garfield Ave Paramount, CA 90723",33.9050655,-118.1695253
+391,Dadaian Recycling,1212 E Slauson Ave,Los Angeles,90011,06037,(323) 235-4115,"1212 E Slauson Ave Los Angeles, CA 90011",33.9890763,-118.2534302
+392,Dajes Recycling,181 E Vernon Ave,Los Angeles,90011,06037,(323) 571-6854,"181 E Vernon Ave Los Angeles, CA 90011",34.0040013,-118.2722273
+393,De La Cruz Recycling,15025 Roscoe Blvd,Panorama City,91402,06037,(661) 466-3286,"15025 Roscoe Blvd Panorama City, CA 91402",34.2217435,-118.4603477
+394,Delgado Recycling,8848 Bradley Ave,Sun Valley,91352,06037,(323) 602-3735,"8848 Bradley Ave Sun Valley, CA 91352",34.2302578,-118.3762805
+395,Delgado Recycling,8771 S Central Ave,Los Angeles,90002,06037,(323) 602-3735,"8771 S Central Ave Los Angeles, CA 90002",33.9576990,-118.2567790
+396,Deniz Recycling,10706 Vanowen St,North Hollywood,91605,06037,(818) 760-2353,"10706 Vanowen St North Hollywood, CA 91605",34.1936899,-118.3639230
+397,Diegos Recycling,5519 S Central Ave,Los Angeles,90011,06037,(323) 314-5071,"5519 S Central Ave Los Angeles, CA 90011",33.9919809,-118.2567040
+398,DK Recycling,901 E 31St St Unit C,Los Angeles,90011,06037,(323) 568-6753,"901 E 31St St Unit C Los Angeles, CA 90011",34.0162093,-118.2595171
+399,DK Recycling,5545 Holmes Ave,Los Angeles,90058,06037,(323) 568-6753,"5545 Holmes Ave Los Angeles, CA 90058",33.9916921,-118.2413879
+400,DK Recycling Center,2320 Southwest Dr,Los Angeles,90043,06037,(323) 568-6753,"2320 Southwest Dr Los Angeles, CA 90043",33.9824888,-118.3193723
+401,Downtown Metals & Recycling Center,526 S Alameda St,Los Angeles,90013,06037,(213) 625-8165,"526 S Alameda St Los Angeles, CA 90013",34.0405995,-118.2378538
+402,E & M Recycling Co,1101 W Commonwealth Ave,Fullerton,92833,06059,(714) 451-4231,"1101 W Commonwealth Ave Fullerton, CA 92833",33.8703776,-117.9433754
+403,E & M Recycling Co,4001 Inglewood Ave,Redondo Beach,90278,06037,(310) 421-0251,"4001 Inglewood Ave Redondo Beach, CA 90278",33.8922221,-118.3622085
+404,E & M Recycling Co,928 N Euclid St,Anaheim,92801,06059,(714) 242-4077,"928 N Euclid St Anaheim, CA 92801",33.8453327,-117.9414217
+405,E&C Recycling,9700 Woodman Ave,Arleta,91331,06037,(562) 209-0003,"9700 Woodman Ave Arleta, CA 91331",34.2467406,-118.4475230
+406,East L A Recycling Center,2750 E 1St St,Los Angeles,90033,06037,(213) 235-0050,"2750 E 1St St Los Angeles, CA 90033",34.0407421,-118.2057103
+407,East LA Recycling,4730 E Olympic Blvd,Los Angeles,90022,06037,(323) 740-9590,"4730 E Olympic Blvd Los Angeles, CA 90022",34.0178214,-118.1672794
+408,EcoGreen Recycling,12172 Truman St,San Fernando,91340,06037,(213) 245-5476,"12172 Truman St San Fernando, CA 91340",34.2918655,-118.4496801
+409,EDCO Recycling & Transfer,2755 California Ave,Signal Hill,90755,06037,(760) 744-5615,"2755 California Ave Signal Hill, CA 90755",33.8076894,-118.1819309
+410,Eric's Recycling Center,19503 Normandie Ave,Torrance,90501,06037,(323) 333-0021,"19503 Normandie Ave Torrance, CA 90501",33.8570133,-118.3002276
+411,Eric's Recycling Center,11115 Tuxford St,Sun Valley,91352,06037,(323) 333-0021,"11115 Tuxford St Sun Valley, CA 91352",34.2332451,-118.3738040
+412,Eric's Recycling Center,19037 S Main St,Carson,90745,06037,(323) 333-0021,"19037 S Main St Carson, CA 90745",33.8572388,-118.2776546
+413,Eric's Recycling Center,2181 E 10Th St,Los Angeles,90021,06037,(323) 333-0021,"2181 E 10Th St Los Angeles, CA 90021",34.0256059,-118.2336705
+414,Eric's Recycling Center,8461 Whittier Blvd,Pico Rivera,90660,06037,(323) 333-0021,"8461 Whittier Blvd Pico Rivera, CA 90660",34.0049233,-118.0913731
+415,Erod Recycling Center,10229 S Alameda St,Los Angeles,90002,06037,(323) 482-9221,"10229 S Alameda St Los Angeles, CA 90002",33.9435664,-118.2283759
+416,ES Recycling,7601 S Broadway,Los Angeles,90003,06037,(323) 359-9942,"7601 S Broadway Los Angeles, CA 90003",33.9705309,-118.2788089
+417,Esparza Recycling,1960 S Santa Fe Ave,Los Angeles,90021,06037,(323) 674-4615,"1960 S Santa Fe Ave Los Angeles, CA 90021",34.0213704,-118.2298340
+418,Espinoza Recycling,4074 S Broadway Pl,Los Angeles,90037,06037,(323) 396-2856,"4074 S Broadway Pl Los Angeles, CA 90037",34.0094515,-118.2781297
+419,Espinoza Recycling,9305 S Broadway,Los Angeles,90003,06037,(323) 396-2856,"9305 S Broadway Los Angeles, CA 90003",33.9516961,-118.2787248
+420,Espinoza Recycling #2,1618 E Imperial Hwy,Los Angeles,90057,06037,(323) 396-2856,"1618 E Imperial Hwy Los Angeles, CA 90057",33.9292850,-118.2455471
+421,Espinoza Recycling Center,13151 Van Nuys Blvd,Pacoima,91331,06037,(323) 396-2856,"13151 Van Nuys Blvd Pacoima, CA 91331",34.2682720,-118.4198959
+422,Eveling Recycling,1717 Firestone Blvd,Los Angeles,90001,06037,(323) 494-1502,"1717 Firestone Blvd Los Angeles, CA 90001",33.9601549,-118.2425195
+423,Eveling Recycling,8228 S Central Ave,Los Angeles,90002,06037,(323) 494-1502,"8228 S Central Ave Los Angeles, CA 90002",33.9639412,-118.2560639
+424,Evergreen Recycling and Waste Inc,1230 Madera Rd,Simi Valley,93065,06111,(323) 873-7105,"1230 Madera Rd Simi Valley, CA 93065",34.2613411,-118.7947440
+425,Evergreen Recycling and Waste Inc,2722 E Los Angeles Ave,Simi Valley,93065,06111,(323) 873-7105,"2722 E Los Angeles Ave Simi Valley, CA 93065",34.2705370,-118.7430909
+426,Everyday Recycling,1616 W Katella Ave,Anaheim,92802,06059,(626) 290-0895,"1616 W Katella Ave Anaheim, CA 92802",33.8019412,-117.9378978
+427,Evolution Recycling,584 Monterey Pass Rd,Monterey Park,91754,06037,(323) 267-0224,"584 Monterey Pass Rd Monterey Park, CA 91754",34.0554908,-118.1468546
+428,Evolution Recycling #1,3535 E 14Th St,Los Angeles,90023,06037,(323) 267-0224,"3535 E 14Th St Los Angeles, CA 90023",34.0174948,-118.2017152
+429,Evolution Recycling #11,3425 Whittier Blvd,Los Angeles,90022,06037,(323) 267-0224,"3425 Whittier Blvd Los Angeles, CA 90022",34.0278196,-118.2001648
+430,Evolution Recycling #5,1022-1112 Walnut Ave,Tustin,92780,06059,(323) 267-0224,"1022-1112 Walnut Ave Tustin, CA 92780",33.7317679,-117.8275695
+431,Evolution Recycling Inc #10,2924 W Beverly Blvd,Montebello,90640,06037,(323) 427-8256,"2924 W Beverly Blvd Montebello, CA 90640",34.0234783,-118.1345539
+432,Evolution Recycling Inc #15,8116 California Ave,South Gate,90280,06037,(818) 427-8256,"8116 California Ave South Gate, CA 90280",33.9617865,-118.2042939
+433,Evolution Recycling Inc #2,120 S Pine St,San Gabriel,91776,06037,(323) 267-0224,"120 S Pine St San Gabriel, CA 91776",34.1027348,-118.0920941
+434,Evolution Recycling Inc #20,8150 Garvey Ave,Rosemead,91770,06037,(323) 427-8256,"8150 Garvey Ave Rosemead, CA 91770",34.0607295,-118.0916013
+435,Evolution Recycling Inc #7,2925 Division St,Los Angeles,90065,06037,(323) 427-8256,"2925 Division St Los Angeles, CA 90065",34.1034531,-118.2357887
+436,Evolution Recycling Inc #8,5250 York Blvd,Los Angeles,90042,06037,(323) 427-8256,"5250 York Blvd Los Angeles, CA 90042",34.1198168,-118.2012656
+437,Express Cros Interstate Inc,119 W Bencamp St,San Gabriel,91776,06037,(626) 625-9935,"119 W Bencamp St San Gabriel, CA 91776",34.0786233,-118.1027451
+438,Express Cross Interstate Inc,745 W Naomi Ave,Arcadia,91007,06037,(626) 625-9935,"745 W Naomi Ave Arcadia, CA 91007",34.1250289,-118.0576669
+439,Express Recycling,7518 Foothill Blvd,Tujunga,91042,06037,(818) 726-5557,"7518 Foothill Blvd Tujunga, CA 91042",34.2532007,-118.2964052
+440,Express Recycling & Collections Inc #2,5635 Woodruff Ave,Lakewood,90713,06037,(310) 904-4966,"5635 Woodruff Ave Lakewood, CA 90713",33.8595763,-118.1184352
+441,Farmers Market,8202 Pearblossom Hwy,Littlerock,93543,06037,(661) 944-1364,"8202 Pearblossom Hwy Littlerock, CA 93543",34.5208239,-117.9834100
+442,FE Recycling Center,2154 E 83Rd St,Los Angeles,90001,06037,(213) 245-5476,"2154 E 83Rd St Los Angeles, CA 90001",33.9627484,-118.2335129
+443,Figueroa Recycling,9814 S Figueroa St,Los Angeles,90003,06037,(562) 419-4701,"9814 S Figueroa St Los Angeles, CA 90003",33.9466181,-118.2820657
+444,Fit Recycling,4323 Floral Dr,Los Angeles,90022,06037,(323) 283-5193,"4323 Floral Dr Los Angeles, CA 90022",34.0443468,-118.1728837
+445,Florencio Recycling Inc,2031 S Central Ave,Los Angeles,90011,06037,(323) 240-2341,"2031 S Central Ave Los Angeles, CA 90011",34.0230940,-118.2520447
+446,Flores Recycling Center,333 S Irwindale Ave,Azusa,91702,06037,(626) 200-0249,"333 S Irwindale Ave Azusa, CA 91702",34.1169716,-117.9340971
+447,Foothill Recycling,6360 Foothill Blvd,Tujunga,91042,06037,(818) 747-9877,"6360 Foothill Blvd Tujunga, CA 91042",34.2426315,-118.2703043
+448,Foothill Recycling,21415 Devonshire St,Chatsworth,91311,06037,(818) 747-9877,"21415 Devonshire St Chatsworth, CA 91311",34.2581388,-118.5978087
+449,Four Brothers Recycling,7548 Woodley Ave,Van Nuys,91406,06037,(818) 792-6021,"7548 Woodley Ave Van Nuys, CA 91406",34.2081523,-118.4834310
+450,Freeway Recycling,2320 E Lincoln Ave,Anaheim,92816,06059,(818) 415-3363,"2320 E Lincoln Ave Anaheim, CA 92816",33.8390208,-117.8838763
+451,Freeway Recycling,12048 West Street,Garden Grove,92840,06059,(818) 984-8521,"12048 West Street Garden Grove, CA 92840",33.7881625,-117.9230511
+452,Freeway Recycling,1320 Mateo St,Los Angeles,90021,06037,(213) 309-2077,"1320 Mateo St Los Angeles, CA 90021",34.0281659,-118.2319782
+453,Freeway Recycling,8238 Louise Ave Ste B,Northridge,91325,06037,(818) 984-8521,"8238 Louise Ave Ste B Northridge, CA 91325",34.2202144,-118.5096149
+454,Freeway Recycling,18047 Saticoy St,Reseda,91335,06037,(213) 309-2077,"18047 Saticoy St Reseda, CA 91335",34.2085575,-118.5268003
+455,Fullerton Recycling Center,2920 Yorba Linda Blvd,Fullerton,92831,06059,(714) 242-4088,"2920 Yorba Linda Blvd Fullerton, CA 92831",33.8887517,-117.8780161
+456,G & P Recycling Center,1329 W Jefferson Blvd,Los Angeles,90007,06037,(323) 533-8531,"1329 W Jefferson Blvd Los Angeles, CA 90007",34.0256729,-118.2954274
+457,G & P Recycling Center,1016 W 18Th St,Los Angeles,90015,06037,(323) 533-8531,"1016 W 18Th St Los Angeles, CA 90015",34.0387878,-118.2794095
+458,G & P Recycling Center,3300 W Florence Ave,Los Angeles,90043,06037,(323) 533-8531,"3300 W Florence Ave Los Angeles, CA 90043",33.9742434,-118.3294833
+459,G & P Recycling Center,110 E 17Th St,Los Angeles,90015,06037,(323) 533-8531,"110 E 17Th St Los Angeles, CA 90015",34.0325574,-118.2630404
+460,G & P Recycling Center,1163 N Wilmington Blvd,Wilmington,90744,06037,(323) 533-8531,"1163 N Wilmington Blvd Wilmington, CA 90744",33.7860287,-118.2752107
+461,G E Recycling Co Inc,19320 Vanowen St,Reseda,91335,06037,(818) 523-8778,"19320 Vanowen St Reseda, CA 91335",34.1935824,-118.5544225
+462,G E Recycling Co Inc,7444 Florence Ave,Downey,90241,06037,(562) 927-4404,"7444 Florence Ave Downey, CA 90241",33.9575901,-118.1394233
+463,G E Recycling Co Inc,20440 Devonshire St,Chatsworth,91311,06037,(818) 523-8778,"20440 Devonshire St Chatsworth, CA 91311",34.2566453,-118.5786407
+464,G E Recycling Co Inc,8008 Laurel Canyon Blvd,North Hollywood,91605,06037,(818) 523-8778,"8008 Laurel Canyon Blvd North Hollywood, CA 91605",34.2160182,-118.3961944
+465,G-Rod Recycling Inc,1459 S Anaheim Blvd,Anaheim,92805,06059,(714) 749-9719,"1459 S Anaheim Blvd Anaheim, CA 92805",33.8116914,-117.9065040
+466,GAG Recycling,13225 Van Nuys Blvd,Pacoima,91331,06037,(818) 445-0285,"13225 Van Nuys Blvd Pacoima, CA 91331",34.2671503,-118.4212563
+467,Garcia Recycling Center & Metals,13862 Seaboard Cir,Garden Grove,92843,06059,714-5543213,"13862 Seaboard Cir Garden Grove, CA 92843",33.7616802,-117.9219742
+468,Gardena Recycling Center Inc,1538 W 134Th St,Gardena,90249,06037,(310) 516-8195,"1538 W 134Th St Gardena, CA 90249",33.9101621,-118.3037473
+469,General Metal Recycling Co,1541 W Washington Blvd,Montebello,90640,06037,(323) 722-9995,"1541 W Washington Blvd Montebello, CA 90640",34.0401903,-118.2903161
+470,Genesis Recycling,38709 N Tierra Subida St,Palmdale,93551,06037,(818) 482-9307,"38709 N Tierra Subida St Palmdale, CA 93551",34.5855755,-118.1478799
+471,Genesis Recycling,3624 Smith Ave,Acton,93551,06037,(818) 482-9307,"3624 Smith Ave Acton, CA 93551",34.4678535,-118.1958007
+472,Genesis Recycling,801 Rinaldi St Ste R,San Fernando,91345,06037,(818) 482-9307,"801 Rinaldi St Ste R San Fernando, CA 91345",34.2823923,-118.4531913
+473,Genesis Recycling,2520 E Palmdale Blvd,Palmdale,93550,06037,(818) 400-8702,"2520 E Palmdale Blvd Palmdale, CA 93550",34.5790982,-118.0833706
+474,Genesis Recycling,4033 W Avenue L,Lancaster,93536,06037,(818) 482-9307,"4033 W Avenue L Lancaster, CA 93536",34.6616089,-118.2023713
+475,Ginas Recycling Center,4840 Peck Rd,El Monte,91732,06037,(626) 628-6117,"4840 Peck Rd El Monte, CA 91732",34.0917907,-118.0132499
+476,Glendale Recycling Center Inc,1850 Glendale Blvd,Los Angeles,90026,06037,(818) 334-0934,"1850 Glendale Blvd Los Angeles, CA 90026",34.0891601,-118.2590064
+477,Global Metal Recycling Inc,1011 E Pine St,Santa Ana,92701,06059,(714) 547-9079,"1011 E Pine St Santa Ana, CA 92701",33.7439293,-117.8545409
+478,Go Green Recycling Center,17643 Sherman Way,Van Nuys,91406,06037,(818) 579-5596,"17643 Sherman Way Van Nuys, CA 91406",34.2015457,-118.5182548
+479,Go Green SF,12643 San Fernando Rd,Sylmar,91342,06037,(818) 579-5596,"12643 San Fernando Rd Sylmar, CA 91342",34.2988538,-118.4593190
+480,Golden Recycle Company Inc,8352 Katella Ave,Stanton,90680,06059,(714) 995-9020,"8352 Katella Ave Stanton, CA 90680",33.8025480,-117.9868768
+481,Good Earth Recycling Center,2041 W Commonwealth Ave,Fullerton,92833,06059,(310) 706-5398,"2041 W Commonwealth Ave Fullerton, CA 92833",33.8702550,-117.9675080
+482,Good Earth Recycling Center Inc,2005 Bixby Rd,Lakewood,90712,06037,(562) 490-0072,"2005 Bixby Rd Lakewood, CA 90712",33.8269107,-118.1665942
+483,Granicy Square Recycling,43040 20Th St E,Lancaster,93535,06037,(661) 948-1860,"43040 20Th St E Lancaster, CA 93535",34.6645306,-118.0932400
+484,Great Future Recycling Inc #3,1433 Valinda Ave,La Puente,91744,06037,(310) 990-1464,"1433 Valinda Ave La Puente, CA 91744",34.0448561,-117.9264105
+485,Green Base Recycling Inc,10375 Balboa Blvd,Granada Hills,91344,06037,(818) 331-2128,"10375 Balboa Blvd Granada Hills, CA 91344",34.2590547,-118.5026132
+486,Green Bull Recycling,10201 S Vermont Ave,Los Angeles,90044,06037,(760) 881-8399,"10201 S Vermont Ave Los Angeles, CA 90044",33.9438859,-118.2921660
+487,Green Bull Recycling 3,2728 E Hullett St,Long Beach,90805,06037,(760) 881-8399,"2728 E Hullett St Long Beach, CA 90805",33.8608570,-118.1588640
+488,Green Clean Planet Recycling,623 W Olympic Blvd,Montebello,90640-5229,06037,(562) 395-8198,"623 W Olympic Blvd Montebello, CA 90640-5229",34.0058506,-118.1083541
+489,Green Earth Recycling,5926 Monterey Rd,Los Angeles,90042,06037,(818) 523-8778,"5926 Monterey Rd Los Angeles, CA 90042",34.1050514,-118.1831697
+490,Green Earth Recycling,7355 Lankershim Blvd,North Hollywood,91605,06037,(818) 523-8778,"7355 Lankershim Blvd North Hollywood, CA 91605",34.2041710,-118.3887423
+491,Green Earth Recycling,13107 E Valley Blvd,City Of Industry,91746,06037,(818) 523-8778,"13107 E Valley Blvd City Of Industry, CA 91746",34.0517635,-117.9996838
+492,Green LA Recycling,1862 E 55Th St,Los Angeles,90058,06037,(818) 726-9331,"1862 E 55Th St Los Angeles, CA 90058",33.9928251,-118.2389011
+493,Green LA Recycling,1738 E 14Th St,Los Angeles,90021,06037,(818) 726-9331,"1738 E 14Th St Los Angeles, CA 90021",34.0255561,-118.2400329
+494,Green Team Recycling Inc,853 W Arrow Hwy,San Dimas,91773,06037,(818) 334-0934,"853 W Arrow Hwy San Dimas, CA 91773",34.1074616,-117.8238847
+495,Green Town Recycling #4,5832 Riverside Dr,Chino,91710,06071,(818) 679-0687,"5832 Riverside Dr Chino, CA 91710",34.0195806,-117.6776765
+496,Greenland Recycling,3372 E Gage Ave,Huntington Park,90255-5531,06037,(323) 984-3009,"3372 E Gage Ave Huntington Park, CA 90255-5531",33.9797342,-118.2049277
+497,Habitat Recycling,9900 Garvey Ave,El Monte,91733-1230,06037,(310) 650-7443,"9900 Garvey Ave El Monte, CA 91733-1230",34.0617490,-118.0524571
+498,Hernandez Recycling,5865 Towne Ave,Los Angeles,90003,06037,(562) 556-0857,"5865 Towne Ave Los Angeles, CA 90003",33.9879941,-118.2676798
+499,Hernandez Recycling #2,1145 E 108Th St,Los Angeles,90059,06037,(323) 893-1951,"1145 E 108Th St Los Angeles, CA 90059",33.9384759,-118.2550205
+500,Hernandez Recycling Center,5400 S Central Ave,Los Angeles,90011,06037,(323) 893-1951,"5400 S Central Ave Los Angeles, CA 90011",33.9935823,-118.2560660
+501,HG Recycling,4242 Park Pl,Baldwin Park,91706,06037,323-7369004,"4242 Park Pl Baldwin Park, CA 91706",34.0897017,-117.9530172
+502,HP Recycling Center,8300 Santa Fe Ave,Huntington Park,90255,06037,(310) 278-5464,"8300 Santa Fe Ave Huntington Park, CA 90255",33.9628503,-118.2300250
+503,Hullett Enterprise Inc,2810 E Hullett St,Long Beach,90805,06037,(626) 384-0106,"2810 E Hullett St Long Beach, CA 90805",33.8607051,-118.1586901
+504,Huntington Beach Recycling,7632 Slater Ave,Huntington Beach,92647,06059,(714) 841-4885,"7632 Slater Ave Huntington Beach, CA 92647",33.7081580,-117.9952371
+505,I & R Recycling,1575 E Imperial Hwy,Los Angeles,90059,06037,(323) 500-8346,"1575 E Imperial Hwy Los Angeles, CA 90059",33.9297501,-118.2465996
+506,Industry Recycling,15233 E Gale Ave,La Puente,91744,06037,(626) 606-0016,"15233 E Gale Ave La Puente, CA 91744",34.0151249,-117.9740484
+507,Inglewood Recycling Center,3200 W Century Blvd,Inglewood,90303,06037,(424) 243-9043,"3200 W Century Blvd Inglewood, CA 90303",33.9442333,-118.3281129
+508,Isidoro Rivera Vargas,1575 E Imperial Hwy,Los Angeles,90059,06037,(323) 500-8346,"1575 E Imperial Hwy Los Angeles, CA 90059",33.9297501,-118.2465996
+509,JB Recycling,318 N Lemon Ave,Walnut,91789,06037,(818) 634-1641,"318 N Lemon Ave Walnut, CA 91789",34.0188930,-117.8640626
+510,JBR #4 Recycling,4157 S Figueroa St,Los Angeles,90011,06037,(323) 204-8308,"4157 S Figueroa St Los Angeles, CA 90011",34.0080132,-118.2830074
+511,JBR #5 Recycling,5701 Atlantic Blvd,Maywood,90270,06037,(323) 204-8308,"5701 Atlantic Blvd Maywood, CA 90270",33.9889829,-118.1856853
+512,JBR Recycling,11100 S Vermont Ave,Los Angeles,90011,06037,(323) 204-8308,"11100 S Vermont Ave Los Angeles, CA 90011",33.9343281,-118.2912149
+513,JBR Recycling #3,10211 S Avalon Blvd,Los Angeles,90003,06037,(323) 204-8308,"10211 S Avalon Blvd Los Angeles, CA 90003",33.9436037,-118.2655055
+514,JBR Recycling 2,10404 S Vermont Ave,Los Angeles,90044,06037,(323) 204-8308,"10404 S Vermont Ave Los Angeles, CA 90044",33.9421449,-118.2914040
+515,JD Recycling,13426 Osborne St,Arleta,91331,06037,(818) 288-2774,"13426 Osborne St Arleta, CA 91331",34.2422383,-118.4254232
+516,JD Recycling,2042 E Palmdale Blvd,Palmdale,93550,06037,(213) 839-0501,"2042 E Palmdale Blvd Palmdale, CA 93550",34.5797642,-118.0928158
+517,JD Recycling,13116 Foothill Blvd,Sylmar,91342,06037,(818) 288-2774,"13116 Foothill Blvd Sylmar, CA 91342",34.2978912,-118.4204747
+518,JD Recycling,14411 Victory Blvd,Van Nuys,91401,06037,(818) 288-2774,"14411 Victory Blvd Van Nuys, CA 91401",34.1869294,-118.4472068
+519,Jen M Recycling,17051 E Avenue O,Palmdale,93591,06037,(661) 899-0189,"17051 E Avenue O Palmdale, CA 93591",34.6168358,-117.8265228
+520,JJ Recycling 2,16129 Harbor Blvd,Fountain Valley,92708,06059,(714) 719-1777,"16129 Harbor Blvd Fountain Valley, CA 92708",33.7293037,-117.9210628
+521,JM Recycling,3900 City Terrace Dr,Los Angeles,90063,06037,(323) 672-1206,"3900 City Terrace Dr Los Angeles, CA 90063",34.0554693,-118.1805538
+522,JM Recycling,3808 Medford St,Los Angeles,90063,06037,(323) 672-1206,"3808 Medford St Los Angeles, CA 90063",34.0593301,-118.1848106
+523,JMD Matias Corporation,8620 Orchard Ave,Los Angeles,90044,06037,(323) 307-1829,"8620 Orchard Ave Los Angeles, CA 90044",33.9592146,-118.2876517
+524,JMD Matias Corporation,11428 S Main St,Los Angeles,90061,06037,(323) 307-1829,"11428 S Main St Los Angeles, CA 90061",33.9299165,-118.2735951
+525,JMD Matias Corporation,11514 S Central Ave,Los Angeles,90044,06037,(323) 691-8732,"11514 S Central Ave Los Angeles, CA 90044",33.9297991,-118.2540339
+526,Jr National Recycling,12830 S Figueroa St,Los Angeles,90061,06037,(323) 453-5275,"12830 S Figueroa St Los Angeles, CA 90061",33.9156040,-118.2822268
+527,JV Recycling,15252 Parthenia St,North Hills,91343,06037,(818) 416-3890,"15252 Parthenia St North Hills, CA 91343",34.2281414,-118.4650908
+528,JV Recycling,1824 E Palmdale Blvd,Palmdale,93550,06037,(818) 398-6845,"1824 E Palmdale Blvd Palmdale, CA 93550",34.5793671,-118.0953549
+529,JV Recycling,2381 Tapo St,Simi Valley,93063,06037,(818) 398-6845,"2381 Tapo St Simi Valley, CA 93063",34.2781819,-118.7100656
+530,JV Recycling,330 W Avenue P,Palmdale,93551,06037,(818) 960-5762,"330 W Avenue P Palmdale, CA 93551",34.6016844,-118.1347473
+531,JV Recycling,20160 Roscoe Blvd,Winnetka,91306,06037,(818) 960-5762,"20160 Roscoe Blvd Winnetka, CA 91306",34.2197465,-118.5731420
+532,JV Recycling,22117 Sierra Hwy,Sylmar,91342,06037,(818) 960-5762,"22117 Sierra Hwy Sylmar, CA 91342",34.3374530,-118.5044243
+533,JV Recycling LLC,7636 San Fernando Rd,Sun Valley,91352,06037,(818) 960-5762,"7636 San Fernando Rd Sun Valley, CA 91352",34.2104551,-118.3551710
+534,JV Recycling LLC,10040 Laurel Canyon Blvd,Pacoima,91343,06037,(818) 960-5762,"10040 Laurel Canyon Blvd Pacoima, CA 91343",34.2528314,-118.4254662
+535,Kay-Met Recycling,19014 E San Jose Ave,Rowland Heights,91748,06037,(626) 913-9964,"19014 E San Jose Ave Rowland Heights, CA 91748",33.9984858,-117.8875724
+536,L A Recycling,10455 Laurel Canyon Blvd,Pacoima,91352,06037,(818) 577-6368,"10455 Laurel Canyon Blvd Pacoima, CA 91352",34.2594058,-118.4340777
+537,L A Recycling,8025 Vineland Ave,Sun Valley,91352,06037,(818) 577-6368,"8025 Vineland Ave Sun Valley, CA 91352",34.2164043,-118.3714726
+538,Last Chance Inc dba A Star Recycling,7054 Laurel Canyon Blvd,North Hollywood,91605,06037,(818) 764-4337,"7054 Laurel Canyon Blvd North Hollywood, CA 91605",34.1992845,-118.3957130
+539,Last Chance Inc/Cash 4 Scrap,7054 Laurel Canyon Blvd,North Hollywood,91605,06037,(818) 764-4337,"7054 Laurel Canyon Blvd North Hollywood, CA 91605",34.1992845,-118.3957130
+540,Latinos Recycling,2329 Daly St,Lincoln Heights,90031,06037,(818) 726-2747,"2329 Daly St Lincoln Heights, CA 90031",34.0727791,-118.2157790
+541,Laur Metals Co,910 S Euclid St,Anaheim,92802,06059,(323) 269-8326,"910 S Euclid St Anaheim, CA 92802",33.8196850,-117.9406554
+542,Laur Metals Co,7300 Atlantic Ave,Cudahy,90201,06037,(323) 269-8326,"7300 Atlantic Ave Cudahy, CA 90201",33.9683915,-118.1865450
+543,Laur Metals Co,831 N Hacienda Blvd,La Puente,91744,06037,(323) 266-1654,"831 N Hacienda Blvd La Puente, CA 91744",34.0345346,-117.9519013
+544,Laur Metals Co,1601 N Vermont Ave,Los Angeles,90028,06037,(213) 240-5054,"1601 N Vermont Ave Los Angeles, CA 90028",34.1002656,-118.2927670
+545,Laur Metals Co,825 N Virgil Ave,Los Angeles,90029,06037,(213) 240-5054,"825 N Virgil Ave Los Angeles, CA 90029",34.0864632,-118.2872077
+546,Laur Metals Co,1954 N Durfee Ave,South El Monte,91733,06037,(213) 240-5054,"1954 N Durfee Ave South El Monte, CA 91733",34.0450220,-118.0299118
+547,Laur Metals Co,9566 Garvey Ave,South El Monte,91733,06037,(322) 266-1654,"9566 Garvey Ave South El Monte, CA 91733",34.0625265,-118.0608042
+548,Laur Metals Co,22106 S Main St,Carson,90745,06037,(213) 240-5054,"22106 S Main St Carson, CA 90745",33.8265315,-118.2763243
+549,Leader Recycling,270 E Palmdale Blvd,Palmdale,93550,06037,(818) 217-7830,"270 E Palmdale Blvd Palmdale, CA 93550",34.5788160,-118.1252061
+550,Leos Recycling Inc,12210 Foothill Blvd,Sylmar,91342,06037,(818) 767-1002,"12210 Foothill Blvd Sylmar, CA 91342",34.2810961,-118.4023753
+551,Ley Recycling Center,4200 E Slauson Ave Unit B,Maywood,90270,06037,(323) 392-2175,"4200 E Slauson Ave Unit B Maywood, CA 90270",33.9877210,-118.1910638
+552,Leyva Top Line Recycling Center,5674 Cherry Ave,Long Beach,90805,06037,(562) 984-7081,"5674 Cherry Ave Long Beach, CA 90805",33.8588315,-118.1681484
+553,Leyva Top Line Recycling Center Inc,10917 S Alameda St,Los Angeles,90059,06037,,"10917 S Alameda St Los Angeles, CA 90059",33.9355640,-118.2269587
+554,Lima Recycling Center La Puente,16023 Old Valley Blvd,La Puente,91744,06037,(626) 961-2233,"16023 Old Valley Blvd La Puente, CA 91744",34.0176650,-117.9504995
+555,Lionheart Recycling,2802 E Avenue I,Lancaster,93535,06037,(661) 485-9626,"2802 E Avenue I Lancaster, CA 93535",34.7040974,-118.0791179
+556,Lomeli Recycling Center,3976 E 1St St,Los Angeles,90063,06037,(323) 333-0074,"3976 E 1St St Los Angeles, CA 90063",34.0359371,-118.1792225
+557,Lu Mar Industrial Metals Co Ltd,2120 N Alameda St,Compton,90222,06037,(323) 636-0156,"2120 N Alameda St Compton, CA 90222",33.9113251,-118.2218206
+558,Lucky 7 Recycling,13307 Paramount Blvd,South Gate,90280,06037,(323) 443-7143,"13307 Paramount Blvd South Gate, CA 90280",33.9144794,-118.1595156
+559,Manny's Recycling,45549 W Beech Ave,Lancaster,93534,06037,(661) 208-7778,"45549 W Beech Ave Lancaster, CA 93534",34.7107385,-118.1398354
+560,Martin Recycling,16435 H Vanowen St,Van Nuys,91406,06037,(818) 262-3434,"16435 H Vanowen St Van Nuys, CA 91406",34.1941555,-118.4914600
+561,Martines Recycling,7101 Canby Ave,Reseda,91335,06037,(818) 970-0113,"7101 Canby Ave Reseda, CA 91335",34.1994278,-118.5352017
+562,Martinez East Ave I Recycling,849 E Avenue I,Lancaster,93535,06037,(661) 670-1102,"849 E Avenue I Lancaster, CA 93535",34.7044723,-118.1130989
+563,Martinez Recycling,225 W Avenue H,Lancaster,93535,06037,(661) 480-8868,"225 W Avenue H Lancaster, CA 93535",34.7194192,-118.1335471
+564,Martinez Recycling Center #2,5605 Gage Ave,Bell,90201,06037,(562) 663-9115,"5605 Gage Ave Bell, CA 90201",33.9758531,-118.1648820
+565,Martinez Recycling Center #5,11046 S Atlantic Ave,Lynwood,90262,06037,(562) 663-9115,"11046 S Atlantic Ave Lynwood, CA 90262",33.9286533,-118.1840780
+566,Martinez Recycling Center 1,3514 E 61St St,Huntington Park,90255,06037,(323) 588-5575,"3514 E 61St St Huntington Park, CA 90255",33.9850375,-118.2020993
+567,Martinez Recycling Center 6,6300 Gage Ave,Bell Gardens,90201,06037,(323) 771-5065,"6300 Gage Ave Bell Gardens, CA 90201",33.9739637,-118.1500264
+568,Maxi Kings Recycling Center,11021 Wilmington Ave,Los Angeles,90059,06037,(562) 382-0895,"11021 Wilmington Ave Los Angeles, CA 90059",33.9345076,-118.2392539
+569,MayKat Recycling LLC,9417 Laurel Canyon Blvd,Arleta,91331,06037,(818) 279-4562,"9417 Laurel Canyon Blvd Arleta, CA 91331",34.2402439,-118.4128360
+570,MD Recycling Center,7715 S San Pedro St,Los Angeles,90023,06037,(213) 245-5476,"7715 S San Pedro St Los Angeles, CA 90023",33.9692364,-118.2697128
+571,Medford Recycling,127 E 23Rd St,Los Angeles,90011,06037,(818) 457-7599,"127 E 23Rd St Los Angeles, CA 90011",34.0270673,-118.2662197
+572,Medford Recycling,19755 E Colima Rd,Rowland Heights,91748,06037,(818) 457-7599,"19755 E Colima Rd Rowland Heights, CA 91748",33.9869542,-117.8711650
+573,Medford Recycling,3626 Medford St,Los Angeles,90063,06037,(818) 457-7599,"3626 Medford St Los Angeles, CA 90063",34.0597564,-118.1864514
+574,Medford Recycling,915 W Foothill Blvd,Azusa,91702,06037,(818) 457-7599,"915 W Foothill Blvd Azusa, CA 91702",34.1340577,-117.9186681
+575,Miguel Mendoza Recycling,15418 Parthenia St,North Hills,91343,06037,(818) 926-6478,"15418 Parthenia St North Hills, CA 91343",34.2281108,-118.4682778
+576,Milton's Recycling Center,1383R N Citrus Ave,Covina,91722,06037,(323) 705-9271,"1383R N Citrus Ave Covina, CA 91722",34.1052977,-117.8917015
+577,Milton's Recycling Center,6620 S Central Ave,Los Angeles,90001,06037,(323) 705-9277,"6620 S Central Ave Los Angeles, CA 90001",33.9796779,-118.2561791
+578,Miltons Recycling Center,805 Philadelphia St,Pomona,91766,06037,(323) 705-9277,"805 Philadelphia St Pomona, CA 91766",34.0338513,-117.7401613
+579,Miriam Recycling Center,1379 E 18Th St,Los Angeles,90021,06037,(323) 674-1780,"1379 E 18Th St Los Angeles, CA 90021",34.0240700,-118.2474230
+580,Miriam Recycling Center,714 E 7Th St,Los Angeles,90021,06037,(323) 674-1780,"714 E 7Th St Los Angeles, CA 90021",34.0396689,-118.2455712
+581,Modern Recycling,601 W Anaheim St,Wilmington,90744,06037,(310) 834-4667,"601 W Anaheim St Wilmington, CA 90744",33.7799013,-118.2690159
+582,Money for Cans,2610F W Edinger Ave,Santa Ana,92704,06059,(949) 200-2046,"2610F W Edinger Ave Santa Ana, CA 92704",33.7268345,-117.9042830
+583,National Recycling #1,19245 Saticoy St,Reseda,91335,06037,(888) 612-0899,"19245 Saticoy St Reseda, CA 91335",34.2087521,-118.5528274
+584,National Recycling LLC,19245 Saticoy St,Reseda,91335,06037,(888) 612-0899,"19245 Saticoy St Reseda, CA 91335",34.2087521,-118.5528274
+585,Neighborhood Recycling,8804 S Vermont Ave,Los Angeles,90044,06037,(217) 200-1788,"8804 S Vermont Ave Los Angeles, CA 90044",33.9577539,-118.2913825
+586,New Horizon Salvage,11965 Branford St,Sun Valley,91352,06037,(818) 890-1233,"11965 Branford St Sun Valley, CA 91352",34.2553115,-118.3941262
+587,New World Recycling Inc,3100 N Alameda St,Compton,90222-1403,06037,(818) 262-0110,"3100 N Alameda St Compton, CA 90222-1403",33.9198158,-118.2235888
+588,Next Generation Recycling,3022 E Chapman Ave,Orange,92869,06059,(714) 931-5004,"3022 E Chapman Ave Orange, CA 92869",33.7873868,-117.8209633
+589,Next Generation Recycling #2,27771 Center Dr,Mission Viejo,92692,06059,(714) 931-5004,"27771 Center Dr Mission Viejo, CA 92692",33.5586295,-117.6571353
+590,Norwalk Recycling Center,10901 Imperial Hwy,Norwalk,90650,06037,(562) 262-9602,"10901 Imperial Hwy Norwalk, CA 90650",33.9181106,-118.1025053
+591,NS Recycling,18502 S Normandie Ave,Los Angeles,90248,06037,(323) 540-1788,"18502 S Normandie Ave Los Angeles, CA 90248",33.8627919,-118.2988661
+592,NS Recycling,13825 Amar Rd,La Puente,91746,06037,(323) 540-1788,"13825 Amar Rd La Puente, CA 91746",34.0539277,-117.9749177
+593,NS Recycling Center,907 W Foothill Blvd,Upland,91786,06071,(323) 540-1788,"907 W Foothill Blvd Upland, CA 91786",34.1078590,-117.6629298
+594,O C Recycling,1601 E Edinger Ave,Santa Ana,92705,06059,(714) 973-2267,"1601 E Edinger Ave Santa Ana, CA 92705",33.7269882,-117.8473810
+595,Odelsi Recycling,11045 Glenoaks Blvd,Pacoima,91331,06037,(818) 919-8745,"11045 Glenoaks Blvd Pacoima, CA 91331",34.2702597,-118.4087129
+596,One-Stop Recycling,7100 Stanford Ave,Los Angeles,90001,06037,(323) 778-8177,"7100 Stanford Ave Los Angeles, CA 90001",33.9753170,-118.2627761
+597,Ontiveros Recycling Center,312 W Rosecrans Ave,Compton,90222,06037,(323) 519-6185,"312 W Rosecrans Ave Compton, CA 90222",33.9030628,-118.2279577
+598,Orange Conservation Corps,16122 Construction Cir E,Irvine,92606,06059,(949) 857-0231,"16122 Construction Cir E Irvine, CA 92606",33.6956108,-117.8185496
+599,Padilla Recycling,1768 E 43Rd St,Los Angeles,90058,06037,(323) 317-0217,"1768 E 43Rd St Los Angeles, CA 90058",34.0045535,-118.2414810
+600,Palmdale Recycling,38022 Sierra Hwy,Palmdale,93550,06037,(661) 273-4825,"38022 Sierra Hwy Palmdale, CA 93550",34.5732870,-118.1152853
+601,Parking Lot Market,3218 S Central Ave,Los Angeles,90011,06037,(310) 384-2521,"3218 S Central Ave Los Angeles, CA 90011",34.0141614,-118.2563225
+602,PB4 Recycling,2125 E 90Th St,Los Angeles,90002,06037,(323) 896-6129,"2125 E 90Th St Los Angeles, CA 90002",33.9553861,-118.2335992
+603,PCH Recycling Center 2,1522 N Indiana St,Los Angeles,90063,06037,(323) 593-8874,"1522 N Indiana St Los Angeles, CA 90063",34.0583926,-118.1922416
+604,Pedritos Recycling,8804 S Figueroa St,Los Angeles,90003,06037,(323) 971-8287,"8804 S Figueroa St Los Angeles, CA 90003",33.9571700,-118.2823090
+605,Pereira Recycling Center,3026 Frazier St,Baldwin Park,91706,06037,(323) 548-7951,"3026 Frazier St Baldwin Park, CA 91706",34.0671333,-117.9898330
+606,Pereira Recycling Center #2,3511 S Normandie Ave,Los Angeles,90007,06037,(323) 548-7951,"3511 S Normandie Ave Los Angeles, CA 90007",34.0241900,-118.3004100
+607,Perspective Recycling,857 W 95Th St,Los Angeles,90044,06037,(323) 613-5021,"857 W 95Th St Los Angeles, CA 90044",33.9504181,-118.2913391
+608,Pomona Recycling,1600 E Holt Ave,Pomona,91767,06037,(818) 523-8778,"1600 E Holt Ave Pomona, CA 91767",34.0621733,-117.7188354
+609,Pomona Scrap Metal,1432 E 1St St,Pomona,91766,06037,(909) 623-1373,"1432 E 1St St Pomona, CA 91766",34.0590501,-117.7276071
+610,Ponce Recycling,11660 Firestone Blvd,Norwalk,90650,06037,(323) 533-4862,"11660 Firestone Blvd Norwalk, CA 90650",33.9134252,-118.0848565
+611,Ponce Recycling,123 E Lomita Blvd,Carson,90745,06037,(323) 533-4862,"123 E Lomita Blvd Carson, CA 90745",33.7996813,-118.2746800
+612,Ponce Recycling,6040 Venice Blvd,Los Angeles,90034,06037,(323) 533-4862,"6040 Venice Blvd Los Angeles, CA 90034",34.0367894,-118.3744583
+613,Ponce Recycling,650 E Carson St,Carson,90745,06037,(323) 533-4862,"650 E Carson St Carson, CA 90745",33.8315690,-118.2648494
+614,Ponce Recycling,17305 Valley Blvd,La Puente,91744,06037,(323) 533-4862,"17305 Valley Blvd La Puente, CA 91744",34.0100993,-117.9266677
+615,Ponce Recycling,1098 N State College Blvd,Anaheim,92806,06059,(323) 533-4862,"1098 N State College Blvd Anaheim, CA 92806",33.8487572,-117.8889025
+616,Ponce Recycling,1101 Huntington Dr,Arcadia,91007,06037,(323) 533-4862,"1101 Huntington Dr Arcadia, CA 91007",34.1313151,-118.0660405
+617,Ponce Recycling,10801 Prairie Ave,Inglewood,90303,06037,(323) 533-4862,"10801 Prairie Ave Inglewood, CA 90303",33.9375756,-118.3455356
+618,Ponce Recycling,2291 W Malvern Ave,Fullerton,92833,06059,(323) 533-4862,"2291 W Malvern Ave Fullerton, CA 92833",33.8785517,-117.9659952
+619,Ponce Recycling,1040 E Bastanchury Rd,Fullerton,92835,06059,(323) 533-4862,"1040 E Bastanchury Rd Fullerton, CA 92835",33.8982987,-117.9110777
+620,Ponce Recycling,1645 W Holt Ave,Pomona,91768,06037,(323) 533-4862,"1645 W Holt Ave Pomona, CA 91768",34.0624890,-117.7782800
+621,Ponce Recycling,710 N Rose Dr,Placentia,92870,06059,(714) 794-7542,"710 N Rose Dr Placentia, CA 92870",33.8776308,-117.8418624
+622,Ponce Recycling,638 Camino De Los Mares,San Clemente,92673,06059,(714) 794-7542,"638 Camino De Los Mares San Clemente, CA 92673",33.4580519,-117.6527485
+623,Ponce Recycling,1500 N Moorpark Rd,Thousand Oaks,91360,06111,(818) 531-5654,"1500 N Moorpark Rd Thousand Oaks, CA 91360",34.1979119,-118.8671444
+624,Ponce Recycling,1100 N San Fernando Blvd,Burbank,91504,06037,(818) 531-5654,"1100 N San Fernando Blvd Burbank, CA 91504",34.1890070,-118.3182129
+625,Ponce Recycling,25104 Marguerite Pkwy,Mission Viejo,92675,06059,(714) 794-7542,"25104 Marguerite Pkwy Mission Viejo, CA 92675",33.5974134,-117.6564103
+626,Ponce Recycling,14400 Culver Dr,Irvine,92604,06059,(714) 794-7542,"14400 Culver Dr Irvine, CA 92604",33.7062732,-117.7856659
+627,Ponce Recycling,22915 Victory Blvd,West Hills,91307,06037,(818) 531-5654,"22915 Victory Blvd West Hills, CA 91307",34.1872432,-118.6270602
+628,Ponce Recycling,18405 Brookhurst St,Fountain Valley,92708,06059,(714) 794-7542,"18405 Brookhurst St Fountain Valley, CA 92708",33.6954314,-117.9559283
+629,Ponce Recycling,19081 Goldenwest St,Huntington Beach,92648,06059,(714) 794-7542,"19081 Goldenwest St Huntington Beach, CA 92648",33.6852987,-118.0079148
+630,Ponce Recycling,101 W Los Angeles Ave,Moorpark,93021,06111,(818) 531-5654,"101 W Los Angeles Ave Moorpark, CA 93021",34.2788860,-118.8947209
+631,Ponce Recycling,3963 E Thousand Oaks Blvd,Thousand Oaks,91362,06111,(818) 531-5654,"3963 E Thousand Oaks Blvd Thousand Oaks, CA 91362",34.1627968,-118.8241919
+632,Ponce Recycling,5241 Warner Ave,Huntington Beach,92649,06059,(714) 794-7542,"5241 Warner Ave Huntington Beach, CA 92649",33.7167690,-118.0379542
+633,Ponce Recycling,21751 Lake Forest Dr,Lake Forest,92630,06059,(714) 794-7542,"21751 Lake Forest Dr Lake Forest, CA 92630",33.6467487,-117.6877489
+634,Ponce Recycling,915 S Brookhurst St,Anaheim,92804,06059,(714) 794-7542,"915 S Brookhurst St Anaheim, CA 92804",33.8195986,-117.9601518
+635,Ponce Recycling,27730 Santa Margarita Pkwy,Mission Viejo,92691,06059,(714) 794-7542,"27730 Santa Margarita Pkwy Mission Viejo, CA 92691",33.6515269,-117.6469180
+636,Ponce Recycling,22333 Sherman Way,Canoga Park,91303,06037,(818) 531-5654,"22333 Sherman Way Canoga Park, CA 91303",34.2020085,-118.6135337
+637,Ponce Recycling,1413 Hawthorne Blvd,Redondo Beach,90278,06037,(323) 533-4862,"1413 Hawthorne Blvd Redondo Beach, CA 90278",33.8670224,-118.3536873
+638,Ponce Recycling,26901 Aliso Creek Rd,Aliso Viejo,92656,06059,(714) 794-7542,"26901 Aliso Creek Rd Aliso Viejo, CA 92656",33.5714258,-117.7256541
+639,Ponce Recycling,13321 South St,Cerritos,90703,06037,(714) 794-7542,"13321 South St Cerritos, CA 90703",33.8601301,-118.0476996
+640,Ponce Recycling,19800 Hawthorne Blvd,Torrance,90503,06037,(323) 533-4862,"19800 Hawthorne Blvd Torrance, CA 90503",33.8534432,-118.3525699
+641,Ponce Recycling,201 W Arbor Vitae St,Inglewood,90301,06037,(323) 533-4862,"201 W Arbor Vitae St Inglewood, CA 90301",33.9531344,-118.3582708
+642,Ponce Recycling,12470 Seal Beach Blvd,Seal Beach,90740,06059,(714) 794-7542,"12470 Seal Beach Blvd Seal Beach, CA 90740",33.7811312,-118.0696518
+643,Ponce Recycling Inc,5212 W Adams Blvd,Los Angeles,90016,06037,(323) 533-4862,"5212 W Adams Blvd Los Angeles, CA 90016",34.0318171,-118.3559608
+644,PRC Collection Inc,1023 N Grand Ave,Covina,91724,06037,(626) 260-7411,"1023 N Grand Ave Covina, CA 91724",34.0978529,-117.8735779
+645,PRC Collection Inc,1525 E Amar Rd,West Covina,91792,06037,(626) 260-7411,"1525 E Amar Rd West Covina, CA 91792",34.0317207,-117.9130072
+646,Premises Metals Recycling,10802 Vernon Ave,Ontario,91763,06071,(909) 465-1168,"10802 Vernon Ave Ontario, CA 91763",34.0577438,-117.6861202
+647,Pretty California Clean,11850 Valley Blvd,El Monte,91732,06037,(323) 772-8263,"11850 Valley Blvd El Monte, CA 91732",34.0635540,-118.0222011
+648,R and C Recycle,9405 S Alameda St,Los Angeles,90002,06037,,"9405 S Alameda St Los Angeles, CA 90002",33.9509878,-118.2298308
+649,R Estrada Recycling,5870 S Central Ave,Los Angeles,90001,06037,(714) 829-0548,"5870 S Central Ave Los Angeles, CA 90001",33.9880571,-118.2564584
+650,R Estrada Recycling Center,9319 S Alameda St,Los Angeles,90002,06037,(714) 829-0548,"9319 S Alameda St Los Angeles, CA 90002",33.9516189,-118.2300154
+651,R Men,20816 E Arrow Hwy,Covina,91724,06037,(818) 634-1641,"20816 E Arrow Hwy Covina, CA 91724",34.1057707,-117.8471807
+652,RCD Recycling,4706 S Western Ave,Los Angeles,90062,06037,(323) 984-3009,"4706 S Western Ave Los Angeles, CA 90062",34.0007282,-118.3087057
+653,Recycle From Home LLC,1601 E Edinger Ave,Santa Ana,92705,06059,(562) 254-5212,"1601 E Edinger Ave Santa Ana, CA 92705",33.7269882,-117.8473810
+654,Recycle from Home LLC - Corona,1601 E Edinger Ave,Santa Ana,92706,06059,(949) 889-1734,"1601 E Edinger Ave Santa Ana, CA 92706",33.7269882,-117.8473810
+655,Recycle Indeed,2228 S Central Ave,Los Angeles,90011,06037,(323) 788-1551,"2228 S Central Ave Los Angeles, CA 90011",34.0208769,-118.2534022
+656,Recycle Indeed,1914 E Olympic Blvd,Los Angeles,90021,06037,(323) 788-1551,"1914 E Olympic Blvd Los Angeles, CA 90021",34.0269584,-118.2374262
+657,Recycle Now,4708 Fountain Ave,Los Angeles,90029,06037,(323) 572-7396,"4708 Fountain Ave Los Angeles, CA 90029",34.0950717,-118.2920641
+658,Recycle Now Inc,3561 W Slauson Ave,Los Angeles,90043,06037,(818) 331-2128,"3561 W Slauson Ave Los Angeles, CA 90043",33.9892220,-118.3352081
+659,Recycle Now Inc,133 W Ave 45,Los Angeles,90065,06037,(818) 331-2128,"133 W Ave 45 Los Angeles, CA 90065",34.0969323,-118.2079788
+660,Recycle Now Inc,15358 Beach Blvd,Westminster,92683,06059,(818) 331-2128,"15358 Beach Blvd Westminster, CA 92683",33.7395248,-117.9881291
+661,Recycle Now Inc,12375 Central Ave,Chino,91710,06071,(818) 331-2128,"12375 Central Ave Chino, CA 91710",34.0282968,-117.6883215
+662,Recycle Now Inc,13075 Euclid St,Garden Grove,92843,06059,(818) 331-2128,"13075 Euclid St Garden Grove, CA 92843",33.7730672,-117.9384866
+663,Recycle Now Inc,16042 Magnolia Ave,Fountain Valley,92708,06059,(818) 331-2128,"16042 Magnolia Ave Fountain Valley, CA 92708",33.7297802,-117.9707540
+664,Recycling Inc,43847 Division St,Lancaster,93535,06037,(323) 240-2341,"43847 Division St Lancaster, CA 93535",34.6797138,-118.1318059
+665,Recycling Inc,8907 Laurel Canyon Blvd,Sun Valley,91352,06037,(323) 240-2341,"8907 Laurel Canyon Blvd Sun Valley, CA 91352",34.2310595,-118.4032106
+666,Recycling Inc,400 E Palmdale Blvd,Palmdale,93550,06037,(323) 240-2341,"400 E Palmdale Blvd Palmdale, CA 93550",34.5795772,-118.1233546
+667,Recycling Innovations,20001 Roscoe Blvd,Winnetka,91306,06037,(818) 620-1933,"20001 Roscoe Blvd Winnetka, CA 91306",34.2207351,-118.5690200
+668,Recycling Innovations,8464 Reseda Blvd,Northridge,91324,06037,(818) 620-1933,"8464 Reseda Blvd Northridge, CA 91324",34.2244906,-118.5355438
+669,Recycling Innovations,10201 Reseda Blvd,Northridge,91324,06037,(818) 620-1933,"10201 Reseda Blvd Northridge, CA 91324",34.2549904,-118.5375020
+670,Recycling Spot,115 Technology Dr,Irvine,92618,06059,(818) 203-3035,"115 Technology Dr Irvine, CA 92618",33.6607545,-117.7458816
+671,Recycling Spot of Lakewood,20137 Pioneer Blvd,Lakewood,90715,06037,(818) 203-3035,"20137 Pioneer Blvd Lakewood, CA 90715",33.8470726,-118.0827304
+672,RecycloCityLA LLC,1015 W 43Rd St,Los Angeles,90037,06037,(213) 755-0123,"1015 W 43Rd St Los Angeles, CA 90037",34.0057575,-118.2922620
+673,Recygo More,7934 S Vermont Ave,Los Angeles,90044,06037,(323) 540-3784,"7934 S Vermont Ave Los Angeles, CA 90044",33.9668624,-118.2910940
+674,RELS Recycling,19300 Rinaldi St,Northridge,91326,06037,(818) 521-3233,"19300 Rinaldi St Northridge, CA 91326",34.2735338,-118.5546400
+675,Renovate Recycling Center Inc,516 W Chapman Ave,Placentia,92870,06059,(714) 453-7028,"516 W Chapman Ave Placentia, CA 92870",33.8728728,-117.8755325
+676,Renovate Recycling Center Inc,21080 Golden Springs Dr,Diamond Bar,91789-3894,06037,(714) 453-7028,"21080 Golden Springs Dr Diamond Bar, CA 91789-3894",33.9983692,-117.8442388
+677,Renovate Recycling Center Inc,2429 W Mcfadden Ave,Santa Ana,92704,06059,(714) 453-7028,"2429 W Mcfadden Ave Santa Ana, CA 92704",33.7349942,-117.9017884
+678,Resources Services Alliance Inc,13314 Saticoy St,North Hollywood,91605,06037,(818) 982-5800,"13314 Saticoy St North Hollywood, CA 91605",34.2075853,-118.4234297
+679,Rivas Recycling Center,4707 Slauson Ave,Maywood,90270,06037,(323) 245-5893,"4707 Slauson Ave Maywood, CA 90270",33.9868763,-118.1807145
+680,Rivera Recycling Center,6805 Salt Lake Ave,Bell,90201,06037,(323) 715-5393,"6805 Salt Lake Ave Bell, CA 90201",33.9760071,-118.2044111
+681,Rivera Recycling Center Inc,6216 Maywood Ave,Bell,90201,06037,(323) 715-5373,"6216 Maywood Ave Bell, CA 90201",33.9823339,-118.2023763
+682,Rivera Recycling Center Inc,12435 Haster St,Garden Grove,92840,06059,(323) 715-5393,"12435 Haster St Garden Grove, CA 92840",33.7827217,-117.9066005
+683,RM Services Inc,7510 Â½ Woodman Ave,Van Nuys,91405,06037,(818) 203-8106,"7510 Â½ Woodman Ave Van Nuys, CA 91405",34.2030604,-118.4312757
+684,Roscoe Recycling,8231 Woodman Ave,Panorama City,91402,06037,(818) 383-9294,"8231 Woodman Ave Panorama City, CA 91402",34.2202143,-118.4331957
+685,S & L Recycling,6154 Myosotis St,Los Angeles,90042,06037,(323) 388-9676,"6154 Myosotis St Los Angeles, CA 90042",34.1219927,-118.1842056
+686,SA Recycling,45565 N Division St,Lancaster,93535,06037,(714) 688-4943,"45565 N Division St Lancaster, CA 93535",34.6618905,-118.1236080
+687,SA Recycling,11614 East End Ave,Chino,91710,06071,(909) 622-3337,"11614 East End Ave Chino, CA 91710",34.0421689,-117.7252875
+688,Safe Planet Recycling,14535 Telegraph Rd,La Mirada,90638,06037,(818) 426-5330,"14535 Telegraph Rd La Mirada, CA 90638",33.9240531,-118.0212619
+689,Sammy's Recycling,24953 Railroad Ave,Newhall,91321,06037,(310) 910-5534,"24953 Railroad Ave Newhall, CA 91321",34.3893922,-118.5354835
+690,San Gabriel Recycling,1069 Hoover St,Los Angeles,90015,06037,(323) 519-1171,"1069 Hoover St Los Angeles, CA 90015",34.0519478,-118.2843626
+691,San Miguel Recycling,4225 Montclair St,Los Angeles,90018,06037,(323) 519-1171,"4225 Montclair St Los Angeles, CA 90018",34.0319078,-118.3320175
+692,Sanchez Recycling Inc,631 S Main St,Santa Ana,92701,06059,(714) 465-6732,"631 S Main St Santa Ana, CA 92701",33.7399653,-117.8673147
+693,Sanchez Recycling Inc,2018 E Lakeview Loop,Placentia,92870,06065,(714) 465-6732,"2018 E Lakeview Loop Placentia, CA 92870",33.8661547,-117.8193236
+694,Sarian Recycling,7128 Foothill Blvd,Tujunga,91042,06037,(818) 352-2110,"7128 Foothill Blvd Tujunga, CA 91042",34.2478384,-118.2869678
+695,Save N Recycle,1338 W Manchester Ave,Los Angeles,90044,06037,(323) 496-7417,"1338 W Manchester Ave Los Angeles, CA 90044",33.9596107,-118.2997046
+696,Save N Recycle,5125 S Vermont Ave,Los Angeles,90037,06037,(323) 496-7417,"5125 S Vermont Ave Los Angeles, CA 90037",33.9961869,-118.2917633
+697,SCV Recycling,6850 Farmdale Ave,North Hollywood,91605,06037,(818) 782-5050,"6850 Farmdale Ave North Hollywood, CA 91605",34.1953379,-118.3808494
+698,Sierra Recycling,27125 Sierra Hwy #326,Santa Clarita,91351,06037,(818) 383-9294,"27125 Sierra Hwy #326 Santa Clarita, CA 91351",34.4080038,-118.4617345
+699,SoCal 6,2700 Colorado Blvd,Los Angeles,90041,06037,(323) 662-2904,"2700 Colorado Blvd Los Angeles, CA 90041",34.1409525,-118.2249870
+700,SoCal Recycling,8969 Santa Monica Blvd,West Hollywood,90069,06037,(323) 662-2904,"8969 Santa Monica Blvd West Hollywood, CA 90069",34.0835333,-118.3869700
+701,SoCal Recycling,11030 Jefferson Blvd,Culver City,90230,06037,3236622904,"11030 Jefferson Blvd Culver City, CA 90230",33.9967446,-118.3937633
+702,SoCal Recycling,10772 Jefferson Blvd,Culver City,90230,06037,(323) 662-2904,"10772 Jefferson Blvd Culver City, CA 90230",34.0015487,-118.3930015
+703,SOS Recycling,5540 Alhambra Ave,Los Angeles,90032,06037,(323) 472-1747,"5540 Alhambra Ave Los Angeles, CA 90032",34.0786833,-118.1637674
+704,Star Recycling,2623 W Pico Blvd,Los Angeles,90006,06037,(213) 380-7635,"2623 W Pico Blvd Los Angeles, CA 90006",34.0473623,-118.2953076
+705,Sunset Recycling Center,2469 Via Campo St,Montebello,90640,06037,(818) 661-7387,"2469 Via Campo St Montebello, CA 90640",34.0311748,-118.1226002
+706,Sunset Recycling Center,1314 W Francisquito Ave,West Covina,91790,06037,(818) 661-7387,"1314 W Francisquito Ave West Covina, CA 91790",34.0525884,-117.9535373
+707,Sunset Recycling Center,5401 Katella Ave,Cypress,90720,06059,(818) 661-7387,"5401 Katella Ave Cypress, CA 90720",33.8044721,-118.0394790
+708,Sunset Recycling Center,3000 Baldwin Park Blvd,Baldwin Park,91706,06037,(818) 661-7387,"3000 Baldwin Park Blvd Baldwin Park, CA 91706",34.0683921,-117.9793525
+709,Sunset Recycling Center,914 W Orangethorpe Ave,Fullerton,92832,06059,(818) 661-7387,"914 W Orangethorpe Ave Fullerton, CA 92832",33.8588824,-117.9410213
+710,Sunset Recycling Center,1821 N Hacienda Blvd,La Puente,91744,06037,(818) 661-7387,"1821 N Hacienda Blvd La Puente, CA 91744",34.0521594,-117.9444879
+711,Sunset Recycling Center,27760 N Mcbean Pkwy,Valencia,91354,06037,(818) 661-7387,"27760 N Mcbean Pkwy Valencia, CA 91354",34.4458417,-118.5519838
+712,Sunset Recycling Center,8626 Firestone Blvd,Downey,90241,06037,(818) 661-7387,"8626 Firestone Blvd Downey, CA 90241",33.9359952,-118.1271349
+713,Sunset Recycling Center,13525 Lakewood Blvd,Downey,90242,06037,(818) 661-7387,"13525 Lakewood Blvd Downey, CA 90242",33.9052371,-118.1444952
+714,Sunset Recycling Center,5951 Del Amo Blvd,Lakewood,90713,06037,(818) 661-7387,"5951 Del Amo Blvd Lakewood, CA 90713",33.8479320,-118.1162953
+715,Sunset Recycling Center,3455 Sepulveda Blvd,Torrance,90505,06037,(818) 661-7387,"3455 Sepulveda Blvd Torrance, CA 90505",33.8280744,-118.3455556
+716,Sunset Recycling Center,20060 Ventura Blvd,Woodland Hills,91364,06037,(818) 661-7387,"20060 Ventura Blvd Woodland Hills, CA 91364",34.1699305,-118.5701535
+717,Sunset Recycling Center,12222 Carson St,Hawaiian Gardens,90716,06037,(818) 661-7387,"12222 Carson St Hawaiian Gardens, CA 90716",33.8307744,-118.0704355
+718,Sunset Recycling Center,14919 Whittier Blvd,Whittier,90605,06037,(818) 661-7387,"14919 Whittier Blvd Whittier, CA 90605",33.9499884,-118.0072918
+719,Sunset Recycling Center,9470 Las Tunas Dr,Temple City,91780,06037,(818) 661-7387,"9470 Las Tunas Dr Temple City, CA 91780",34.1058851,-118.0644231
+720,Sunset Recycling Center,330 N Atlantic Blvd,Monterey Park,91754,06037,(818) 661-7387,"330 N Atlantic Blvd Monterey Park, CA 91754",34.0652748,-118.1334833
+721,Sunset Recycling Center,13051 Victory Blvd,Valley Glen,91606,06037,(818) 661-7387,"13051 Victory Blvd Valley Glen, CA 91606",34.1889866,-118.4169036
+722,Sunset Recycling Center,12804 La Mirada Blvd,La Mirada,90638,06037,(818) 661-7387,"12804 La Mirada Blvd La Mirada, CA 90638",33.9151290,-118.0108092
+723,Sunset Recycling Center,10531 Carmenita Rd,Santa Fe Springs,90670,06037,(818) 661-7387,"10531 Carmenita Rd Santa Fe Springs, CA 90670",33.9391652,-118.0482499
+724,Sunset Recycling Center,32401 Camino Capistrano,San Juan Capistrano,92675,06059,(818) 661-7387,"32401 Camino Capistrano San Juan Capistrano, CA 92675",33.4926436,-117.6635604
+725,Sunset Recyclng Center,7810 Norwalk Blvd,Whittier,90606,06037,(818) 661-7387,"7810 Norwalk Blvd Whittier, CA 90606",33.9743894,-118.0741334
+726,Sunwest Metals Inc,1150 N Anaheim Blvd,Anaheim,92801,06059,(714) 635-0470,"1150 N Anaheim Blvd Anaheim, CA 92801",33.8497986,-117.9192989
+727,Super Recycling,530 N Fickett St,Los Angeles,90033,06037,(626) 422-9771,"530 N Fickett St Los Angeles, CA 90033",34.0483852,-118.2040947
+728,T M Scrap Metals Inc,11092 Tuxford St,Sun Valley,91352,06037,(818) 577-8220,"11092 Tuxford St Sun Valley, CA 91352",34.2331725,-118.3726635
+729,Tauro Recycling,20928 Lassen St,Chatsworth,91311,06037,(323) 407-0016,"20928 Lassen St Chatsworth, CA 91311",34.2497900,-118.5897200
+730,Temple Recycling Center Corp,3521 W Temple St,Los Angeles,90004,06037,(323) 664-2096,"3521 W Temple St Los Angeles, CA 90004",34.0770211,-118.2854872
+731,The Cans Company,9750 Chapman Ave,Garden Grove,92840,06059,(714) 402-5580,"9750 Chapman Ave Garden Grove, CA 92840",33.7881242,-117.9629638
+732,The Cans Company,2394 1/2 W Lincoln Ave,Anaheim,92801,06059,(714) 402-5580,"2394 1/2 W Lincoln Ave Anaheim, CA 92801",33.8313679,-117.9672045
+733,The Cans Company,8911 Garden Grove Blvd,Garden Grove,92844,06059,(714) 402-5580,"8911 Garden Grove Blvd Garden Grove, CA 92844",33.7739638,-117.9764250
+734,The Cans Company,1212 S Magnolia Ave,Anaheim,92804,06059,(714) 402-5580,"1212 S Magnolia Ave Anaheim, CA 92804",33.8157901,-117.9755602
+735,The Cans Company,5111 W Edinger Ave,Santa Ana,92708,06059,(714) 402-5580,"5111 W Edinger Ave Santa Ana, CA 92708",33.7274095,-117.9166950
+736,The Cans Company,2741 1/2 W Macarthur Blvd,Santa Ana,92704,06059,(714) 402-5580,"2741 1/2 W Macarthur Blvd Santa Ana, CA 92704",33.7012787,-117.9059475
+737,The Cans Company,3454 W Lincoln Ave,Anaheim,92801,06059,(714) 402-5580,"3454 W Lincoln Ave Anaheim, CA 92801",33.8309550,-118.0106148
+738,The Cans Company,10751 Westminster Ave,Garden Grove,92843,06059,(714) 402-5580,"10751 Westminster Ave Garden Grove, CA 92843",33.7599273,-117.9413313
+739,The Cans Company,13641 Magnolia Ave,Garden Grove,92844,06059,(714) 402-5580,"13641 Magnolia Ave Garden Grove, CA 92844",33.7643960,-117.9728771
+740,The Cans Company,2401 S Bristol St,Santa Ana,92704,06059,(714) 402-5580,"2401 S Bristol St Santa Ana, CA 92704",33.7143131,-117.8842877
+741,The Cans Company,2714 N Grand Ave,Santa Ana,92705,06059,(714) 402-5580,"2714 N Grand Ave Santa Ana, CA 92705",33.7740799,-117.8531055
+742,The Cans Company,16125 1/2 Brookhurst St,Fountain Valley,92624,06059,(714) 402-5580,"16125 1/2 Brookhurst St Fountain Valley, CA 92624",33.7281883,-117.9564318
+743,The Cans Company,120 S Harbor Blvd,Santa Ana,92704,06059,(714) 402-5580,"120 S Harbor Blvd Santa Ana, CA 92704",33.7443641,-117.9209183
+744,The Cans Company,8522 Westminster Blvd,Westminster,92683,06059,(714) 402-5580,"8522 Westminster Blvd Westminster, CA 92683",33.7579743,-117.9803549
+745,The Green Spot Recycling Co (Los Angeles),4831 Whittier Blvd,Los Angeles,90022-3023,06037,(310) 650-7443,"4831 Whittier Blvd Los Angeles, CA 90022-3023",34.0221359,-118.1635579
+746,Think Green Recycle,740 Merchant St,Los Angeles,90021,06037,(949) 244-7726,"740 Merchant St Los Angeles, CA 90021",34.0358501,-118.2426186
+747,Tiger Recycling,10922 Vanowen St,North Hollywood,91605,06037,(818) 852-4657,"10922 Vanowen St North Hollywood, CA 91605",34.1936403,-118.3689570
+748,Tiger Recycling Center,15334 Chatsworth St Unit P,Mission Hills,91345,06037,(818) 852-4657,"15334 Chatsworth St Unit P Mission Hills, CA 91345",34.2642373,-118.4663600
+749,Tikal Recycling,37202 90Th St,Littlerock,93543,06037,(818) 300-2891,"37202 90Th St Littlerock, CA 93543",34.5580441,-117.9691870
+750,TNT Recycling Center,750 E Manchester Ave Unit 8,Los Angeles,90001,06037,(323) 273-6244,"750 E Manchester Ave Unit 8 Los Angeles, CA 90001",33.9600189,-118.2615165
+751,Torres Recycling,6111 S Vermont Ave,Los Angeles,90044,06037,(323) 571-5819,"6111 S Vermont Ave Los Angeles, CA 90044",33.9836919,-118.2917759
+752,Trojan Recycling Center,9750 Katella Ave,Garden Grove,92804,06059,(714) 345-4234,"9750 Katella Ave Garden Grove, CA 92804",33.8026982,-117.9628379
+753,Tuxford Recycling,11223 Tuxford St,Sun Valley,91352,06037,(818) 767-7727,"11223 Tuxford St Sun Valley, CA 91352",34.2315013,-118.3762324
+754,Tzeng Long USA Inc,1160 E Slauson Ave,Los Angeles,90011,06037,(323) 231-9183,"1160 E Slauson Ave Los Angeles, CA 90011",33.9893373,-118.2547530
+755,UBC Recycling #2,8563 Whittier Blvd,Pico Rivera,90660,06037,(323) 385-2709,"8563 Whittier Blvd Pico Rivera, CA 90660",34.0037491,-118.0890829
+756,Ultimate Recycling,11201 S Figueroa Ave,Los Angeles,90061,06037,(323) 455-7993,"11201 S Figueroa Ave Los Angeles, CA 90061",33.9327276,-118.2828788
+757,Union Recycling Inc,1055 W Ventura St,Fillmore,93015,06111,(805) 727-1416,"1055 W Ventura St Fillmore, CA 93015",34.3948648,-118.9292833
+758,United Recycling,5744 W Manchester Ave,Los Angeles,90045,06037,(323) 408-3725,"5744 W Manchester Ave Los Angeles, CA 90045",33.9596527,-118.3819777
+759,Valdivia Recycling,7015 Whittier Ave,Whittier,90602,06037,(562) 786-1835,"7015 Whittier Ave Whittier, CA 90602",33.9787657,-118.0434033
+760,Valley Recycling,21061 Sherman Way,Canoga Park,91303,06037,,"21061 Sherman Way Canoga Park, CA 91303",34.2018641,-118.5926474
+761,Valley Recycling Center,20220 Plummer St,Chatsworth,91311,06037,(818) 885-7318,"20220 Plummer St Chatsworth, CA 91311",34.2412129,-118.5736885
+762,Venture Recycling Group Inc,1675 E Mauretania St,Wilmington,90744,06037,(310) 830-7400,"1675 E Mauretania St Wilmington, CA 90744",33.7905478,-118.2427489
+763,Venture Recycling Group Inc,1022 W Lomita Blvd,Harbor City,90710,06037,(310) 325-4049,"1022 W Lomita Blvd Harbor City, CA 90710",33.7975443,-118.2936692
+764,Venus Recycling,2517 W 8Th St,Los Angeles,90057,06037,(213) 365-2681,"2517 W 8Th St Los Angeles, CA 90057",34.0571444,-118.2824806
+765,Vernon Recycling Center,1713 E Vernon Ave,Los Angeles,90058,06037,(323) 805-1649,"1713 E Vernon Ave Los Angeles, CA 90058",34.0043703,-118.2423246
+766,Victor Recycling Center Inc,1127 W Temple St,Los Angeles,90012,06037,(818) 731-5398,"1127 W Temple St Los Angeles, CA 90012",34.0641460,-118.2516830
+767,W & W Recycling,3870 S Western Ave,Los Angeles,90062,06037,(818) 355-0680,"3870 S Western Ave Los Angeles, CA 90062",34.0151495,-118.3085045
+768,Wendy Calderon Recycling,4424 Staunton Ave,Vernon,90058,06037,(323) 399-5312,"4424 Staunton Ave Vernon, CA 90058",34.0031500,-118.2417666
+769,West Coast Recycling Center,1736 Chapin Rd,Montebello,90640,06037,(323) 727-9232,"1736 Chapin Rd Montebello, CA 90640",33.9768827,-118.1209257
+770,Westside Metal Recycling,6449 San Fernando Rd,Glendale,91201,06037,(818) 243-6965,"6449 San Fernando Rd Glendale, CA 91201",34.1671388,-118.2901865
+771,Whittier Auto Dismantling,6330 Magnolia Ave,Whittier,90601,06037,(310) 386-9493,"6330 Magnolia Ave Whittier, CA 90601",33.9834420,-118.0499096
+772,Wilmington Recyclers,1120 Henry Ford Ave,Wilmington,90744,06037,(310) 952-9975,"1120 Henry Ford Ave Wilmington, CA 90744",33.7863873,-118.2423233
+773,Woodman & Chase Recycling,8717 Woodman Ave,Arleta,91331,06037,(818) 935-9926,"8717 Woodman Ave Arleta, CA 91331",34.2280946,-118.4350775
+774,X-Treme Recycling,3535 Medford St,Los Angeles,90063,06037,(323) 359-9879,"3535 Medford St Los Angeles, CA 90063",34.0605332,-118.1875515
+775,Zhak Inc,1425 W Arrow Hwy,San Dimas,91773,06037,(818) 642-3706,"1425 W Arrow Hwy San Dimas, CA 91773",34.1075111,-117.8363630
+776,Sandoval Recycling,3317 Highway 132,La Grange,95329,06109,((209)) 984-6157,"3317 Highway 132 La Grange, CA 95329",37.6844888,-120.3302135
+777,Novato Recycling Center,7576 Redwood Blvd,Novato,94945,06041,(800) 243-0291,"7576 Redwood Blvd Novato, CA 94945",38.1144788,-122.5668141
+778,Petaluma Recycling Center,315 2Nd St,Petaluma,94952,06097,(707) 763-4761,"315 2Nd St Petaluma, CA 94952",38.2327487,-122.6344681
+779,Redwood Waste Solutions,44261 Little Lake Road,Mendocino,95460,06045,(707) 234-6400,"44261 Little Lake Road Mendocino, CA 95460",39.3110651,-123.7839599
+780,Redwood Waste Solutions Inc,3200 Taylor Dr,Ukiah,95482,06045,(707) 234-6400,"3200 Taylor Dr Ukiah, CA 95482",39.1093928,-123.1936770
+781,Redwood Waste Solutions Inc.,15051 Caspar Road,Caspar,95420,06045,7072346400,"15051 Caspar Road Caspar, CA 95420",39.3654730,-123.8136344
+782,Redwood Waste Solutions Inc.,910 Franklin Street,Fort Bragg,95437,06045,7072346400,"910 Franklin Street Fort Bragg, CA 95437",39.4521089,-123.8041836
+783,Solid Waste Recycling Center Laytonville,1825 Branscomb Rd,Laytonville,95454,06045,(707) 984-8303,"1825 Branscomb Rd Laytonville, CA 95454",39.6710330,-123.5068720
+784,Willits Solid Waste Transfer & Recycling Center,350 Franklin Ave,Willits,95490,06045,(707) 459-0272,"350 Franklin Ave Willits, CA 95490",39.4038010,-123.3630144
+785,A & S Metals,1616 Angelo Way,Modesto,95358,06099,(209) 537-4766,"1616 Angelo Way Modesto, CA 95358",37.6067762,-120.9866399
+786,Baeza Recycling,1500 Dallas St,Modesto,95358,06099,(209) 581-9417,"1500 Dallas St Modesto, CA 95358",37.6090225,-121.0009851
+787,C & M Recycling,107 S 2Nd St,Patterson,95363,06099,(559) 706-7351,"107 S 2Nd St Patterson, CA 95363",37.4702114,-121.1281229
+788,Ceres Recycling Center,3940 Moffett Rd,Ceres,95307,06099,(209) 541-0711,"3940 Moffett Rd Ceres, CA 95307",37.5808347,-120.9475094
+789,Clarissa's Recycling,903 S Jefferson St,Modesto,95351,06099,(209) 496-0515,"903 S Jefferson St Modesto, CA 95351",37.6302392,-121.0091403
+790,CVC Recycle,13301 State Hwy 33,Santa Nella,95322,06047,(209) 600-9992,"13301 State Hwy 33 Santa Nella, CA 95322",37.0963629,-121.0163115
+791,Marias Recycling Center,21813 Highway 33,Crows Landing,95313,06099,(209) 303-4662,"21813 Highway 33 Crows Landing, CA 95313",37.3955700,-121.0740484
+792,Mid Valley Recycling,1520 Meredith Ave,Gustine,95322,06047,(559) 706-3973,"1520 Meredith Ave Gustine, CA 95322",37.2490390,-121.0120822
+793,Sandoval Recycling,2000 N Central Avenue,Ceres,95307,06099,(209) 984-6157,"2000 N Central Avenue Ceres, CA 95307",37.5997149,-120.9562182
+794,Stacey's Recycling Center,1805 Richland Ave,Ceres,95307,06099,(209) 484-0730,"1805 Richland Ave Ceres, CA 95307",37.6025757,-120.9663554
+795,Universal Service Recycling Inc,570 S 9Th St,Modesto,95351,06099,(209) 622-4040,"570 S 9Th St Modesto, CA 95351",37.6224966,-120.9856052
+796,Bluewater Recycling Corp,504 W 12Th St,Alturas,96101,06049,(530) 233-4896,"504 W 12Th St Alturas, CA 96101",41.4947897,-120.5486917
+797,Mammoth Disposal Recycling,59 Commerce Dr,Mammoth Lakes,93546,06051,(760) 934-2201,"59 Commerce Dr Mammoth Lakes, CA 93546",37.6416896,-118.9491720
+798,A & S Metals,456 Brunken Ave,Salinas,93901,06053,(831) 424-3367,"456 Brunken Ave Salinas, CA 93901",36.6666771,-121.6427083
+799,A & S Metals,1080 W Beach St,Watsonville,95076-5130,06087,(831) 633-3379,"1080 W Beach St Watsonville, CA 95076-5130",36.9024119,-121.7719765
+800,A & S Metals,1277 N Davis Rd,Salinas,93907,06053,(831) 633-3379,"1277 N Davis Rd Salinas, CA 93907",36.7010406,-121.6673882
+801,A & S Metals,11340 Commercial Pkwy,Castroville,95012,06053,(409) 633-3379,"11340 Commercial Pkwy Castroville, CA 95012",36.7551903,-121.7376985
+802,Ada's Recycling,1949 Fremont Blvd,Seaside,93955,06053,(831) 240-9056,"1949 Fremont Blvd Seaside, CA 93955",36.6179124,-121.8415544
+803,Ada's Recycling,640 E Boronda Rd,Salinas,93906,06053,(831) 240-9056,"640 E Boronda Rd Salinas, CA 93906",36.7146098,-121.6256269
+804,Ada's Recycling,7925 San Miguel Canyon Rd,Prunedale,93907,06053,(831) 240-9056,"7925 San Miguel Canyon Rd Prunedale, CA 93907",36.8020193,-121.6655469
+805,AMD Recycling Inc,324 Kings St,Salinas,93905,06053,(831) 754-5639,"324 Kings St Salinas, CA 93905",36.6749232,-121.6397771
+806,C & C Recycling,500 Jayne St Ste D,King City,93930,06053,(831) 386-1049,"500 Jayne St Ste D King City, CA 93930",36.2114699,-121.1178801
+807,C & C Recycling #2,905 Broadway St,King City,93930,06053,(831) 970-3114,"905 Broadway St King City, CA 93930",36.2068494,-121.1345693
+808,Cuevas Recycling,1200 Main St,Watsonville,95076,06087,(831) 435-5649,"1200 Main St Watsonville, CA 95076",36.9174873,-121.7712176
+809,G & L Recycling 2,851 5Th St,Gonzales,93926,06053,(831) 970-3114,"851 5Th St Gonzales, CA 93926",36.5144697,-121.4372556
+810,G & L Recycling Soledad,235 C Nestles Rd,Soledad,93960,06053,(831) 315-3313,"235 C Nestles Rd Soledad, CA 93960",36.4195600,-121.3196275
+811,Greenfield Recycling,455 B El Camino Real,Greenfield,93927,06053,(831) 674-7248,"455 B El Camino Real Greenfield, CA 93927",36.3251960,-121.2478517
+812,Hollister Recycling,1771 San Felipe Rd,Hollister,95023,06069,(831) 637-2254,"1771 San Felipe Rd Hollister, CA 95023",36.8818869,-121.3988840
+813,One Stop Recycling,810 B East St,Hollister,95023,06069,(831) 637-1321,"810 B East St Hollister, CA 95023",36.8478193,-121.4014201
+814,Salinas Recycling,316 Commission St,Salinas,93901,06053,(831) 758-5357,"316 Commission St Salinas, CA 93901",36.6780643,-121.6454581
+815,Salinas Recycling #2,1275 S Main St,Salinas,93901,06053,(831) 970-3114,"1275 S Main St Salinas, CA 93901",36.6558605,-121.6589318
+816,San Benito Recycling,10 4Th St,Hollister,95023,06069,(831) 636-1806,"10 4Th St Hollister, CA 95023",36.8528432,-121.3995155
+817,American Canyon Redemption Center,3915 Broadway St,American Canyon,94503,06055,(707) 853-4373,"3915 Broadway St American Canyon, CA 94503",38.1773138,-122.2550034
+818,Blue Front Recycling,2877 Solano Ave,Napa,94558,06055,(916) 519-2040,"2877 Solano Ave Napa, CA 94558",38.3122873,-122.3069527
+819,Clover Flat Resource Recovery Park,4380 Silverado Tr,Calistoga,94515,06055,(707) 963-7988,"4380 Silverado Tr Calistoga, CA 94515",38.5769662,-122.5323518
+820,Devlin Road Transfer Station Buy Back,889 Devlin Rd,American Canyon,94503,06055,(707) 255-5200,"889 Devlin Rd American Canyon, CA 94503",38.2075057,-122.2621320
+821,Silva Recycling,217 Soscol Ave,Napa,94559,06095,(916) 701-3915,"217 Soscol Ave Napa, CA 94559",38.2834315,-122.2776174
+822,Eastern Regional Landfill,900 Cabin Creek Rd,Truckee,96160,06061,(530) 587-4235,"900 Cabin Creek Rd Truckee, CA 96160",39.2920455,-120.2145919
+823,Town Clean Recycle Center,575 S Auburn St,Colfax,95713,06061,(775) 223-9216,"575 S Auburn St Colfax, CA 95713",39.0935962,-120.9524720
+824,Waste Mgmt of Nevada,14741 Wolf Mountain Rd,Grass Valley,95945,06057,(530) 274-3090,"14741 Wolf Mountain Rd Grass Valley, CA 95945",39.1723113,-121.1098796
+825,ABC Recycling,10330 Hole Ave Unit B-9,Riverside,92505,06065,(949) 702-2555,"10330 Hole Ave Unit B-9 Riverside, CA 92505",33.9152192,-117.4656225
+826,Cash 4 Cans,7633 Cypress Ave,Riverside,92503,06065,(562) 804-7270,"7633 Cypress Ave Riverside, CA 92503",33.9430766,-117.4566477
+827,CRV Recycling Solutions,2790 Hamner Ave,Norco,92860,06065,(833) 970-1010,"2790 Hamner Ave Norco, CA 92860",33.9226368,-117.5603543
+828,CRV Recycling Solutions,9225 Magnolia Ave,Riverside,92503,06065,(833) 970-1010,"9225 Magnolia Ave Riverside, CA 92503",33.9239026,-117.4419378
+829,CRV Recycling Solutions,6160 Arlington Ave,Riverside,92504,06065,(833) 970-1010,"6160 Arlington Ave Riverside, CA 92504",33.9457445,-117.4367728
+830,Ecogen Recycling Center,8616 California Ave,Riverside,92504,06065,(951) 655-0348,"8616 California Ave Riverside, CA 92504",33.9352929,-117.4346835
+831,Green-N-Clean Recycling Inc,2621 Green River Rd,Corona,92882-7433,06065,(323) 697-1688,"2621 Green River Rd Corona, CA 92882-7433",33.8712622,-117.6208332
+832,Sanchez Recycling Inc,1130 W 6Th St,Corona,92882,06065,(714) 465-6732,"1130 W 6Th St Corona, CA 92882",33.8760324,-117.5850873
+833,Six Pac Recycling Corp,1430 E 6Th St,Corona,92879,06065,(951) 734-2910x106,"1430 E 6Th St Corona, CA 92879",33.8735268,-117.5372150
+834,Sunset Recycling Center,4250 Van Buren Blvd,Riverside,92503,06065,(818) 661-7387,"4250 Van Buren Blvd Riverside, CA 92503",33.9275748,-117.4534098
+835,FCC Environmental Services California LLC,3195 Athens Ave,Lincoln,95648,06061,(916) 234-5307,"3195 Athens Ave Lincoln, CA 95648",38.8374513,-121.3481851
+836,Gaytan Recycling,609 Riverside Ave,Roseville,95678,06061,(916) 239-9672,"609 Riverside Ave Roseville, CA 95678",38.7357545,-121.2902104
+837,JL Recycling Co,1000 Douglas Blvd,Roseville,95678,06061,(916) 459-0814,"1000 Douglas Blvd Roseville, CA 95678",38.7435946,-121.2785678
+838,Norcal Recycling,67 Lincoln Blvd,Lincoln,95648,06061,(916) 749-5889,"67 Lincoln Blvd Lincoln, CA 95648",38.8782459,-121.2942857
+839,Norcal Recycling,4008 Foothills Blvd,Roseville,95747,06061,(916) 749-5889,"4008 Foothills Blvd Roseville, CA 95747",38.7537680,-121.3111448
+840,Norcal Recycling,1811 Douglas Blvd,Roseville,95661,06061,(916) 749-5889,"1811 Douglas Blvd Roseville, CA 95661",38.7465042,-121.2604837
+841,Santana Recycling,10261 Fairway Dr,Roseville,95678,06061,(916) 856-4734,"10261 Fairway Dr Roseville, CA 95678",38.7876220,-121.2816807
+842,4th Street Recycling,650 Indian Circle Dr,Perris,92570,06065,(323) 204-8308,"650 Indian Circle Dr Perris, CA 92570",33.7825194,-117.2286478
+843,AAA Scrap Recycling Inc,2810 Rubidoux Blvd,Jurupa Valley,92509,06065,(909) 900-2310,"2810 Rubidoux Blvd Jurupa Valley, CA 92509",34.0083365,-117.3963074
+844,AIM Recycling Fontana,14187 Slover Ave,Fontana,92335,06071,(760) 722-1917,"14187 Slover Ave Fontana, CA 92335",34.0626678,-117.4956552
+845,AIM Recycling Perris,23332 Cajalco Rd,Perris,92570,06065,(951) 657-7725,"23332 Cajalco Rd Perris, CA 92570",33.8389552,-117.2568418
+846,Amko Recycling LLC,340 W Valley Blvd,Colton,92324,06071,(909) 370-2656,"340 W Valley Blvd Colton, CA 92324",34.0671112,-117.3281449
+847,Apple Recycling,65959 Harrison St,Thermal,92274,06065,(760) 397-4279,"65959 Harrison St Thermal, CA 92274",33.5694963,-116.1813616
+848,Apple Recycling,80631 Indio Blvd,Indio,92201,06065,(760) 397-4279,"80631 Indio Blvd Indio, CA 92201",33.7408357,-116.2577548
+849,Apple Recycling,65105 Dillon Rd,Desert Hot Springs,92240,06065,(760) 625-3618,"65105 Dillon Rd Desert Hot Springs, CA 92240",33.9244287,-116.5251952
+850,Augustine Metals Inc,2021 W Placentia Ln,Colton,92324,06071,(951) 682-8102,"2021 W Placentia Ln Colton, CA 92324",34.0205070,-117.3599170
+851,Berber Recycling,5675 Mission Blvd,Riverside,92509,06065,(213) 352-0002,"5675 Mission Blvd Riverside, CA 92509",33.9982453,-117.4088983
+852,Best Value Recycling LLC,15062 Valley Blvd,Fontana,92335,06071,(949) 477-2100,"15062 Valley Blvd Fontana, CA 92335",34.0710784,-117.4761747
+853,Burrtec Recovery and Transfer LLC,70 100 Edom Hill Rd,Cathedral City,92234,06065,(760) 578-7121,"70 100 Edom Hill Rd Cathedral City, CA 92234",33.8816644,-116.4536471
+854,Burrtec Waste and Recycling Services,41800 Corporate Way,Palm Desert,92260,06065,(760) 346-2953,"41800 Corporate Way Palm Desert, CA 92260",33.7447902,-116.3619385
+855,California Oaks Center,40645 California Oaks Rd,Murrieta,92562,06065,(909) 437-4755,"40645 California Oaks Rd Murrieta, CA 92562",33.5746800,-117.2028510
+856,Canco Recycling,1224 N Mt Vernon Ave,Colton,92324,06071,(909) 824-2559,"1224 N Mt Vernon Ave Colton, CA 92324",34.0775715,-117.3134909
+857,Cans Plus Recycling,29170 Riverside Dr #1,Lake Elsinore,92530,06065,(951) 245-1178,"29170 Riverside Dr #1 Lake Elsinore, CA 92530",33.6957080,-117.3447400
+858,Cash 4 Cans Recycling Center,494 N Scovell Ave,San Jacinto,92582,06065,(951) 236-5096,"494 N Scovell Ave San Jacinto, CA 92582",33.7846102,-116.9735134
+859,Cedar Recycling Center,10896 Cedar Ave,Bloomington,92316,06071,(407) 592-3514,"10896 Cedar Ave Bloomington, CA 92316",34.0561661,-117.3971520
+860,Coachella Valley Transfer Station,87 011A Landfill Rd,Coachella,92236,06065,(760) 863-4094,"87 011A Landfill Rd Coachella, CA 92236",33.7286042,-116.1415410
+861,Colorado River Valley Recycling Center,377 S Broadway,Blythe,92225,06065,(760) 922-5457,"377 S Broadway Blythe, CA 92225",33.6052439,-114.5972697
+862,CR & R Inc,14521 S Broadway,Blythe,92225,06065,(760) 922-2267,"14521 S Broadway Blythe, CA 92225",33.5983679,-114.5969507
+863,CRV Recycling Solutions,1786 E Lugonia Ave,Redlands,92374,06071,(833) 970-1010,"1786 E Lugonia Ave Redlands, CA 92374",34.0693169,-117.1391250
+864,CRV Recycling Solutions,31813 Temecula Pkwy,Temecula,92592,06065,(833) 970-1010,"31813 Temecula Pkwy Temecula, CA 92592",33.4781556,-117.1015642
+865,CRV Recycling Solutions,17050 Van Buren Blvd,Riverside,92504,06065,(833) 970-1010,"17050 Van Buren Blvd Riverside, CA 92504",33.8835768,-117.3649867
+866,CRV Recycling Solutions,16750 Lakeshore Dr,Lake Elsinore,92530,06065,(833) 970-1010,"16750 Lakeshore Dr Lake Elsinore, CA 92530",33.6857426,-117.3679312
+867,CRV Recycling Solutions,25904 Newport Rd,Menifee,92584,06065,(833) 970-1010,"25904 Newport Rd Menifee, CA 92584",33.6864465,-117.2068872
+868,CRV Recycling Solutions,1155 Calimesa Blvd,Calimesa,92320,06065,(833) 970-1010,"1155 Calimesa Blvd Calimesa, CA 92320",33.9959056,-117.0567619
+869,CRV Recycling Solutions,1536 Barton Rd,Redlands,92373,06071,(833) 970-1010,"1536 Barton Rd Redlands, CA 92373",34.0482900,-117.2070710
+870,CRV Recycling Solutions,2053 E Washington St,Colton,92324,06071,(833) 970-1010,"2053 E Washington St Colton, CA 92324",34.0499389,-117.2915345
+871,CRV Recycling Solutions,11365 Bryant St,Yucaipa,92399,06071,(833) 970-1010,"11365 Bryant St Yucaipa, CA 92399",34.0473553,-117.0325232
+872,D & M Metals,840 E State St,Ontario,91761-1836,06071,(909) 986-1996,"840 E State St Ontario, CA 91761-1836",34.0597032,-117.6376249
+873,Diamond Hills Recycling Corp,249 Veile Ave,Beaumont,92223,06065,(951) 845-4315,"249 Veile Ave Beaumont, CA 92223",33.9240033,-116.9885714
+874,EarthWize Recycling,1231 S Sanderson Ave,Hemet,92545,06065,(909) 933-2773,"1231 S Sanderson Ave Hemet, CA 92545",33.7266112,-117.0098913
+875,Ecogen Recycling Center #4,24875 Alessandro Blvd,Moreno Valley,92553,06065,(951) 655-0348,"24875 Alessandro Blvd Moreno Valley, CA 92553",33.9159141,-117.2298117
+876,Eddies Place,65770 Hammond Rd,Mecca,92254,06065,(760) 396-2141,"65770 Hammond Rd Mecca, CA 92254",33.5708702,-116.0767829
+877,Etiwanda Recycling Inc,6102 Etiwanda Ave,Jurupa Valley,91752,06065,(951) 263-6173,"6102 Etiwanda Ave Jurupa Valley, CA 91752",33.9771774,-117.5223731
+878,Everyday Recycling,3900 Chicago Ave,Riverside,92507,06065,(626) 290-0895,"3900 Chicago Ave Riverside, CA 92507",33.9733431,-117.3466131
+879,Green Town Recycling,14920 Perris Blvd,Moreno Valley,92533,06065,(818) 679-0687,"14920 Perris Blvd Moreno Valley, CA 92533",33.9035488,-117.2245647
+880,Green Town Recycling,24121 Sunnymead Blvd,Moreno Valley,92533,06065,(818) 679-0687,"24121 Sunnymead Blvd Moreno Valley, CA 92533",33.9388281,-117.2417246
+881,Green-Go Recycling Temecula,27635 Diaz Rd,Temecula,92590,06065,(951) 693-1500,"27635 Diaz Rd Temecula, CA 92590",33.5089981,-117.1637580
+882,Greenyard Recycling Inc,2570 Vineyard Ave,Ontario,91761,06071,(818) 531-8099,"2570 Vineyard Ave Ontario, CA 91761",34.0270571,-117.6114656
+883,J&C Recycling,435 E Lincoln St Ste D,Banning,92220,06065,(951) 400-3900,"435 E Lincoln St Ste D Banning, CA 92220",33.9218519,-116.8716460
+884,Jurupa Recycling Center,9790 Jurupa Rd,Riverside,92509,06065,(323) 573-0746,"9790 Jurupa Rd Riverside, CA 92509",33.9938742,-117.4967893
+885,K & R Recycling Center,875 N Rancho Ave,Colton,92324,06071,(323) 921-0861,"875 N Rancho Ave Colton, CA 92324",34.0742898,-117.3359735
+886,Love Earth Recycling,31949 Corydon Rd #160,Lake Elsinore,92530,06065,(951) 471-0920,"31949 Corydon Rd #160 Lake Elsinore, CA 92530",33.6288786,-117.2956102
+887,Main Street Fibers Inc,653 E Main St,Ontario,91761,06071,(909) 986-6310,"653 E Main St Ontario, CA 91761",34.0613768,-117.6420799
+888,Main Street Fibers Inc,608 E Main St,Ontario,91761,06071,(909) 986-6310,"608 E Main St Ontario, CA 91761",34.0609841,-117.6424922
+889,Mason Recycling Center,7350 Mission Blvd,Jurupa Valley,92509,06065,(323) 337-2597,"7350 Mission Blvd Jurupa Valley, CA 92509",34.0116162,-117.4437077
+890,Mendoza Recycling Center,26020 Hwy 74,Perris,92570,06065,(310) 310-1490,"26020 Hwy 74 Perris, CA 92570",33.7420863,-117.2810907
+891,Menlo Recycle Center,275 E Menlo Ave,Hemet,92543,06065,(951) 766-8520,"275 E Menlo Ave Hemet, CA 92543",33.7580073,-116.9704120
+892,Menlo Recycling Center,151 W 7Th St,Perris,92570-2354,06065,(951) 766-8520,"151 W 7Th St Perris, CA 92570-2354",33.7789011,-117.2301819
+893,Millenia Recycling,800 E Lugonia Ave,Redlands,92374,06071,(909) 240-6183,"800 E Lugonia Ave Redlands, CA 92374",34.0694485,-117.1719859
+894,Millenia Recycling,18184 Valley Blvd,Bloomington,92316,06071,(909) 240-6183,"18184 Valley Blvd Bloomington, CA 92316",34.0707078,-117.4076850
+895,Neill's Recycling Center,31816 Us Highway 74,Homeland,92548,06065,(951) 514-8656,"31816 Us Highway 74 Homeland, CA 92548",33.7430759,-117.1091967
+896,New Era Metals Inc,1401 Mesa View St,Hemet,92543,06065,(951) 654-7112,"1401 Mesa View St Hemet, CA 92543",33.7710283,-116.9743436
+897,One's Recycling,15928 Perris Blvd,Moreno Valley,92551,06065,(951) 655-0525,"15928 Perris Blvd Moreno Valley, CA 92551",33.8894708,-117.2258598
+898,Opal Recycling Center,6328 Mission Blvd,Jurupa Valley,92509,06065,(323) 919-7853,"6328 Mission Blvd Jurupa Valley, CA 92509",34.0056990,-117.4269390
+899,Orange Recycling,1550 Orange St,Redlands,92374,06071,(323) 532-8390,"1550 Orange St Redlands, CA 92374",34.0769428,-117.1820072
+900,Ponce Recycling,9954 Sierra Ave,Fontana,92335,06071,(323) 533-4862,"9954 Sierra Ave Fontana, CA 92335",34.0728373,-117.4368471
+901,Ponce Recycling,1150 N Pepper Ave,Colton,92324,06071,(323) 533-4862,"1150 N Pepper Ave Colton, CA 92324",34.0798013,-117.3512727
+902,Ponce Recycling,1733 E Palm Canyon Dr,Palm Springs,92264,06065,(714) 794-7542,"1733 E Palm Canyon Dr Palm Springs, CA 92264",33.7999896,-116.5261477
+903,Recycling Services Centers,6565 Mission Blvd,Riverside,92509,06065,(951) 681-2525,"6565 Mission Blvd Riverside, CA 92509",34.0086991,-117.4296408
+904,Renovate Recycling Center Inc,8800 Limonite Ave,Riverside,92509,06065,(714) 453-7028,"8800 Limonite Ave Riverside, CA 92509",33.9752349,-117.4763591
+905,Renovate Recycling Center Inc,138 W Bryant St,Bloomington,92316,06071,(714) 453-7028,"138 W Bryant St Bloomington, CA 92316",34.0538843,-117.3710222
+906,Robert A Nelson Transfer Station,1830 Agua Mansa Rd,Riverside,92509,06065,(951) 786-0544,"1830 Agua Mansa Rd Riverside, CA 92509",34.0219723,-117.3812940
+907,Safe Way Recycling & Recovery Inc,21516 Main St Ste B,Grand Terrace,92313,06071,(951) 742-5719,"21516 Main St Ste B Grand Terrace, CA 92313",34.0198341,-117.3344764
+908,Sanchez Recycling Inc,22405 Goldencrest Dr,Moreno Valley,92553,06065,(714) 465-6732,"22405 Goldencrest Dr Moreno Valley, CA 92553",33.9110594,-117.2718500
+909,Santana's Recycling Center,24405 Sunnymead Blvd,Moreno Valley,92553,06065,(951) 448-0874,"24405 Sunnymead Blvd Moreno Valley, CA 92553",33.9385550,-117.2370340
+910,Sunset Recycling Center,82124 Us Highway 111,Indio,92201,06065,(818) 661-7387,"82124 Us Highway 111 Indio, CA 92201",33.7080089,-116.2415518
+911,Sunset Recycling Center,315 E Alessandro Blvd,Riverside,92508,06065,(818) 661-7387,"315 E Alessandro Blvd Riverside, CA 92508",33.9131123,-117.3259416
+912,Sunset Recycling Center,2070 W Redlands Blvd,Redlands,92373,06071,(818) 661-7387,"2070 W Redlands Blvd Redlands, CA 92373",34.0631623,-117.2248885
+913,Sunset Recycling Center,79795 Hwy 111,La Quinta,92253,06065,(818) 661-7387,"79795 Hwy 111 La Quinta, CA 92253",33.7041984,-116.2730838
+914,Sunset Recycling Center,1691 E 6Th St,Beaumont,92223,06065,(818) 661-7387,"1691 E 6Th St Beaumont, CA 92223",33.9289074,-116.9487346
+915,Sunset Recycling Center,23801 Washington Ave,Murrieta,92562,06065,(818) 661-7387,"23801 Washington Ave Murrieta, CA 92562",33.5704478,-117.2348172
+916,Sunset Recycling Center,12660 Limonite,Corona,92880,06065,(818) 661-7387,"12660 Limonite Corona, CA 92880",33.9742166,-117.5602387
+917,Sunset Recycling Center,33145 Temecula Pkwy,Temecula,92592,06065,(818) 661-7387,"33145 Temecula Pkwy Temecula, CA 92592",33.4844405,-117.0796840
+918,Sunset Recycling Center,1688 N Perris Blvd,Perris,92571,06065,(818) 661-7387,"1688 N Perris Blvd Perris, CA 92571",33.8020373,-117.2301015
+919,Titan Industrial Metal Corporation,14930 Valley Blvd,Fontana,92335,06071,(909) 355-8811,"14930 Valley Blvd Fontana, CA 92335",34.0704621,-117.4791715
+920,U S Metals Inc,84481 Cabazon Rd Ste D,Indio,92201,06065,(760) 775-9922,"84481 Cabazon Rd Ste D Indio, CA 92201",33.7007593,-116.1905998
+921,Uriel Recycling Center,17847 Valley Blvd,Bloomington,92316,06071,(213) 435-3821,"17847 Valley Blvd Bloomington, CA 92316",34.0701322,-117.4150491
+922,Vernon Recycling,9170 Mission Blvd,Jurupa Valley,92509,06065,(323) 805-1649,"9170 Mission Blvd Jurupa Valley, CA 92509",34.0113866,-117.4834189
+923,Zuniga Recycling,21524 Dracea Ave,Moreno Valley,92553,06065,(951) 616-7664,"21524 Dracea Ave Moreno Valley, CA 92553",33.9279405,-117.2871817
+924,2 Sisters Recycling LLC,2390 Florin Rd,Sacramento,95822,06067,(916) 601-7735,"2390 Florin Rd Sacramento, CA 95822",38.4955055,-121.4831459
+925,A Robinson Recycle Center,7246 Franklin Blvd,Sacramento,95823,06067,(916) 233-7694,"7246 Franklin Blvd Sacramento, CA 95823",38.4939675,-121.4607715
+926,A Robinson Recycle Center,8126 Sheldon Rd,Elk Grove,95758,06067,(916) 600-3781,"8126 Sheldon Rd Elk Grove, CA 95758",38.4377032,-121.4073676
+927,Billionaire Family Recycling,1500 W El Camino Ave #532,Sacramento,95833,06067,(916) 459-8189,"1500 W El Camino Ave #532 Sacramento, CA 95833",38.6120013,-121.4947985
+928,Brambila Recycling,2330 Broadway,Sacramento,95818,06067,(916) 643-5313,"2330 Broadway Sacramento, CA 95818",38.5585523,-121.4822229
+929,Brambila Recycling Co,5600 Freeport Blvd,Sacramento,95822,06067,(916) 643-5313,"5600 Freeport Blvd Sacramento, CA 95822",38.5243367,-121.4976429
+930,Camacho Recycling,3907 Stockton Blvd,Sacramento,95820,06067,(916) 469-9781,"3907 Stockton Blvd Sacramento, CA 95820",38.5391882,-121.4492558
+931,Capital City Recycling Inc,3185 Longview Dr Unit C,Sacramento,95821,06067,(916) 334-3591,"3185 Longview Dr Unit C Sacramento, CA 95821",38.6427251,-121.3912894
+932,D C Metals,6849 28Th St,North Highlands,95660,06067,(916) 344-0862,"6849 28Th St North Highlands, CA 95660",38.6922061,-121.4019173
+933,Diaz Recycling,548 S Sacramento St,Lodi,95240,06077,(209) 502-5729,"548 S Sacramento St Lodi, CA 95240",38.1266559,-121.2727215
+934,Farmers Country Market,7672 Greenback Ln,Citrus Heights,95610,06067,(916) 725-4001,"7672 Greenback Ln Citrus Heights, CA 95610",38.6780642,-121.2816360
+935,Gaytan Recycling,1001 Sacramento Ave,West Sacramento,95605,06113,(916) 239-9672,"1001 Sacramento Ave West Sacramento, CA 95605",38.5894224,-121.5277517
+936,Gaytan Recycling,6220 Fruitridge Rd,Sacramento,95820,06067,(916) 239-9672,"6220 Fruitridge Rd Sacramento, CA 95820",38.5247682,-121.4315784
+937,Gaytan Recycling,6800 Fruitridge Rd,Sacramento,95820,06067,(916) 239-9672,"6800 Fruitridge Rd Sacramento, CA 95820",38.5248028,-121.4240408
+938,Gaytan Recycling,8038 Greenback Ln,Citrus Heights,95610,06067,(916) 239-9672,"8038 Greenback Ln Citrus Heights, CA 95610",38.6777756,-121.2641038
+939,Go Green Recycling,1803 S Stockton St,Lodi,95240,06077,(209) 462-8473,"1803 S Stockton St Lodi, CA 95240",38.1112988,-121.2702521
+940,Green Zone Recycling,225 Industrial Way Ste C,Woodland,95776,06113,(530) 661-6800,"225 Industrial Way Ste C Woodland, CA 95776",38.6799665,-121.7522235
+941,IB Recycling,2267 Northgate Blvd,Sacramento,95833,06067,(916) 929-7460,"2267 Northgate Blvd Sacramento, CA 95833",38.6083549,-121.4760793
+942,Ivan's Recycling,7825 Lichen Dr,Citrus Heights,95621,06067,(916) 790-4960,"7825 Lichen Dr Citrus Heights, CA 95621",38.7086512,-121.3143749
+943,J and M Recycling Inc,2205 Rice Ave,West Sacramento,95691,06113,(916) 372-4223,"2205 Rice Ave West Sacramento, CA 95691",38.5872945,-121.5381567
+944,J L Recycling,731 Poplar Ave,West Sacramento,95691,06113,(916) 646-4846,"731 Poplar Ave West Sacramento, CA 95691",38.5807707,-121.5336664
+945,J L Recycling,7547 Watt Ave,North Highlands,95660,06067,(916) 459-0814,"7547 Watt Ave North Highlands, CA 95660",38.7036962,-121.3835097
+946,J L Recycling,7119 Elk Grove Blvd,Elk Grove,95758,06067,(916) 459-0814,"7119 Elk Grove Blvd Elk Grove, CA 95758",38.4099377,-121.4196133
+947,JL Recycling Co,3270 Northgate Blvd,Sacramento,95833,06067,(707) 529-2517,"3270 Northgate Blvd Sacramento, CA 95833",38.6262411,-121.4746959
+948,JV Recycling,3021 Sunrise Blvd,Rancho Cordova,95742,06067,(916) 968-4189,"3021 Sunrise Blvd Rancho Cordova, CA 95742",38.5937230,-121.2649481
+949,LG Recycling,5200 Franklin Blvd,Sacramento,95820,06067,(916) 277-5554,"5200 Franklin Blvd Sacramento, CA 95820",38.5279358,-121.4728333
+950,M & R Recycling LLC,659 Highway 12,Rio Vista,94571,06095,(209) 385-3299,"659 Highway 12 Rio Vista, CA 94571",38.1604321,-121.6961391
+951,M & R Recycling LLC,12811 E Brandt Rd,Lockeford,95237,06077,(209) 365-3299,"12811 E Brandt Rd Lockeford, CA 95237",38.1475773,-121.1590424
+952,M & R Recycling LLC,741 S Cherokee Ln,Lodi,95240,06077,(209) 365-3299,"741 S Cherokee Ln Lodi, CA 95240",38.1256172,-121.2608845
+953,M Lopez Recycling Inc,2835 Norwood Ave,Sacramento,95815,06067,(530) 450-5109,"2835 Norwood Ave Sacramento, CA 95815",38.6194483,-121.4577565
+954,M Lopez Recycling Inc,400 El Camino Ave,Sacramento,95815,06067,(916) 275-8290,"400 El Camino Ave Sacramento, CA 95815",38.6105407,-121.4577953
+955,Ocean's Recycling,4551 Mack Rd,Sacramento,95823-4532,06067,(916) 508-0631,"4551 Mack Rd Sacramento, CA 95823-4532",38.4755078,-121.4494567
+956,Ocean's Recycling LLC,5301 Fruitridge Rd,Sacramento,95820-5425,06067,(916) 508-0631,"5301 Fruitridge Rd Sacramento, CA 95820-5425",38.5252910,-121.4443037
+957,Ocean's Recycling LLC,6100 Mack Rd,Sacramento,95823,06067,(916) 508-0631,"6100 Mack Rd Sacramento, CA 95823",38.4733193,-121.4311721
+958,Ocean's Recycling LLC,6021 Stockton Blvd,Sacramento,95824,06067,(916) 508-0631,"6021 Stockton Blvd Sacramento, CA 95824",38.5168421,-121.4382077
+959,Ocean's Recycling LLC,9160 Elk Grove Florin Rd,Elk Grove,95624,06067,(916) 508-0631,"9160 Elk Grove Florin Rd Elk Grove, CA 95624",38.4241856,-121.3722955
+960,Ocean's Recycling LLC,8425 Elk Grove Florin Rd,Elk Grove,95624,06067,(916) 508-0631,"8425 Elk Grove Florin Rd Elk Grove, CA 95624",38.4513834,-121.3700608
+961,Ocean's Recycling LLC,7421 W Stockton Blvd,Sacramento,95823,06067,(916) 508-0631,"7421 W Stockton Blvd Sacramento, CA 95823",38.4566124,-121.4154386
+962,P & R Recycling,324 N Cherokee Ln,Lodi,95240,06077,(209) 518-7076,"324 N Cherokee Ln Lodi, CA 95240",38.1394987,-121.2606245
+963,Pacific Recycling,8700 Greenback Ln,Orangevale,95662,06067,(916) 583-3301,"8700 Greenback Ln Orangevale, CA 95662",38.6781006,-121.2344825
+964,Pacific Recycling,814 A St,Galt,95632,06067,(916) 583-3301,"814 A St Galt, CA 95632",38.2544110,-121.3001561
+965,Radius Recycling,12000 Folsom Blvd,Rancho Cordova,95742,06067,(916) 985-4810,"12000 Folsom Blvd Rancho Cordova, CA 95742",38.6238378,-121.2258335
+966,Rai Recycling,7891 Stockton Blvd,Sacramento,95823,06067,(916) 715-5990,"7891 Stockton Blvd Sacramento, CA 95823",38.4714304,-121.4167612
+967,Rai Recycling,6234 Auburn Blvd,Citrus Heights,95621-5202,06067,(916) 715-5990,"6234 Auburn Blvd Citrus Heights, CA 95621-5202",38.6801449,-121.3181718
+968,Recology Davis,2727 2Nd St,Davis,95618,06113,(530) 756-4646,"2727 2Nd St Davis, CA 95618",38.5492325,-121.7178537
+969,Recology Dixon,302 N 1St St,Dixon,95620,06095,(707) 448-2945,"302 N 1St St Dixon, CA 95620",38.4476808,-121.8222314
+970,Recycle Planet Inc,6935 Power Inn Rd,Sacramento,95828,06067,(916) 732-9253,"6935 Power Inn Rd Sacramento, CA 95828",38.5007050,-121.4076989
+971,River City Waste Recyclers,8940 Elder Creek Rd,Sacramento,95829,06067,(916) 383-5511,"8940 Elder Creek Rd Sacramento, CA 95829",38.5104888,-121.3693432
+972,S V Recycling,8110 Junipero St,Sacramento,95828,06067,(916) 387-0177,"8110 Junipero St Sacramento, CA 95828",38.5030800,-121.4081470
+973,Santana Recycling,3740 Balsam St,Sacramento,95828,06067,(916) 856-4734,"3740 Balsam St Sacramento, CA 95828",38.6362070,-121.4303990
+974,Santana Recycling,8363 Folsom Blvd,Sacramento,95670,06067,(916) 856-4734,"8363 Folsom Blvd Sacramento, CA 95670",38.5485926,-121.3961930
+975,Santana Recycling,7007 S Land Park Dr,Sacramento,95831,06067,(916) 856-4734,"7007 S Land Park Dr Sacramento, CA 95831",38.4974030,-121.5097980
+976,Silva Recycling,6401 Rio Linda Blvd,Rio Linda,95673,06067,(916) 701-3915,"6401 Rio Linda Blvd Rio Linda, CA 95673",38.6842380,-121.4572901
+977,Solorzano Recycling,18430 Rd 102,Woodland,95776,06113,(916) 218-2646,"18430 Rd 102 Woodland, CA 95776",38.6709833,-121.7292095
+978,Sunshine Steel Enterprises Corp,8265 Belvedere Ave,Sacramento,95826,06067,(916) 451-7031,"8265 Belvedere Ave Sacramento, CA 95826",38.5384367,-121.4007926
+979,Tokay Valley Recycling Inc,60 S Cluff Ave,Lodi,95240,06077,(209) 339-4990,"60 S Cluff Ave Lodi, CA 95240",38.1326795,-121.2520906
+980,TopRecycling LLC,4900 Elk Grove Blvd,Elk Grove,95758,06067,(916) 758-1866,"4900 Elk Grove Blvd Elk Grove, CA 95758",38.4073273,-121.4482961
+981,True Value,345 W Main St,Woodland,95695,06113,(916) 218-2646,"345 W Main St Woodland, CA 95695",38.6768023,-121.7997960
+982,Universal Service Recycling Inc,8455 24Th Ave,Sacramento,95824,06067,(916) 233-3400,"8455 24Th Ave Sacramento, CA 95824",38.5305503,-121.3931362
+983,Valdez Recycling,9833 Kent St Ste 101,Elk Grove,95624,06067,(916) 690-8833,"9833 Kent St Ste 101 Elk Grove, CA 95624",38.3986659,-121.3571714
+984,Vargas Recycling,18754 E Hwy 26,Linden,95236,06077,(209) 507-5631,"18754 E Hwy 26 Linden, CA 95236",38.0204208,-121.0852024
+985,Yolo Employment Services,660 6Th St,Woodland,95695,06113,(530) 662-8618,"660 6Th St Woodland, CA 95695",38.6727642,-121.7676565
+986,A & A Brothers Recycling,22393 Outer Highway 18,Apple Valley,92307,06071,(760) 680-7617,"22393 Outer Highway 18 Apple Valley, CA 92307",34.4999881,-117.1752478
+987,A-1 Hesperia Recycling Company Inc,16666 Spruce St,Hesperia,92345,06071,(760) 949-4629,"16666 Spruce St Hesperia, CA 92345",34.4244587,-117.2995123
+988,AIM Recycling Hesperia,11099 G Ave,Hesperia,92345,06071,(760) 947-3099,"11099 G Ave Hesperia, CA 92345",34.4529188,-117.2788380
+989,All Recycling Center LLC,931 W Main St,Barstow,92311,06071,(760) 256-1204,"931 W Main St Barstow, CA 92311",34.8973419,-117.0385288
+990,AM Recycling Inc,8963 Sierra Ave,Fontana,92335,06071,(323) 896-4192,"8963 Sierra Ave Fontana, CA 92335",34.0908462,-117.4344396
+991,Apple Valley Recycling,20947 Bear Valley Rd,Apple Valley,92308-6901,06071,(760) 240-3858,"20947 Bear Valley Rd Apple Valley, CA 92308-6901",34.4708948,-117.2068183
+992,Barstow Recycling,2160 E Main St,Barstow,92311,06071,(760) 987-1899,"2160 E Main St Barstow, CA 92311",34.8844635,-116.9874170
+993,Berber Recycling,728 E Foothill Blvd,Rialto,92376,06071,(213) 352-0002,"728 E Foothill Blvd Rialto, CA 92376",34.1070912,-117.3566432
+994,Big Bear Disposal Inc,41970 Garstin Rd,Big Bear Lake,92315,06071,(909) 866-3942,"41970 Garstin Rd Big Bear Lake, CA 92315",34.2460132,-116.8859155
+995,City Recycling,836 Preston St,San Bernardino,92410,06071,(909) 888-5700,"836 Preston St San Bernardino, CA 92410",34.1150415,-117.2749471
+996,CRV Recycling Solutions,18140 Arrow Blvd,Fontana,92335,06071,(833) 970-1010,"18140 Arrow Blvd Fontana, CA 92335",34.1009398,-117.4085570
+997,CRV Recycling Solutions,14168 Hwy 395,Adelanto,92301,06071,(833) 970-1010,"14168 Hwy 395 Adelanto, CA 92301",34.5078443,-117.4015810
+998,D Street Recycling Inc,16444 D St,Victorville,92394,06071,(760) 243-0624,"16444 D St Victorville, CA 92394",34.5434234,-117.2996648
+999,Echo Recycling,32946 State Hwy 18,Lucerne Valley,92356,06071,(760) 220-4232,"32946 State Hwy 18 Lucerne Valley, CA 92356",34.4406478,-116.9447612
+1000,Everyday Recycling,14738 La Paz Dr,Victorville,92395,06071,(626) 290-0895,"14738 La Paz Dr Victorville, CA 92395",34.5194204,-117.3145433
+1001,Everyday Recycling,16266 Bear Valley Rd,Victorville,92392,06071,(626) 290-0895,"16266 Bear Valley Rd Victorville, CA 92392",34.4712399,-117.3083617
+1002,G & S Recycling,534 E Main St,Barstow,92311,06071,(760) 577-9925,"534 E Main St Barstow, CA 92311",34.8981895,-117.0213795
+1003,Go Green Recycling,22233 Powhatan Rd,Apple Valley,92308,06071,(760) 680-5412,"22233 Powhatan Rd Apple Valley, CA 92308",34.4965964,-117.1786352
+1004,Go Green Recycling,20410 Us Highway 18,Apple Valley,92307,06071,(760) 680-5412,"20410 Us Highway 18 Apple Valley, CA 92307",34.5219718,-117.2148343
+1005,Go Green Recycling #2,11098 I Avenue Ste B,Hesperia,92304,06071,(760) 867-6281,"11098 I Avenue Ste B Hesperia, CA 92304",34.4526256,-117.2777382
+1006,Go Green Recycling #3,15555 Main St,Hesperia,92345-3466,06071,(760) 680-5412,"15555 Main St Hesperia, CA 92345-3466",34.4232443,-117.3246375
+1007,Industrial Fabricators & Scrap,12150 Mojave St,Hesperia,92344,06071,(760) 949-5902,"12150 Mojave St Hesperia, CA 92344",34.4414822,-117.3683017
+1008,Ironlife Inc,1375 W Rialto Ave,San Bernardino,92410,06071,(909) 888-2400,"1375 W Rialto Ave San Bernardino, CA 92410",34.1003445,-117.3163417
+1009,J & R Recycling,9642 Hesperia Rd,Hesperia,92345,06071,(760) 880-9314,"9642 Hesperia Rd Hesperia, CA 92345",34.4262596,-117.3014715
+1010,Krush Recycling Center,15515 Bear Valley Rd,Hesperia,92345-1761,06071,(760) 524-5646,"15515 Bear Valley Rd Hesperia, CA 92345-1761",34.4701446,-117.3247753
+1011,M & C Recycling Center Inc,12353 Mariposa Road,Victorville,92395,06071,(626) 820-2240,"12353 Mariposa Road Victorville, CA 92395",34.4755779,-117.3396868
+1012,M & M Recycling,14518 Main St,Hesperia,92345,06071,(760) 867-6281,"14518 Main St Hesperia, CA 92345",34.4272579,-117.3459933
+1013,McCoy Recycling Inc,8975 Rochester Ave,Rancho Cucamonga,91730,06071,(909) 980-6272,"8975 Rochester Ave Rancho Cucamonga, CA 91730",34.0907026,-117.5453889
+1014,Mega Recycling Inc,8416 Sultana Ave,Fontana,92335,06071,(909) 356-0591,"8416 Sultana Ave Fontana, CA 92335",34.1008777,-117.4695200
+1015,Metal Recovery Recycling Center,21852 Bear Valley Rd,Apple Valley,92308,06071,(760) 524-3383,"21852 Bear Valley Rd Apple Valley, CA 92308",34.4724098,-117.1867872
+1016,Millenia Asset Management Inc,17384 Mesa St,Hesperia,92345,06071,(909) 240-6183,"17384 Mesa St Hesperia, CA 92345",34.4496979,-117.2842101
+1017,Millenia Recycling,19131 Bear Valley Rd,Apple Valley,92308,06071,(909) 240-6183,"19131 Bear Valley Rd Apple Valley, CA 92308",34.4677420,-117.2450326
+1018,Mt Communities Recycle Center,24089 Lake Gregory Dr,Crestline,92325,06071,(909) 338-7251,"24089 Lake Gregory Dr Crestline, CA 92325",34.2432458,-117.2775855
+1019,Muscoy Recycle Center,1996 W Highland Ave,San Bernardino,92407,06071,(909) 815-7416,"1996 W Highland Ave San Bernardino, CA 92407",34.1365087,-117.3349079
+1020,Next Cycle Recycling Inc,8675 Baseline Rd,Rancho Cucamonga,91730,06071,(909) 919-9194,"8675 Baseline Rd Rancho Cucamonga, CA 91730",34.1202082,-117.6169748
+1021,Palmdale Recycling,13997 Palmdale Rd,Victorville,92392,06071,(323) 770-5847,"13997 Palmdale Rd Victorville, CA 92392",34.5064304,-117.3578718
+1022,Phelan Recycling,4686 Phelan Rd,Phelan,92371,06071,(909) 276-0044,"4686 Phelan Rd Phelan, CA 92371",34.4267391,-117.5597481
+1023,Pros Recycling,4593 Bullion Ave,Twentynine Palms,92277,06071,(760) 628-6719,"4593 Bullion Ave Twentynine Palms, CA 92277",34.1699780,-116.0626822
+1024,R & J Recycle,150662 Del Rey Dr,Big River,92242,06071,(928) 216-0502,"150662 Del Rey Dr Big River, CA 92242",34.1276500,-114.3653010
+1025,Recycling #2,11358 Kenyon Wy,Rancho Cucamonga,91701,06071,(818) 726-8141,"11358 Kenyon Wy Rancho Cucamonga, CA 91701",34.1355951,-117.5571974
+1026,Reuse Recycling,17390 Main St,Hesperia,92345,06071,(323) 605-6580,"17390 Main St Hesperia, CA 92345",34.4206468,-117.2840527
+1027,Robertos Recycling,25496 Base Line St,San Bernardino,92346,06071,(562) 415-3569,"25496 Base Line St San Bernardino, CA 92346",34.1212710,-117.2258420
+1028,SA Recycling,15615 Arrow Hwy,Fontana,92335,06071,(909) 823-3431,"15615 Arrow Hwy Fontana, CA 92335",34.1079804,-117.9402822
+1029,San Bernardino Recycling,1620 W Baseline St,San Bernardino,92411,06071,(909) 885-6130,"1620 W Baseline St San Bernardino, CA 92411",34.1217222,-117.3235886
+1030,Simon Golden Mountains Group Inc,8335 Beech Ave,Fontana,92335,06071,(909) 357-1996,"8335 Beech Ave Fontana, CA 92335",34.1022834,-117.4707398
+1031,Sunset Recycling Center,16505 Sierra Lakes Pkwy,Fontana,92336,06071,(818) 661-7387,"16505 Sierra Lakes Pkwy Fontana, CA 92336",34.1370997,-117.4410704
+1032,Sunset Recycling Center,1470 E Highland Ave,San Bernardino,92404,06071,(818) 661-7387,"1470 E Highland Ave San Bernardino, CA 92404",34.1362106,-117.2551668
+1033,Sunset Recycling Center,151 W Baseline Rd,Rialto,92376,06071,(818) 661-7387,"151 W Baseline Rd Rialto, CA 92376",34.1199357,-117.3713792
+1034,Sunset Recycling Center,7369 Milliken Ave,Rancho Cucamonga,91730,06071,(818) 661-7387,"7369 Milliken Ave Rancho Cucamonga, CA 91730",34.1198966,-117.5570139
+1035,Sunset Recycling Center,26529 Highland Ave,Highland,92346,06071,(818) 661-7387,"26529 Highland Ave Highland, CA 92346",34.1342302,-117.2257704
+1036,Vard Recycling,11424 Chamberlaine Way,Adelanto,92301,06071,(323) 354-6125,"11424 Chamberlaine Way Adelanto, CA 92301",34.5873571,-117.4159018
+1037,Vard Recycling,1340 State Highway 2,Wrightwood,92397,06071,(323) 354-6125,"1340 State Highway 2 Wrightwood, CA 92397",34.3610210,-117.6319786
+1038,Vard Recycling,4371 Phelan Rd,Phelan,92371,06071,(323) 354-6125,"4371 Phelan Rd Phelan, CA 92371",34.4255866,-117.5665180
+1039,Venture Recycling Group,7308 Hopi Trl,Yucca Valley,92284,06071,(310) 325-4049,"7308 Hopi Trl Yucca Valley, CA 92284",34.1203215,-116.4519759
+1040,Victor Valley Materials Recovery Facility,17000 Abbey Ln,Victorville,92392,06071,(760) 241-1284,"17000 Abbey Ln Victorville, CA 92392",34.5616919,-117.2958280
+1041,Villalobos Recycling,15075 Vista Rd,Helendale,92342,06071,(626) 502-4512,"15075 Vista Rd Helendale, CA 92342",34.7441794,-117.3352525
+1042,West Valley MRF,13373 Napa St,Fontana,92335,06071,(909) 899-5501,"13373 Napa St Fontana, CA 92335",34.0889293,-117.5119946
+1043,AB Recycling,3055 Fairmont Ave,San Diego,92105,06073,(619) 281-6092,"3055 Fairmont Ave San Diego, CA 92105",32.7379674,-117.1007842
+1044,AIM Recycling Oceanside,1030 Airport Rd,Oceanside,92054,06073,(760) 722-1917,"1030 Airport Rd Oceanside, CA 92054",33.2158949,-117.3649551
+1045,Allan Co,6733 Consolidated Way,San Diego,92121,06073,(858) 578-9300,"6733 Consolidated Way San Diego, CA 92121",32.8757577,-117.1698111
+1046,Allan Co,5165 Convoy St,San Diego,92111,06073,(619) 573-1420,"5165 Convoy St San Diego, CA 92111",32.8402808,-117.1509325
+1047,American Recycling,4070 Home Ave,San Diego,92105,06073,(619) 266-8456,"4070 Home Ave San Diego, CA 92105",32.7225864,-117.1088034
+1048,American Recycling LLC,210 El Cajon Blvd,El Cajon,92020,06073,(619) 593-0089,"210 El Cajon Blvd El Cajon, CA 92020",32.7940348,-116.9689778
+1049,CMS Recycling Inc,1428 Mission Rd,Escondido,92029,06073,(760) 741-6300,"1428 Mission Rd Escondido, CA 92029",33.1348333,-117.1286130
+1050,EDCO Buyback Center,224 S Las Posas Rd,San Marcos,92078,06073,(760) 744-2700,"224 S Las Posas Rd San Marcos, CA 92078",33.1408270,-117.1931026
+1051,EDCO Recycling,6700 Federal Blvd,Lemon Grove,91945,06073,(619) 287-5696,"6700 Federal Blvd Lemon Grove, CA 91945",32.7374133,-117.0547740
+1052,EDCO Station Buyback Center,8184 Commercial St,La Mesa,91942,06073,(619) 466-3355,"8184 Commercial St La Mesa, CA 91942",32.7738495,-117.0214833
+1053,Fallbrook Recycling Center,550 W Aviation Rd,Fallbrook,92028,06073,(760) 728-6114,"550 W Aviation Rd Fallbrook, CA 92028",33.3734139,-117.2565852
+1054,Friendly Recycling,8721 Troy St,Spring Valley,91977,06073,(619) 303-0515,"8721 Troy St Spring Valley, CA 91977",32.7360193,-117.0116157
+1055,Green Go Recycling,130 S Hale Ave,Escondido,92029,06073,(760) 484-1099,"130 S Hale Ave Escondido, CA 92029",33.1154587,-117.1032534
+1056,Greenfield Recycling Inc,1235 Greenfield Dr,El Cajon,92021,06073,(619) 441-0399,"1235 Greenfield Dr El Cajon, CA 92021",32.8128896,-116.9386264
+1057,Harvest Farm Recycling,28960 Lilac Rd Ste G,Valley Center,92082,06073,(760) 749-9159,"28960 Lilac Rd Ste G Valley Center, CA 92082",33.2365373,-117.0528638
+1058,J & S Recycling,3560 Ashford St,San Diego,92111,06073,(619) 415-2691,"3560 Ashford St San Diego, CA 92111",32.8087614,-117.1607576
+1059,Jamie Prince Recycling Services,6386 Del Cerro Blvd,San Diego,92120,06073,(619) 309-7292,"6386 Del Cerro Blvd San Diego, CA 92120",32.7838556,-117.0596406
+1060,Mikes Recycling Inc,3151 Main St,Chula Vista,91911,06073,(619) 254-5003,"3151 Main St Chula Vista, CA 91911",32.5942466,-117.0655577
+1061,Mojica Recycle,2826 Commercial St,San Diego,92113,06073,(619) 906-9129,"2826 Commercial St San Diego, CA 92113",32.7056510,-117.1333230
+1062,Pala Transfer Station & Recycling Center,12802 Highway 76,Pala,92059,06073,(760) 742-1781,"12802 Highway 76 Pala, CA 92059",33.3627346,-117.0608191
+1063,Palomar Buy-Back/Drop-Off Center,5960 El Camino Real,Carlsbad,92008,06073,(760) 603-0153,"5960 El Camino Real Carlsbad, CA 92008",33.1350622,-117.2675076
+1064,Picador Recycling Center,1270 Picador Blvd,San Diego,92154,06073,(619) 454-4324,"1270 Picador Blvd San Diego, CA 92154",32.5744365,-117.0551904
+1065,Plaza Alta Recycling,9246 Jamacha Rd,Spring Valley,91977,06073,(619) 741-3424,"9246 Jamacha Rd Spring Valley, CA 91977",32.7150084,-117.0002995
+1066,Ponce Recycling,1150 E Vista Way,Vista,92084,06073,(323) 533-4862,"1150 E Vista Way Vista, CA 92084",33.2165335,-117.2289375
+1067,Ponce Recycling,2040 E Valley Pkwy,Escondido,92027,06073,(619) 587-9876,"2040 E Valley Pkwy Escondido, CA 92027",33.1387349,-117.0510050
+1068,Ponce Recycling,3011 Alta View Dr,San Diego,92139,06073,(619) 587-9876,"3011 Alta View Dr San Diego, CA 92139",32.6767647,-117.0383168
+1069,Ponce Recycling,780 Otay Lakes Rd,Chula Vista,91910,06073,(619) 587-9876,"780 Otay Lakes Rd Chula Vista, CA 91910",32.6448251,-117.0017059
+1070,Ponce Recycling,1320 E 30Th St,National City,91950,06073,(619) 587-9876,"1320 E 30Th St National City, CA 91950",32.6601819,-117.0869355
+1071,Ponce Recycling,312 Euclid Ave,San Diego,92114,06073,(619) 587-9876,"312 Euclid Ave San Diego, CA 92114",32.7081615,-117.0859357
+1072,Ponce Recycling,660 Palomar St,Chula Vista,91911,06073,(619) 587-9876,"660 Palomar St Chula Vista, CA 91911",32.6024763,-117.0828099
+1073,Ponce Recycling,2652 Jamacha Rd,El Cajon,92019,06073,(619) 587-9876,"2652 Jamacha Rd El Cajon, CA 92019",32.7451768,-116.9329713
+1074,Ponce Recycling,11875 Carmel Mountain Rd,San Diego,92128,06073,(619) 587-9876,"11875 Carmel Mountain Rd San Diego, CA 92128",32.9809638,-117.0755934
+1075,Ponce Recycling,7420 Broadway St,Lemon Grove,91945,06073,(619) 587-9876,"7420 Broadway St Lemon Grove, CA 91945",32.7440219,-117.0375763
+1076,Ponce Recycling,500 Hacienda Dr,Vista,92081,06073,(619) 587-9876,"500 Hacienda Dr Vista, CA 92081",33.1929150,-117.2508936
+1077,Ponce Recycling,3455 Del Mar Heights Rd,San Diego,92130,06073,(619) 587-9876,"3455 Del Mar Heights Rd San Diego, CA 92130",32.9533690,-117.2315610
+1078,Ponce Recycling,306 Twin Oaks Valley Rd,San Marcos,92078,06073,(619) 587-9876,"306 Twin Oaks Valley Rd San Marcos, CA 92078",33.1306541,-117.1670069
+1079,Quality Recycling,149 Nettleton Rd,Vista,92083,06073,(760) 724-3623,"149 Nettleton Rd Vista, CA 92083",33.1883978,-117.2818943
+1080,Quality Recycling Inc,13863 Poway Rd,Poway,92064,06073,(858) 668-1780,"13863 Poway Rd Poway, CA 92064",32.9560004,-117.0307078
+1081,Quality Recycling Inc,10197 Riverford Rd Ste A,Lakeside,92040,06073,(619) 596-2267,"10197 Riverford Rd Ste A Lakeside, CA 92040",32.8613628,-116.9466216
+1082,Quality Recycling Inc,10027 Vine St,Lakeside,92040,06073,(619) 938-9694,"10027 Vine St Lakeside, CA 92040",32.8610121,-116.9208007
+1083,Quiroz Recycling,8514 Mast Blvd,Santee,92071,06073,(619) 851-7835,"8514 Mast Blvd Santee, CA 92071",32.8649998,-117.0279426
+1084,Ramona Recycling,324 Maple St,Ramona,92065,06073,(760) 789-0516,"324 Maple St Ramona, CA 92065",33.0447285,-116.8758866
+1085,Recycling On Earth,1230 Olive St,Ramona,92065,06073,(760) 789-9430,"1230 Olive St Ramona, CA 92065",33.0472640,-116.8785247
+1086,RS Recycling Inc/King Recycling,7907 Cajon Rd,El Cajon,92021,06073,(619) 922-7047,"7907 Cajon Rd El Cajon, CA 92021",32.8212205,-116.9332103
+1087,San Diego CRV Buyback Center,7702 Paradise Valley Rd,San Diego,92139,06073,(619) 479-2267,"7702 Paradise Valley Rd San Diego, CA 92139",32.6958687,-117.0294666
+1088,San Diego CRV Center,857 32Nd St,San Diego,92102,06073,(619) 501-3008,"857 32Nd St San Diego, CA 92102",32.7144627,-117.1250634
+1089,SD Recycling Depot,2351 Ulric St,San Diego,92111,06073,(619) 832-3848,"2351 Ulric St San Diego, CA 92111",32.7864461,-117.1692354
+1090,SDC Recycling,3974 Spring Dr,Spring Valley,91977,06073,(619) 741-9780,"3974 Spring Dr Spring Valley, CA 91977",32.7511502,-117.0025458
+1091,SDR Company Inc,2919 Coronado Ave,San Diego,92154,06073,(619) 422-1366,"2919 Coronado Ave San Diego, CA 92154",32.5763773,-117.0705132
+1092,Skyline Recycling Co,538 N Quince St,Escondido,92025,06073,(760) 741-5236,"538 N Quince St Escondido, CA 92025",33.1237402,-117.0910048
+1093,South Bay Recycling,2560 Main St Ste B,Chula Vista,91911-4665,06073,(619) 591-9998,"2560 Main St Ste B Chula Vista, CA 91911-4665",32.5962128,-117.0778223
+1094,Spring Valley Environmental Services Inc,8743 Troy St,Spring Valley,91977,06073,(619) 246-9674,"8743 Troy St Spring Valley, CA 91977",32.7364350,-117.0112995
+1095,Spring Valley Recycling,1069 Elkelton Blvd Ste B,Spring Valley,91977,06073,(619) 461-0619,"1069 Elkelton Blvd Ste B Spring Valley, CA 91977",32.7140325,-117.0169985
+1096,Time Recycling Center,412 Cesar E Chavez Blvd,San Diego,92113,06073,(619) 235-8182,"412 Cesar E Chavez Blvd San Diego, CA 92113",32.7050735,-117.1411701
+1097,TMetals,2675 Faivre St,Chula Vista,91911,06073,(619) 559-4605,"2675 Faivre St Chula Vista, CA 91911",32.5927539,-117.0763812
+1098,Wojo Enterprises Inc dba Allied Recycling,1425 N Magnolia Ave,El Cajon,92020,06073,(619) 850-8625,"1425 N Magnolia Ave El Cajon, CA 92020",32.8165761,-116.9616222
+1099,BottleBank,511 Buckingham Way,San Francisco,94132,06075,(833) 732-6885,"511 Buckingham Way San Francisco, CA 94132",37.7300628,-122.4788411
+1100,Bottlebank,735 7th Ave,San Francisco,94118,06075,(833) 732-6885,"735 7th Ave San Francisco, CA 94118",37.7745526,-122.4653886
+1101,Bottlebank,2350 Noriega St.,San Francisco,94122,06075,(833) 732-6885,"2350 Noriega St. San Francisco, CA 94122",37.7542109,-122.4886485
+1102,Bottlebank,15 Marina Blvd.,San Francisco,94123,06075,(833) 732-6885,"15 Marina Blvd. San Francisco, CA 94123",37.8043948,-122.4328779
+1103,Bottlebank,690 Stanyan St.,San Francisco,94117,06075,(833) 732-6885,"690 Stanyan St. San Francisco, CA 94117",37.7696380,-122.4528278
+1104,Bottlebank,625 Monterey Blvd.,San Francisco,94127,06075,(833) 732-6885,"625 Monterey Blvd. San Francisco, CA 94127",37.7312905,-122.4501739
+1105,Bottlebank,1200 Irving St.,San Francisco,94122,06075,(833) 732-6885,"1200 Irving St. San Francisco, CA 94122",37.7641418,-122.4711730
+1106,Bottlebank,850 La Playa St.,San Francisco,94121,06075,(833) 732-6885,"850 La Playa St. San Francisco, CA 94121",37.7725837,-122.5094277
+1107,Bottlebank,1335 Webster St.,San Francisco,94115,06075,(833) 732-6885,"1335 Webster St. San Francisco, CA 94115",37.7827604,-122.4314995
+1108,Bottlebank,375 32nd Ave.,San Francisco,94121,06075,(833) 732-6885,"375 32nd Ave. San Francisco, CA 94121",37.7821992,-122.4927823
+1109,Bottlebank,730 Taraval St,San Francisco,94116,06075,(833) 732-6885,"730 Taraval St San Francisco, CA 94116",37.7434468,-122.4740564
+1110,Bottlebank,4950 Mission St,San Francisco,94112,06075,(833) 732-6885,"4950 Mission St San Francisco, CA 94112",37.7199904,-122.4389118
+1111,Bottlebank,25 Point Lobos,San Francisco,94121,06075,(833) 732-6885,"25 Point Lobos San Francisco, CA 94121",37.7794439,-122.5035812
+1112,Bottlebank,6333 Geary Blvd.,San Francisco,94121,06075,(833) 732-6885,"6333 Geary Blvd. San Francisco, CA 94121",37.7796459,-122.4874986
+1113,Bottlebank,5290 Diamond Heights Blvd.,San Francisco,94131,06075,(833) 732-6885,"5290 Diamond Heights Blvd. San Francisco, CA 94131",37.7435860,-122.4390740
+1114,J&D Recycling LLC,99 Southgate Ave,Daly City,94015,06081,(650) 685-1901,"99 Southgate Ave Daly City, CA 94015",37.6974950,-122.4822812
+1115,Alejandra's Recycling Center,1424 Coffee Rd,Modesto,95355,06099,(209) 996-5997,"1424 Coffee Rd Modesto, CA 95355",37.6641407,-120.9753420
+1116,Clarissa's Recycling,3800 Mchenry Ave,Modesto,95356,06099,(209) 496-0515,"3800 Mchenry Ave Modesto, CA 95356",37.6934543,-120.9940960
+1117,Clarissa's Recycling,1022 Frontage Rd,Ripon,95366,06077,(209) 566-4174,"1022 Frontage Rd Ripon, CA 95366",37.7519563,-121.1387877
+1118,Clarissa's Recycling,2207 Scenic Dr,Modesto,95355,06099,(209) 496-0515,"2207 Scenic Dr Modesto, CA 95355",37.6535419,-120.9566861
+1119,Diaz Recycling,2509 A West Ln,Stockton,95205,06077,(209) 336-2543,"2509 A West Ln Stockton, CA 95205",37.9785802,-121.2823512
+1120,Diaz Recycling,1049 W Yosemite Ave,Manteca,95337,06077,(209) 502-5729,"1049 W Yosemite Ave Manteca, CA 95337",37.7983230,-121.2310930
+1121,Diaz Recycling,2517 E Fremont St,Stockton,95205,06077,(209) 502-5729,"2517 E Fremont St Stockton, CA 95205",37.9660232,-121.2557647
+1122,Diaz Recycling,5121 Holiday Dr,Stockton,95207,06077,(209) 321-5476,"5121 Holiday Dr Stockton, CA 95207",38.0011422,-121.2974814
+1123,Diaz Recycling,6011 N El Dorado St,Stockton,95207,06077,(209) 502-5729,"6011 N El Dorado St Stockton, CA 95207",38.0074499,-121.3089898
+1124,Go Green Recycling Inc,45 W Grantline Rd,Tracy,95376,06077,(209) 879-9025,"45 W Grantline Rd Tracy, CA 95376",37.7544363,-121.4263855
+1125,Go Green Recycling Inc,2214 Robindale Ave,Stockton,95205,06077,(209) 462-8473,"2214 Robindale Ave Stockton, CA 95205",37.9828667,-121.2703308
+1126,Go Green Recycling Inc,2066 W Yosemite Ave,Manteca,95337,06077,(209) 665-4030,"2066 W Yosemite Ave Manteca, CA 95337",37.7965735,-121.2513385
+1127,Go Green Recycling Salida,4931 Salida Blvd Unit A,Salida,95368,06099,(925) 998-6612,"4931 Salida Blvd Unit A Salida, CA 95368",37.7095060,-121.0852100
+1128,Granda's Recycling,2101 W Rumble Rd,Modesto,95350,06099,(312) 388-0892,"2101 W Rumble Rd Modesto, CA 95350",37.6820937,-121.0317472
+1129,Granda's Recycling,1393 E Yosemite Ave,Manteca,95336,06077,(312) 388-0892,"1393 E Yosemite Ave Manteca, CA 95336",37.7989102,-121.1937437
+1130,Granda's Recycling,890 N Main St,Manteca,95336,06077,(209) 239-4550,"890 N Main St Manteca, CA 95336",37.8098504,-121.2164511
+1131,Granda's Recycling,1769 E Mariposa Rd,Stockton,95205,06077,(312) 388-0892,"1769 E Mariposa Rd Stockton, CA 95205",37.9417366,-121.2501354
+1132,Green World Recycling,3460 Oakdale Rd,Modesto,95355,06099,(209) 566-4174,"3460 Oakdale Rd Modesto, CA 95355",37.6885851,-120.9576414
+1133,H and B Recycling,521 S Stanislaus St,Stockton,95203,06077,(209) 933-9268,"521 S Stanislaus St Stockton, CA 95203",37.9487339,-121.2807197
+1134,Jesus Recycling Corp,1810 H St,Modesto,95354,06099,(209) 416-8652,"1810 H St Modesto, CA 95354",37.6442117,-120.9896373
+1135,Jose Recycling,3801 Yosemite Blvd,Modesto,95357,06099,(209) 872-8431,"3801 Yosemite Blvd Modesto, CA 95357",37.6393616,-120.9247934
+1136,Modesto Go Green Recycling,2413 Yosemite Blvd,Modesto,95354,06099,(209) 578-5857,"2413 Yosemite Blvd Modesto, CA 95354",37.6385700,-120.9520396
+1137,Riverbank Recycling,2780 C Patterson Rd,Riverbank,95367,06099,(209) 863-8641,"2780 C Patterson Rd Riverbank, CA 95367",37.7320139,-120.9456721
+1138,S & D Recycling,1149 Kansas Ave,Modesto,95351,06099,(209) 572-0942,"1149 Kansas Ave Modesto, CA 95351",37.6462084,-121.0247077
+1139,Stockton Recycling Center,1533 Waterloo Rd,Stockton,95205,06077,(209) 942-2267,"1533 Waterloo Rd Stockton, CA 95205",37.9732705,-121.2685823
+1140,Universal Recycling Service Inc,3200 S El Dorado St,Stockton,95206,06077,(209) 944-9555,"3200 S El Dorado St Stockton, CA 95206",37.9185820,-121.2765220
+1141,A-1 Metals & Auto Salvage Inc,5795 Stockdale Rd,Paso Robles,93446,06079,(805) 238-3545,"5795 Stockdale Rd Paso Robles, CA 93446",35.6854552,-120.6981688
+1142,AGS Recycling Inc,770 Guadalupe St,Guadalupe,93434,06083,(805) 598-6285,"770 Guadalupe St Guadalupe, CA 93434",34.9677722,-120.5736432
+1143,AGS Recycling Inc,564 Mesa View Dr,Arroyo Grande,93420,06079,(805) 598-6285,"564 Mesa View Dr Arroyo Grande, CA 93420",35.0814938,-120.5863182
+1144,AGS Recycling Inc,2650 Main St,Morro Bay,93442,06079,(805) 598-6285,"2650 Main St Morro Bay, CA 93442",35.3903681,-120.8577718
+1145,Bedford Enterprises Inc,1940 W Betteravia Rd,Santa Maria,93455,06083,(805) 922-4977,"1940 W Betteravia Rd Santa Maria, CA 93455",34.9204337,-120.4819784
+1146,Cambria Recycling Center,1275 Tamson Dr,Cambria,93428,06079,(805) 550-5489,"1275 Tamson Dr Cambria, CA 93428",35.5632026,-121.0916570
+1147,Recycle 101 Inc,1909 Front St,Oceano,93445,06079,(805) 363-1034,"1909 Front St Oceano, CA 93445",35.0989883,-120.6122479
+1148,Steve's Recycling,1130 Los Osos Valley Rd,Los Osos,93402,06079,(805) 801-1627,"1130 Los Osos Valley Rd Los Osos, CA 93402",35.3118307,-120.8300639
+1149,Blue Line Transfer Inc,500 E Jamie Ct,South San Francisco,94080,06081,(650) 589-4020,"500 E Jamie Ct South San Francisco, CA 94080",37.6492869,-122.3825882
+1150,J&D Recycling LLC,60 Cabrillo Ave,Half Moon Bay,94019,06081,(650) 685-1901,"60 Cabrillo Ave Half Moon Bay, CA 94019",37.4691989,-122.4346852
+1151,ZARC International LLC,26 S Linden Ave,South San Francisco,94080,06081,(415) 215-8059,"26 S Linden Ave South San Francisco, CA 94080",37.6507426,-122.4122342
+1152,AGS Recycling Inc,3580 Orcutt Dr,Santa Maria,93455,06083,(805) 598-6285,"3580 Orcutt Dr Santa Maria, CA 93455",34.8953014,-120.4358412
+1153,Antonio Martinez Manzano,1203 E Main St,Santa Paula,93060,06111,(805) 317-3319,"1203 E Main St Santa Paula, CA 93060",34.3555878,-119.0556735
+1154,California Recycling Services,4220 Saviers Rd,Oxnard,93033,06111,(805) 987-2546,"4220 Saviers Rd Oxnard, CA 93033",34.1615419,-119.1769276
+1155,Del Norte Regional Recycling and Transfer Station,111 S Del Norte Blvd,Oxnard,93030,06111,(805) 385-8071,"111 S Del Norte Blvd Oxnard, CA 93030",34.2007033,-119.1284368
+1156,Drive In Recycling,2126 1/2 N H St,Lompoc,93436,06083,(805) 736-8812,"2126 1/2 N H St Lompoc, CA 93436",34.6723937,-120.4552845
+1157,Ed Recycling,534 Baldwin Rd,Ojai,93023,06111,(805) 796-0508,"534 Baldwin Rd Ojai, CA 93023",34.4255746,-119.2978021
+1158,Ed Recycling,445 N Ventura Ave,Oak View,93022,06111,(805) 796-0508,"445 N Ventura Ave Oak View, CA 93022",34.3934985,-119.3014909
+1159,El Rancho Market Recycling,2886 Mission Dr,Solvang,93463,06083,(805) 736-8812,"2886 Mission Dr Solvang, CA 93463",34.6062471,-120.1016567
+1160,Gold Coast Recycling & Transfer Station Inc,5275 Colt St,Ventura,93003,06111,(805) 642-9236,"5275 Colt St Ventura, CA 93003",34.2505227,-119.2192753
+1161,Goleta Drop Off Center,20 David Love Pl,Goleta,93117,06083,(805) 963-1852,"20 David Love Pl Goleta, CA 93117",34.4373480,-119.8388134
+1162,H Street Recycling,928 N H St,Lompoc,93436-4149,06083,(805) 736-8812,"928 N H St Lompoc, CA 93436-4149",34.6526866,-120.4566908
+1163,Manzano Recycling Center,1250 E Harvard Blvd,Santa Paula,93060-3725,06111,(805) 317-3319,"1250 E Harvard Blvd Santa Paula, CA 93060-3725",34.3527203,-119.0530184
+1164,Oxnard Recycling,4833 S Rose Ave,Oxnard,93033,06111,(888) 339-3362,"4833 S Rose Ave Oxnard, CA 93033",34.1563593,-119.1607787
+1165,Oxnard Recycling,1111 E Channel Islands Blvd,Oxnard,93033,06111,(888) 339-3362,"1111 E Channel Islands Blvd Oxnard, CA 93033",34.1740340,-119.1650810
+1166,Ponce Recycling,250 W Esplanade Dr,Oxnard,91335,06111,(818) 531-5654,"250 W Esplanade Dr Oxnard, CA 91335",34.2322996,-119.1773352
+1167,Ponce Recycling,1776 Victoria Ave,Ventura,93003,06111,(818) 531-5654,"1776 Victoria Ave Ventura, CA 93003",34.2579656,-119.2089378
+1168,Ponce Recycling,1018 Casitas Pass Rd,Carpinteria,93013,06083,(323) 533-4862,"1018 Casitas Pass Rd Carpinteria, CA 93013",34.3948084,-119.5119491
+1169,Rhino Recycling,2401 N Rose Ave,Oxnard,93036,06111,(805) 857-9412,"2401 N Rose Ave Oxnard, CA 93036",34.2240599,-119.1606207
+1170,SA Recycling,521 N Rice Ave,Oxnard,93030,06111,(805) 973-1448,"521 N Rice Ave Oxnard, CA 93030",34.2074445,-119.1425518
+1171,SA Recycling,1441 Mountain View,Oxnard,93030,06111,(800) 468-7272,"1441 Mountain View Oxnard, CA 93030",34.1937045,-119.1630822
+1172,Santa Barbara Buy Back Center,725 Cacique St,Santa Barbara,93103,06083,(805) 963-1852,"725 Cacique St Santa Barbara, CA 93103",34.4184328,-119.6779800
+1173,Santa Barbara Iron & Metal Recyclers,709 E Gutierrez St,Santa Barbara,93103,06083,(805) 966-4468,"709 E Gutierrez St Santa Barbara, CA 93103",34.4236174,-119.6862092
+1174,Santa Paula Recycling,17905 E Telegraph Rd,Santa Paula,93060,06111,(805) 933-4400,"17905 E Telegraph Rd Santa Paula, CA 93060",34.3586284,-119.0500418
+1175,Save Earth Recycling Center,3380 E Vineyard Ave,Oxnard,93036,06111,(805) 300-8758,"3380 E Vineyard Ave Oxnard, CA 93036",34.2433538,-119.1637263
+1176,Standard Industries,1905 Lirio Ave,Ventura,93004,06111,(805) 643-6669,"1905 Lirio Ave Ventura, CA 93004",34.2766464,-119.1450496
+1177,Union Recycling,985 N Olive St,Ventura,93001,06111,(805) 413-6656,"985 N Olive St Ventura, CA 93001",34.2929740,-119.3008970
+1178,Ada's Recycling,1426 Freedom Blvd,Watsonville,95076,06087,(831) 240-9056,"1426 Freedom Blvd Watsonville, CA 95076",36.9265566,-121.7632908
+1179,Danny Recycling Center,1745 Walsh Ave,Santa Clara,95050,06085,(408) 492-9033,"1745 Walsh Ave Santa Clara, CA 95050",37.3702039,-121.9578875
+1180,Grey Bears,9835 Newell Creek Rd,Ben Lomond,95005,06087,(831) 479-1055,"9835 Newell Creek Rd Ben Lomond, CA 95005",37.0911550,-122.0794710
+1181,JADO Recycling,4650 Meridian Ave,San Jose,95124,06085,(855) 857-8020,"4650 Meridian Ave San Jose, CA 95124",37.2557580,-121.8981509
+1182,M Lopez Recycling Inc,4148 Monterey Rd,San Jose,95111,06085,(530) 450-5109,"4148 Monterey Rd San Jose, CA 95111",37.2778935,-121.8347625
+1183,Martin's Recycling,6310 Chestnut St,Gilroy,95020,06085,(408) 842-2565,"6310 Chestnut St Gilroy, CA 95020",36.9922773,-121.5581177
+1184,Mountain View Recycling Center,935 Terra Bella Ave,Mountain View,94043,06085,(650) 967-3034,"935 Terra Bella Ave Mountain View, CA 94043",37.4081230,-122.0714029
+1185,Olyns,150 E El Camino Real,Sunnyvale,94087,06085,(866) 472-6432,"150 E El Camino Real Sunnyvale, CA 94087",37.3644547,-122.0307870
+1186,Olyns,20620 Homestead Rd,Cupertino,95014,06085,(866) 472-6432,"20620 Homestead Rd Cupertino, CA 95014",37.3365859,-122.0348500
+1187,Olyns,555 E Calaveras Blvd,Milpitas,95035,06085,(866) 472-6432,"555 E Calaveras Blvd Milpitas, CA 95035",37.4351832,-121.8980193
+1188,Olyns,3970 Rivermark Plz,Santa Clara,95054,06085,(866) 472-6432,"3970 Rivermark Plz Santa Clara, CA 95054",37.3947253,-121.9475777
+1189,Olyns,1530 Hamilton Ave,San Jose,95125,06085,(866) 472-6432,"1530 Hamilton Ave San Jose, CA 95125",37.2931670,-121.9109534
+1190,Olyns,950 W Hamilton Ave,Campbell,95008,06085,(866) 472-6432,"950 W Hamilton Ave Campbell, CA 95008",37.2928872,-121.9666850
+1191,Olyns,6477 Almaden Expy,San Jose,95120,06085,(866) 472-6432,"6477 Almaden Expy San Jose, CA 95120",37.2195200,-121.8616148
+1192,Olyns,2327 Mckee Rd,San Jose,95116,06085,(866) 472-6432,"2327 Mckee Rd San Jose, CA 95116",37.3671910,-121.8503900
+1193,Olyns,1265 S Mary Ave,Sunnyvale,94087,06085,(866) 472-6432,"1265 S Mary Ave Sunnyvale, CA 94087",37.3533862,-122.0514724
+1194,Olyns,2065 El Camino Real,Santa Clara,95050,06085,(866) 472-6432,"2065 El Camino Real Santa Clara, CA 95050",37.3531106,-121.9610865
+1195,Olyns,2760 Homestead Rd,Santa Clara,95051,06085,(866) 472-6432,"2760 Homestead Rd Santa Clara, CA 95051",37.3380388,-121.9746602
+1196,Olyns,15549 Union Ave,Los Gatos,95032,06085,(866) 472-6432,"15549 Union Ave Los Gatos, CA 95032",37.2424233,-121.9326450
+1197,Olyns,5760 Cottle Rd,San Jose,95123,06085,(866) 472-6432,"5760 Cottle Rd San Jose, CA 95123",37.2464924,-121.8029630
+1198,Olyns Inc,1747 N 1St St,San Jose,95112,06085,(866) 472-6432,"1747 N 1St St San Jose, CA 95112",37.3703407,-121.9166377
+1199,Radius Recycling,11665 Berryessa Rd,San Jose,95133,06085,(408) 452-0777,"11665 Berryessa Rd San Jose, CA 95133",37.3673055,-121.8829176
+1200,Ranch Town Recycling Center,775 Lincoln Ave,San Jose,95126,06085,(408) 292-3333,"775 Lincoln Ave San Jose, CA 95126",37.3154755,-121.9071192
+1201,Recycletek,10309 Mary Avenue,Cupertino,95014,06085,(631) 807-3573,"10309 Mary Avenue Cupertino, CA 95014",37.3276169,-122.0507870
+1202,Recycletek,725 Kifer Road,Sunnyvale,94086,06085,(631) 807-3573,"725 Kifer Road Sunnyvale, CA 94086",37.3761313,-122.0152826
+1203,San Jose Metals Inc,1032 N 10Th St,San Jose,95112,06085,(408) 293-4032,"1032 N 10Th St San Jose, CA 95112",37.3610513,-121.8957934
+1204,Smart Station,301 Carl Rd,Sunnyvale,94089,06085,(408) 752-8530,"301 Carl Rd Sunnyvale, CA 94089",37.4190895,-122.0152049
+1205,Story Road Recycling LLC,1303 Story Rd,San Jose,95122,06085,(408) 806-3881,"1303 Story Rd San Jose, CA 95122",37.3347522,-121.8514241
+1206,Watsonville Metals Company Incorporated,213 Dias Ln,Watsonville,95076,06087,(831) 728-1551,"213 Dias Ln Watsonville, CA 95076",36.9617839,-121.7398724
+1207,Big Foot Recycling,2455 Hartnell Ave,Redding,96002,06089,(530) 222-0123,"2455 Hartnell Ave Redding, CA 96002",40.5630359,-122.3256312
+1208,Big Foot Recycling,6719 Eastside Rd,Anderson,96007,06089,(530) 515-2972,"6719 Eastside Rd Anderson, CA 96007",40.4823442,-122.3440992
+1209,Big Foot Recycling #16,2345 Balls Ferry Rd,Anderson,96007,06089,(530) 365-6458,"2345 Balls Ferry Rd Anderson, CA 96007",40.4505131,-122.2922755
+1210,Bigfoot Recycling #20,20645 Gas Point Rd,Cottonwood,96022,06089,(530) 365-6458,"20645 Gas Point Rd Cottonwood, CA 96022",40.3889489,-122.2872876
+1211,Northstate Recycling,2041 Girvan Rd,Redding,96001,06089,(530) 243-4780,"2041 Girvan Rd Redding, CA 96001",40.5125256,-122.3792700
+1212,Superior Avenue Steel and Supply Inc,37496 Main St,Burney,96013,06089,,"37496 Main St Burney, CA 96013",40.8911763,-121.6522623
+1213,Siskiyou Opportunity Center,1516 S Mt Shasta Blvd,Mount Shasta,96067,06093,(530) 926-4716,"1516 S Mt Shasta Blvd Mount Shasta, CA 96067",41.2993291,-122.3046311
+1214,Yreka Transfer Recycling,231 Ranch Ln,Yreka,96097,06093,(530) 842-7306,"231 Ranch Ln Yreka, CA 96097",41.7089499,-122.6458108
+1215,Recycling Zone Inc,4989B Peabody Rd,Fairfield,94533,06095,(707) 396-0078,"4989B Peabody Rd Fairfield, CA 94533",38.2884852,-121.9699845
+1216,Rodriguez Recycling,121 E Grant Ave,Winters,95694,06113,(530) 988-6244,"121 E Grant Ave Winters, CA 95694",38.5279929,-121.9658852
+1217,Solano Garbage Co,2901 Industrial Ct,Fairfield,94533,06095,(707) 437-8940,"2901 Industrial Ct Fairfield, CA 94533",38.2731644,-121.9627697
+1218,Vaca Recycling,1193 E Monte Vista Ave #B,Vacaville,95688,06095,(707) 301-5551,"1193 E Monte Vista Ave #B Vacaville, CA 95688",38.3610099,-121.9751597
+1219,Vacaville Sanitary Service Recycling Center,855 1/2 Davis St,Vacaville,95687,06095,(707) 448-2945,"855 1/2 Davis St Vacaville, CA 95687",38.3484239,-121.9852337
+1220,Brambila Recycling,370 Sebastopol Rd,Santa Rosa,95407,06097,(916) 643-5313,"370 Sebastopol Rd Santa Rosa, CA 95407",38.4304952,-122.7248652
+1221,N Leasing Company LLC,3911 Santa Rosa Ave,Santa Rosa,95407,06097,(707) 585-0511,"3911 Santa Rosa Ave Santa Rosa, CA 95407",38.3844763,-122.7152204
+1222,United Cerebral Palsy of the North Bay,485 Grove St,Healdsburg,95448,06097,(707) 431-3333,"485 Grove St Healdsburg, CA 95448",38.6130266,-122.8736213
+1223,United Cerebral Palsy of the North Bay,1000 Gravenstein Hwy N,Sebastopol,95472,06097,(707) 799-9566,"1000 Gravenstein Hwy N Sebastopol, CA 95472",38.4104565,-122.8416375
+1224,United Cerebral Palsy of the North Bay/PRC (Rohnert Park),6591 Commerce Blvd,Rohnert Park,94928,06097,(707) 766-9990,"6591 Commerce Blvd Rohnert Park, CA 94928",38.3462054,-122.7118519
+1225,United Cerebral Palsy of the North Bay/PRC (Windsor),25 Bluebird Dr,Windsor,95492,06097,(707) 766-9990x1014,"25 Bluebird Dr Windsor, CA 95492",38.5437132,-122.8027806
+1226,Level Up Recycling LLC,12166 Yosemite Blvd,Waterford,95386,06099,(209) 874-9751,"12166 Yosemite Blvd Waterford, CA 95386",37.6379055,-120.7673645
+1227,Rodriguez Recycling,338 N Yosemite Ave,Oakdale,95361,06099,(530) 988-6244,"338 N Yosemite Ave Oakdale, CA 95361",37.7695124,-120.8494829
+1228,Rodriguez Recycling,1362 E F St,Oakdale,95361,06099,(530) 988-6244,"1362 E F St Oakdale, CA 95361",37.7718565,-120.8349546
+1229,Americo Resources,1591 Franklin Rd,Yuba City,95593,06101,(925) 365-6688,"1591 Franklin Rd Yuba City, CA 95593",39.1277270,-121.6431025
+1230,Empire Steel,3094 N Township Rd,Yuba City,95993,06101,(530) 673-7180,"3094 N Township Rd Yuba City, CA 95993",39.1723399,-121.6922397
+1231,Feather River Recycle,5779 Feather River Blvd A,Olivehurst,95961,06115,(530) 743-1446,"5779 Feather River Blvd A Olivehurst, CA 95961",39.1203322,-121.5807067
+1232,Good Neighbor Recycling 1,1890 7Th Ave,Olivehurst,95901,06115,(805) 363-5931,"1890 7Th Ave Olivehurst, CA 95901",39.0949057,-121.5464758
+1233,Guido's Recycling LLC,10020 Live Oak Blvd,Live Oak,95953,06101,(530) 370-4541,"10020 Live Oak Blvd Live Oak, CA 95953",39.2764263,-121.6618869
+1234,J B Recycling,1499 Market St,Yuba City,95991,06101,(530) 315-1640,"1499 Market St Yuba City, CA 95991",39.1531184,-121.6164099
+1235,Lemire's Recycling,1415 N Beale Rd,Marysville,95901,06115,(530) 434-1017,"1415 N Beale Rd Marysville, CA 95901",39.1274400,-121.5639113
+1236,Recycling Industries Inc,140 Epley Dr,Yuba City,95991,06101,(530) 671-2215,"140 Epley Dr Yuba City, CA 95991",39.1113540,-121.6099468
+1237,Serrano Pallets and Recycling,5808 Lindhurst Ave,Marysville,95901,06115,(530) 923-3063,"5808 Lindhurst Ave Marysville, CA 95901",39.1203751,-121.5655201
+1238,Big Foot Recycling,725 S Main St,Red Bluff,96080,06103,(530) 365-6458,"725 S Main St Red Bluff, CA 96080",40.1631200,-122.2294036
+1239,Richfield Metal & Recycling,840 Lincoln Ave,Corning,96021,06103,(530) 988-3033,"840 Lincoln Ave Corning, CA 96021",39.9299890,-122.1907017
+1240,Richfield Metal & Recycling,1114 Yolo St,Corning,96021,06103,(530) 988-3033,"1114 Yolo St Corning, CA 96021",39.9291968,-122.1799708
+1241,S & L Recycling,7949 Hwy 99E,Los Molinos,96055,06103,(530) 567-5074,"7949 Hwy 99E Los Molinos, CA 96055",40.1284632,-122.1224233
+1242,RB Recycling,137-1/2 S State St,Earlimart,93219,06107,(559) 799-9513,"137-1/2 S State St Earlimart, CA 93219",35.8840050,-119.2712610
+1243,Camarillo Recycling Inc,849 Via Alondra,Camarillo,93012,06111,(805) 987-0226,"849 Via Alondra Camarillo, CA 93012",34.2266659,-119.0229887
+1244,Santa Rosa Recycling,5243 Mission Oaks Blvd,Camarillo,93012,06111,(805) 987-2986,"5243 Mission Oaks Blvd Camarillo, CA 93012",34.2289012,-118.9991742
