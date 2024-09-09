@@ -9,7 +9,7 @@ In this repository, you will find the following three items:
 2. Public Data:  
      a. Census Block Group Data in 2022  
      b. Location of Recycling Centers in California  
-     c. Water Area in California
+     c. Water Area in California  
      d. Population Plots: Zipped file of all plots
 
 
